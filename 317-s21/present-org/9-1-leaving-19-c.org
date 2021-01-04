@@ -1,0 +1,55 @@
+#+Title:Leaving the 19th century 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+#### Leaving the 19th c. behind ####
+
+##### Barth #####
+
+- rejection of cultural Christianity: Grace of Christ is supreme
+- everything reflects biases and cultural assumptions
+- attacked all human efforts to understand God
+
+
+##### Anti-semitism interlude? #####
+
+- "God on Trial"
+- Roots and implications
+- God on trial trailer 1:37 min <https://youtu.be/0W9uRPuo7hc>
+- complete: <https://youtu.be/tD7v9phroGM>
+- <https://youtu.be/5caAug5n8Zk>
+
+
+##### Bonhoeffer #####
+
+- Cheap Grace
+- Religionless Christianity
+- trailer to pbs documentary: 1:21 <https://youtu.be/Cd_gmkypPGk>
+- <http://www.pbs.md/bonhoeffer/>
+
+
+##### Bultmann & Existentialism #####
+
+- Search for historical truth is fruitless
+- There is no "human nature" to find
+- p. 257
+
+
+
+##### American response #####
+
+- Fundamentalism: Inerrancy
+- Niebuhr: Social realist
+
+

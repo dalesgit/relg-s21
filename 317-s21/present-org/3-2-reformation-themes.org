@@ -1,0 +1,62 @@
+#+Title:Reformation Themes 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+* Key themes of Reformation
+  :PROPERTIES:
+  :CUSTOM_ID: key-themes-of-reformation
+  :END:
+
+** Sola Fides
+   :PROPERTIES:
+   :CUSTOM_ID: sola-fides
+   :END:
+
+** Sola Gratia
+   :PROPERTIES:
+   :CUSTOM_ID: sola-gratia
+   :END:
+
+** Sola Scriptura
+   :PROPERTIES:
+   :CUSTOM_ID: sola-scriptura
+   :END:
+
+** Law vs. Gospel
+   :PROPERTIES:
+   :CUSTOM_ID: law-vs-gospel
+   :END:
+
+[[https://cdn.kastatic.org/ka-perseus-images/d9e7978a4b7fe756ac98a30c6f16b2331626d655.jpg]]
+
+* Authority
+  :PROPERTIES:
+  :CUSTOM_ID: authority
+  :END:
+
+* Free will and Predestination
+  :PROPERTIES:
+  :CUSTOM_ID: free-will-and-predestination
+  :END:
+
+* References:
+  :PROPERTIES:
+  :CUSTOM_ID: references
+  :END:
+
+- [[https://wp.cune.edu/twokingdoms2/files/2016/12/Key-Reformation-Themes-a-Summary.pdf]]
+- [[https://www.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/reformation-counter-reformation/a/cranach-law-and-gospel-law-and-grace#:~:text=The%20Law%20and%20the%20Gospel%20is%20the%20single%20most%20influential,to%20reform%20the%20Catholic%20Church.][Law
+  & Gospel]]
+- [[https://schoolworkhelper.net/key-changes-of-renaissance-and-reformation/]]
+
+

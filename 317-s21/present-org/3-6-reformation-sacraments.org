@@ -1,0 +1,37 @@
+#+Title: Reformation & Sacraments 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+#### Sacraments ####
+
+ 3 Competing Definitions
+
+##### Luther #####
+
+- Consubstantiation
+- by the power of God both Christ and bread and wine present
+
+##### Zwingli #####
+
+- (mere) symbol
+- Humanist focus on the human effects, language
+
+##### Sacrament is ... #####
+
+\"Outward and visible sign of an inward and invisible grace\"
+
+- one substance (Christ) with \"accidents\" (manifestations, \"outward appearance\") of bread and wine
+- But the power of God cannot be so determined and measured
+- In view of these passages we are compelled to confess that the words: \"This is my body,\" should not be understood naturally, but figuratively,
+- option: not to define the \"presence\"

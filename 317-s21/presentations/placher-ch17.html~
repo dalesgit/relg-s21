@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>20th century</title>
+<meta name="author" content="(Dale Hathaway)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./reveal.js/css/reveal.css"/>
+
+<link rel="stylesheet" href="./reveal.js/css/theme/beige.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<meta name="description" content="Org-Reveal">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1 class="title">20th century</h1><h2 class="author">Dale Hathaway</h2><h2 class="date">2018-04-10 Tue</h2><p class="date">Created: 2018-04-11 Wed 16:25</p>
+</section>
+<section id="table-of-contents">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-org954835f">Hope &amp; Eschatology</a></li>
+<li><a href="#/slide-org31d837c">Philosophy</a></li>
+<li><a href="#/slide-orge67fe20">Theology &amp; the Secular</a></li>
+<li><a href="#/slide-orgacf6ce1">Liberation Theology</a></li>
+<li><a href="#/slide-org8635a4e">World of many religions</a></li>
+</ul>
+</div>
+</div>
+</section>
+
+<section>
+<section id="slide-org954835f">
+<h2 id="org954835f">Hope &amp; Eschatology</h2>
+<ul>
+<li>reaction to Bultmann: viz. place of <b>Old Testament</b> for Christian theology</li>
+<li>Schweitzer &amp; others have shown the importance of <b>eschatology</b> for understanding New Testament</li>
+<li>Pannenberg: Christian theology must understand itself in the world we live in</li>
+<li>Dorothy Sölle: role of <b>suffering</b> in Theology</li>
+
+</ul>
+<aside class="notes">
+<p>
+Notes:
+</p>
+
+<p>
+OT use: p. 263/268.  One contra Bultmann, one MLK re. liberation
+</p>
+
+<p>
+Issue: use of OT in Christian theology
+</p>
+<ul>
+<li>pre-figuring NT</li>
+<li>superceded</li>
+<li>needing figurative interpretation</li>
+
+</ul>
+
+<p>
+Wolfhart Pannenberg (2 October 1928 – 4 September 2014) was a German theologian. He has made a number of significant contributions to modern theology, including his concept of <b>history as a form of revelation centered on the Resurrection of Christ</b>, which has been widely debated in both Protestant and Catholic theology, as well as by non-Christian thinkers.
+</p>
+
+<p>
+She wrote a large number of books, including <i>Theology for Skeptics: Reflections on God</i>, <i>The Silent Cry: Mysticism and Resistance</i> (2001) and her autobiography <i>Against the Wind: Memoir of a Radical Christian</i> (1999). In <i>Beyond Mere Obedience: Reflections on a Christian Ethic for the Future</i> she coined the term "Christofascist" to describe fundamentalists. Perhaps her best-known work in English was <i>Suffering</i>, which offers a critique of "Christian masochism" and "theological sadism". Sölle's <b>critique is against the assumption that God is all-powerful and the cause of suffering</b>; humans thus suffer for some greater purpose. Instead, God suffers and is powerless alongside us. Humans are to struggle together against oppression, sexism, anti-Semitism, and other forms of authoritarianism.
+</p>
+
+</aside>
+</section>
+</section>
+<section>
+<section id="slide-org31d837c">
+<h2 id="org31d837c">Philosophy</h2>
+<div class="outline-text-2" id="text-org31d837c">
+</div>
+</section>
+<section id="slide-org12b9b6b">
+<h3 id="org12b9b6b">Recent Philosophies</h3>
+<ul>
+<li>logical postivism</li>
+<li>Wittgenstein:</li>
+<li>Karl Jaspers: Psychology &#x2013; "Axial Age"</li>
+<li>n.b. important contribution of e.g.: Freud, Jung, William James, Adler, Fowler, others</li>
+<li>Ethics: e.g. situational ethics, moving away from principled / universal ethics</li>
+
+</ul>
+<aside class="notes">
+<p>
+Notes:
+Karl Theodor Jaspers (German: [ˈjaspɐs]; 23 February 1883 – 26 February 1969) was a German-Swiss psychiatrist and philosopher who had a strong influence on modern theology, psychiatry, and philosophy. After being trained in and practicing psychiatry, Jaspers turned to philosophical inquiry and attempted to discover an innovative philosophical system. He was often viewed as a major exponent of existentialism in Germany, though he did not accept the label.
+</p>
+
+<hr />
+
+<p>
+Tractatus Logico-Philosophicus Quotes (showing 1-30 of 63)
+“Whereof one cannot speak, thereof one must be silent.”
+― Ludwig Wittgenstein, Tractatus Logico-Philosophicus
+tags: philosophy, taoism
+</p>
+
+<p>
+“Death is not an event in life: we do not live to experience death. If we take eternity to mean not infinite temporal duration but timelessness, then eternal life belongs to those who live in the present. Our life has no end in the way in which our visual field has no limits.”
+― Ludwig Wittgenstein, Tractatus Logico-Philosophicus
+</p>
+
+<p>
+We feel that even if all possible scientific questions be answered, the problems of life have still not been touched at all.”
+― Ludwig Wittgenstein, Tractatus Logico-Philosophicus
+tags: life, philosophy, science
+</p>
+
+<p>
+For an answer which cannot be expressed the question too cannot be expressed.
+</p>
+
+<p>
+The riddle does not exist.
+</p>
+
+<p>
+If a question can be put at all, then it can also be answered.”
+― Ludwig Wittgenstein, Tractatus Logico-Philosophicus
+</p>
+
+<p>
+Ethics and aesthetics are one.”
+― Ludwig Wittgenstein, Tractatus Logico-Philosophicus
+</p>
+
+<p>
+Language disguises the thought; so that from the external form of the clothes one cannot infer the form of the thought they clothe, because the external form of the clothes is constructed with quite another object than to let the form of the body be recognized.”
+― Ludwig Wittgenstein, Tractatus Logico-Philosophicus
+tags: language
+</p>
+
+<p>
+Language disguises thought.”
+― Ludwig Wittgenstein, Tractatus Logico-Philosophicus 
+</p>
+
+</aside>
+</section>
+<section id="slide-org2fe52a0">
+<h3 id="org2fe52a0">Language</h3>
+<ul>
+<li>later Wittgenstein: "Language games"</li>
+<li>Derrida: "postmodern": "incredulity toward metanarratives"</li>
+<li>2 world wars, the Holocaust (Shoah), globalization</li>
+<li>"process theology" (Whitehead) &#x2013; ecology, systems theory, &#x2026;</li>
+
+</ul>
+
+<aside class="notes">
+<p>
+Notes:
+</p>
+
+<p>
+postmodern as <b>suspicious of any single storyline dominating the whole of world history</b> cf. Hegel
+</p>
+
+
+<p>
+“The problems are solved, not by giving new information, but by arranging what we have known since long.”
+― Ludwig Wittgenstein, Philosophical Investigations
+tags: information, knowledge, problems
+</p>
+
+<p>
+Philosophy is a battle against the bewitchment of our intelligence by means of language.”
+― Ludwig Wittgenstein, Philosophical Investigations
+</p>
+
+<p>
+A picture held us captive. And we could not get outside it, for it lay in our language and language seemed to repeat it to us inexorably.”
+― Ludwig Wittgenstein, Philosophical Investigations
+tags: isolation, language, philosophy, picture, solipsism
+</p>
+
+<p>
+The face is the soul of the body.”
+― Ludwig Wittgenstein, Philosophical Investigations
+</p>
+
+<p>
+If I have exhausted the justifications, I have reached bedrock and my spade is turned. Then I am inclined to say: 'This is simply what I do.”
+― Ludwig Wittgenstein, Philosophical Investigations
+</p>
+
+<p>
+So in the end, when one is doing philosophy, one gets to the point where one would like just to emit an inarticulate sound.”
+― Ludwig Wittgenstein, Philosophical Investigations
+tags: philosophy
+</p>
+
+<p>
+Language is a labyrinth of paths. You approach from one side and know your way about; you approach the same place from another side and no longer know your way about.”
+― Ludwig Wittgenstein, Philosophical Investigations
+tags: language
+</p>
+
+</aside>
+
+</section>
+</section>
+<section>
+<section id="slide-orge67fe20">
+<h2 id="orge67fe20">Theology &amp; the Secular</h2>
+<ul>
+<li>theology for church vs. for the secular world</li>
+<li>John Polkinghorne</li>
+<li>Ian Barbour</li>
+<li>Theology: image of "wheel" vs. "matrix"</li>
+<li>Harvey Cox: value in engaging the secular world (cf. Bonhoeffer)</li>
+
+</ul>
+<aside class="notes">
+<p>
+Notes:
+</p>
+
+<p>
+Relating God's action in the natural world to physics, biology, etc.
+</p>
+
+<p>
+cf. esp. awareness of natural environment. Reading of Genesis 1.
+</p>
+
+<p>
+Cox: avoid theology being a ghetto cut off from the world
+</p>
+
+</aside>
+</section>
+</section>
+<section>
+<section id="slide-orgacf6ce1">
+<h2 id="orgacf6ce1">Liberation Theology</h2>
+<ul>
+<li>Africa, Latin America: experience of being <b>oppressed</b></li>
+<li>1960's "black liberation" in US: parallels between Israel's slavery in Egypt &amp; slavery in modern world</li>
+<li>MLK Jr. "Letter from Birmingham Jail" cp. "Barmen Declaration"</li>
+<li>James Cone: "being black is not a matter of skin color"</li>
+<li>Women's liberation:</li>
+<li>Recognizing that both oppressed and oppressor need "liberating"</li>
+
+</ul>
+<aside class="notes">
+<p>
+Notes:
+</p>
+
+<p>
+cp. the new "Reclaiming Jesus"
+</p>
+
+<p>
+Nicaragua: teaching literacy with no books. Only at hand is bible. Finding the meaning there.
+</p>
+
+</aside>
+</section>
+</section>
+<section>
+<section id="slide-org8635a4e">
+<h2 id="org8635a4e">World of many religions</h2>
+<dl>
+<dt>"syncretism"</dt><dd>"the amalgamation or attempted amalgamation of different religions, cultures, or schools of thought" &#x2013; Christianity itself syncretistic?</dd>
+<dt><b>pluralism</b></dt><dd>truth in other religions? (John Hick)</dd>
+
+</dl>
+
+
+<ul>
+<li>Raimundo Pannikar &#x2013; center of Christian theology moving south?</li>
+
+</ul>
+<aside class="notes">
+<p>
+Notes:
+</p>
+
+<p>
+Raimon Panikkar Alemany (November 2, 1918 – August 26, 2010; also known as Raimundo Panikkar and Raymond Panikkar) was a Spanish Roman Catholic priest and a proponent of inter-religious dialogue. As a scholar, he specialized in <b>comparative religion</b>.
+</p>
+
+</aside>
+</section>
+</section>
+</div>
+</div>
+<p> Created by Dale Hathaway. </p>
+<script src="./reveal.js/lib/js/head.min.js"></script>
+<script src="./reveal.js/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+width: 1000,
+height: 800,
+margin: 0.10,
+minScale: 0.50,
+maxScale: 2.00,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: './reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: './reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>

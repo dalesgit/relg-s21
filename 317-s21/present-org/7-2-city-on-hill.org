@@ -1,0 +1,119 @@
+#+Title: City on a Hill
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+### City on a Hill presentations ###
+
+#### Overview themes of Church in America ####
+
+- the **idea** of **denomination** really developed in the US
+- bewildering variety of developments in US (219)
+- New England's covenant with God (219)
+- Rational religion in the US (224)
+- Revivals on the frontier (225)
+- Romanticism in America (228)
+- Slavery and black religion (230)
+#### Key figures ####
+
+- John Winthrop
+- Jonathan Edwards
+- Great Awakening
+- Grimke 
+
+#### City on a Hill ####
+
+
+-   the **idea** of **denomination** really developed in the us
+-   bewildering variety of developments in us (219)
+-   *Indeed I tremble for my country when I reflect that God is just.*
+    --Thomas Jefferson
+
+![](../img/city-on-hill-01.jpg)
+
+
+![](../img/winthrop.jpg)
+
+![](../img/calvin-resolutions.jpg)
+
+![](../img/4-prepare-for-action-1-peter-11316-50-728.jpg)
+
+![](../img/resolution-edwards.jpg)
+
+![](../img/resolved-to-live.jpg)
+
+![](../img/Masscolony.png)
+
+::: {.NOTES}
+Notes:
+
+-   any story of church in America must acknowledge the
+    denominationalism
+-   What does the epigraph mean?
+:::
+
+ {#section reveal_background="http://izquotes.com/quotes-pictures/quote-for-we-must-consider-that-we-shall-be-as-a-city-upon-a-hill-the-eyes-of-all-people-are-upon-us-so-john-winthrop-311908.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
+
+::: {.NOTES}
+note: The vision of a light to the nations.
+
+Quote from Bible. Identifying with a line from Ancient Israel. (Is 49.6)
+:::
+
+ {#section-1 reveal_background="http://www.memorywebs.org/Winthrop_John_CityUponHillSpeech1630.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
+
+::: {.NOTES}
+Note: Cartoon in faculty room: \"Freedom of religion is my short term
+goal. My long term goal is to go into real estate.\"
+:::
+
+ {#section-2 reveal_background="https://nahswingspan.com/wp-content/uploads/2016/01/calvin-hobbes-new-years-resolutions.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
+
+::: {.NOTES}
+Note: Humor with re. \"resolutions\"
+:::
+
+ {#section-3 reveal_background="http://www.quotehd.com/imagequotes/authors83/jonathan-edwards-clergyman-quote-resolution-one-i-will-live-for-god.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
+
+::: {.NOTES}
+Note: Revival of \"Great Awakening\" **Fire and brimstone** and **heroic
+courage**
+
+Sinners in the hands of an angry God (J. Edwards) {#sinners-in-the-hands-of-an-angry-god-j.-edwards reveal_background="https://img00.deviantart.net/513c/i/2012/341/5/6/sinners_in_the_hands_of_an_angry_god_drawing_by_9andrew5-d5ncxhc.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
+:::
+
+##### Key Figures #####
+
+-   wesley & whitefield
+-   john winthrop
+-   thomas hooker
+-   john cotton
+-   solomon stoddard
+-   jonathan edwards
+    -   \"great awakening\"
+
+
+##### Rational Religion #####
+
+-   jefferson & franklin
+-   william ellery channing
+
+##### Revivals #####
+
+-   lyman beecher
+-   charles finney
+-   ann lee & quakers
+-   oneida community
+-   latter day saints
+-   seventh day adventists
+

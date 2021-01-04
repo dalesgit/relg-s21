@@ -1,0 +1,99 @@
+#+Title: Calvinist Strand
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+#### Calvinist strand ####
+
+##### Geneva #####
+
+- Europe being divided up
+- Radical reformation in pockets
+- Calvin inherited what Zwingli had begun
+- looked on as "the Protestant Rome"
+
+##### Calvin #####
+
+![img](../img/john-calvin.jpg)
+
+##### Calvin #####
+
+- clear & systematic mind at work
+- overpowering sense of God's glory
+- Plato: we sin out of ignorance. Calvin: we are ignorant because of
+  sin
+- not so much Luther's law & Gospel / standing in a continuous
+  **covenant** from Abraham
+- **predestination**
+- obedience to constituted authority
+
+
+##### Prezi #####
+
+<https://prezi.com/ympfwolg3_no/john-calvin-the-greatest-exegete-of-the-reformation/>
+
+##### Catholic point of view #####
+
+<http://www.newadvent.org/cathen/03195b.htm> catholic point of view
+
+##### Luther and Calvin compared #####
+
+- where Luther's emphasis on grace and justification
+- Calvin on covenant (in the lineage of Abraham)
+- the government of society bound up with notion of covenant
+- a "civil" use of law as well as "theological" (188)
+- 
+::: {.NOTES}
+Notes:
+
+Compare Luther & Calvin
+
+- Calvin Luther built on his personal conversion
+  - Calvin was private and rarely personal, rather logical
+- Luther sin and need for justification
+  - Calvin God's glory and power
+- Law and gospel
+  - vs Covenant (Abraham)
+- Calvin: God's grace alone saves us, but in gratitude we then try to
+  do God's will. Sanctification before justification
+- Being saved by God's grace alone leads to a doctrine of
+  predestination Surely it is not by good works but God's doing
+  completely
+- Contrary to Luther and Zwingli he preferred to be vague about nature
+  of presence in Eucharist
+- Regulate morality? Punish those who don't prove to be reformed?
+  Church maintains discipline?
+  :::
+
+##### questions/focus #####
+
+- "reform" as in "reformed life"
+- organizing society, community
+- what is community?
+- 39 articles
+- "Puritans"
+
+##### epithoughts #####
+
+- "Calvinist in polity" -- huge influence on English world
+- Knox and Calvin and the "reformed" tradition
+- Calvin retreating from France to Geneva
+- reading Calvin elicits not an emotional response but a cumulative one from the systematic presentation p 188
+- response to (free) grace is a **reformed** life (thus the name)
+- in contrast to Luther's distinction between law and gospel, Calvin thought we stood in the same convenant as Abraham (189)
+- "Reflections on how we come to be saved led to the doctrine of predestination (189 ff.)
+- <https://en.wikipedia.org/wiki/The_Private_Memoirs_and_Confessions_of_a_Justified_Sinner>
+- theology of sacraments: cf. **Martin Bucer** (large influence) – sought position between Luther and Zwingli
+
+###### Calvinism ######
+

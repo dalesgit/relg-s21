@@ -1,0 +1,96 @@
+#+Title:Philosophy & Religion 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+### Religion & Philosophy ###
+
+#### Descartes to Newton ####
+
+##### Newton on religion #####
+   
+   - Newton: God’s "immensity" stretching infinitely in all directions and unchanged for all eternity (cp. changing metaphor) (cp. Borges)
+   - what was most important about religion was its morality --; cf. Jefferson's approach (206)
+   - while retaining religion, it is no stripped of the "supernatural"
+   - "natural religion" (206)
+   - Church of England would keep its theology vague enough to include as many groups as possible and tolerate the presence of some dissenting groups like Anabaptists and Quakers, though not Catholics
+   
+   <div class="NOTES">
+   cf. 3 parts of Anglican: hi, lo, broad
+   
+   </div>
+
+##### Note: cf. Borges #####
+   
+   "Universal history is the history of a handful of metaphors"
+   
+   - changing metaphor from Anselm to Descartes
+   
+   <div class="NOTES">
+   read from *Labyrinths* "The fearful sphere of Pascal"
+   
+   </div>
+   
+##### Locke and Deists #####
+
+   - Nearly all the attitudes of the time came together in John Locke (207)
+   
+   - <https://www.youtube.com/watch?v=kItXvJLnTtk>
+   
+   - Many Deists brought to bear on the biblical miracle stories all the prestige of the scientific discovery of laws (209)
+   
+   - Deists distrusted appeals to authority and the miraculous, but they also turned away from anything beyond natural religion in part for moral reasons.
+
+##### Religion of Reason #####
+   
+   Descartes argued that knowledge would come only from doubting everything
+   
+   - can a religion be built on Doubt?
+   - No man shall ever be kept out of Heaven … if he had but an honest and good heart, that was ready to comply with Christ’s commandments (205)
+   - God is more inward to us than our very souls (205)
+   - Pietists and Methodists
+   - "**Enthusiasm**" was a dirty word in the eighteenth century. (210)
+   - story begins in Germany, where Lutheran orthodoxy had increasingly defined faith as assent to a set of doctrines
+   - Lutherans suspect any call to moral improvement as a move toward works-righteousness.
+   - rise of **Pietism** (210)
+   - Moravians and J. Wesley intersect (211)
+   - Methodism with a "method" for holiness
+   - Wesley and Whitefield changed the shape of popular religion in England and North America, but they made little impact on the attitudes among most intellectuals
+   
+   <div class="NOTES">
+   Read Wesley quote of his conversion p. 211
+   
+   nb. that for Wesley, too, morality was more important than doctrine
+   
+   </div>
+
+<a id="org9d17fc1"></a>
+
+#### The end of Age of Reason ####
+
+##### Hume #####
+   
+   - skeptic of scientific inference producing absolute knowledge
+   - apply skepticism to argument from order; miracles; and others ...;
+
+##### Rousseau #####
+   
+- doubting even **civilization** --; cf. *Emile* raised as a **natural child**
+- follow self & respect others (214)
+- Lessing: story of 3 rings (214)
+   
+   <div class="NOTES">
+   see how we identify with the motto of Rousseau above
+   
+   </div>
+

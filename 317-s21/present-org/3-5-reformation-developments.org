@@ -1,0 +1,33 @@
+#+Title: Reformation Developments 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+#### Other developments ####
+
+##### Radical Reformation #####
+
+##### infant baptism? #####
+
+##### Thomas Munzer #####
+
+- (trust in Spirit) conflict with Luther … 
+- he saw the end times and 2nd Coming
+
+##### The Schleitheim Confession Of Faith, 1527 #####
+
+- a People set apart (sect)
+- the \"ban\"
+- a \"remembrance\" for the holy people
+- the \"sword\" is for the world, not the holy people
+

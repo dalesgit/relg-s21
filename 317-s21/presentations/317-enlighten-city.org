@@ -1,0 +1,98 @@
+#+Author: Dale Hathaway
+#+Title: Age of Reason
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1
+ #+OPTIONS: toc:2 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+
+* From Enlightenment to a New world
+** Locke and Deists
+   - Nearly all the attitudes of the time came together in John Locke
+   - https://www.youtube.com/watch?v=kItXvJLnTtk 
+   - Many Deists brought to bear on the biblical miracle stories all the prestige of the scientific discovery of laws
+   - Deists distrusted appeals to authority and the miraculous, but they also turned away from anything beyond natural religion in part for moral reasons.
+
+** Pietists and Methodists
+
+    - "*Enthusiasm*" was a dirty word in the eighteenth century.
+    - story begins in Germany, where Lutheran orthodoxy had increasingly defined faith as assent to a set of doctrines
+    - Lutherans suspect any call to moral improvement as a move toward works-righteousness.
+    - Methodism with a "method" for holiness
+    - Wesley and Whitefield changed the shape of popular religion in England and North America, but they made little impact on the attitudes among most intellectuals
+
+** The end of Reason
+   - Hume
+   - Rousseau
+   - Kant
+*** COMMENT Reason and christian thought
+
+Read from p. 216: Ambivalence of these thinkers 
+
+* City on a hill
+** The city on a hill
+- the *idea* of *denomination* really developed in the US
+- bewildering variety of developments in US (219)
+** 
+#+attr_html: :width 240px  
+file:./img/city-on-hill-01.jpg
+**  
+#+attr_html: :width 240px  
+file:./img/winthrop.jpg
+** 
+#+attr_html: :width 240px  
+file:./img/calvin-resolutions.jpg
+** 
+#+attr_html: :width 240px  
+file:./img/4-prepare-for-action-1-peter-11316-50-728.jpg
+** 
+#+attr_html: :width 240px  
+file:./img/resolution-edwards.jpg
+** 
+#+attr_html: :width 240px  
+file:./img/resolved-to-live.jpg
+** 
+#+attr_html: :width 240px  
+file:./img/Masscolony.png
+** Key figures
+- Wesley & Whitefield
+- John Winthrop
+- Thomas Hooker
+- John Cotton
+- Solomon Stoddard
+- Jonathan Edwards
+  - "Great Awakening"
+** (part 2) 
+*** Rational Religion 
+    - Jefferson & Franklin
+    - William Ellery CHanning
+*** Revivals
+    - Lyman Beecher
+    - Charles Finney
+
+*** Revivals (cont)
+
+   - Ann Lee & Quakers
+   - Oneida community
+   - Latter Day Saints
+   - Seventh Day Adventists
+*** Romanticism in America
+    - Unitarians
+      - William Ellery Channing
+    - Transcendentalists
+      - Ralph Waldo Emerson
+    - Nevin & Schaff (Transform humanity)
+    - Horace Bushnell (Attacking individualism)
+*** Slavery & Black religion
+    - Bushnell
+    - Evangelicals in England, Quakers in America
+    - the unfulfilled dream of Puritan America

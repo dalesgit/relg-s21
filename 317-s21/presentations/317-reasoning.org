@@ -1,0 +1,36 @@
+#+Author: Dale Hathaway
+#+Title: Reasoning 
+#+Date: 2018-02-13 Tue 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+
+* Readings ch. 14
+** 
+I was surprised to learn that some of the views that Calvin expressed line up with some views of my own. For example, "we cannot understand ourselves if we ignore God, and we cannot understand God without facing up to the truth about ourselves" and "The order of the universe proclaims the glory of God, but we fail to see it. We deny God, then, finding our lives falling apart, we invent something to put in God's place...our sin prevents us from seeing the world alright" (188). I couldn't agree more with the fact that we ignore or run from God when we feel as if we've messed up or sinned. We don't even feel worthy of the grace that we've freely been given. We sometimes even get to a point where we don't want anything to do with God at all and, like the book mentions, we try to put something else in His place -- something else that won't satisfy the hole or emptiness we feel within ourselves. 
+** 
+I have a question about Quakers and Puritans. I wonder why the Quakers were in such opposition of the church? I read that George Fox, one of the greatest leaders even refused to call the church a church.
+** 
+"Starting with the chapter God's Governance from the text, I must say you can tell the chapter was mostly about how the church and state were interwoven during the Middle Ages. With Calvin's principle of predestination and how the elected were of divine power, it is easy to see how the church and state were not separated. It's nothing new to see people looking to their representatives to understand their own religious beliefs but I think it's interesting how Geneva was Protestant surrounded by Catholic borders. Regardless, I think the most important point made from the reading was how God knows or determines who will accept grace and reject it, thus implying that free will is sort of not free will. 
+** 
+the 5 basic principals of calvanist orthodoxy, they were explained but not in detail. Are we going to be going over this in class? (194)
+** 
+I have questions about sanctification, and why God even gave us free will when he has the power for everyone to be obedient. 
+* Reasoning 
+** Rationality 
+#+ATTR_BEAMER: :overlay +-
+- History of a metaphor
+- Arguments for God: /a priori/ and /empirical/
+- Calvin's systematic development of the faith position *sovereignty of God*
+- Quakers and Nonconformists: where is highest authority placed?
+- Descartes: from scientific method to rational conclusions

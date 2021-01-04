@@ -1,0 +1,47 @@
+#+Title: The Emergence of the Modern
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+#### Emergence of the "modern" world ####
+
+##### Developing themes of Modern world #####
+
+###### Individualization ######
+
+###### Empirical reason, Scientific Method ######
+
+###### Exploration of world of diverse cultures ######
+
+###### Important Developments of the Modern period ######
+
+###### Exploration of the world: growing awareness of diversity in the world ######
+
+###### Importance of Americas ######
+
+- Suddenly expanded natural resources
+- distance from Europe
+- "Independence"
+
+###### Science & technology ######
+- exponential growth of "knowledge"[^2]
+  * [^2]: cf. Mary Pat's visuals
+
+###### Wars becoming more and more destructive, even as hope was projected ######
+
+###### End of 19th c. "everything is known, just mopping up"[^1] ######
+
+- [^1]: cf. in Joplin [Which 19th century physicist famously said that all that remained to be done in physics was compute effects to another decimal place? - Quora](:/de8d5070d1b44c9e8cbee67c42a4925a)
+
+###### Exploitation of the earth's ecosystems ######
+

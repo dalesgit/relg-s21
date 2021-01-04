@@ -1,0 +1,44 @@
+#+Title: Preface to reading Placher 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+* Placher's approach
+  :PROPERTIES:
+  :CUSTOM_ID: plachers-approach
+  :END:
+
+- his particular attention to how Christians interpret the Bible
+- insistence on *theological interpretation of Scripture* (helping to
+  bridge divides in Christendom)
+- "Placher's *postliberal (post-modern)* approach (to theology and
+  experience)
+- providing a way to critically appropriate the best of postmodern
+  thought while avoiding the weaknesses" (xiv)
+
+* Post-liberal
+  :PROPERTIES:
+  :CUSTOM_ID: post-liberal
+  :END:
+
+This methodology shares a conviction that the ""modern"" period is over
+and that we must move past it
+
+- thus our theology can not be "foundational", based on *universal*
+  claims of rationality
+- Lindbeck and Frei are important figures in this approach
+- Placher is aware of the many "deadends" of typical "modern"approach to
+  truth in biblical interpretation (xv)
+- Barth became in 70's great postliberal inspiration
+- major emphasis on " *conversation*" (narrativity)
+

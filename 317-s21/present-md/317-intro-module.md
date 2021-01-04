@@ -1,0 +1,172 @@
+# Introductions
+
+## 1. Introductions
+
+### Discussion thread
+
+ "What are you looking for from this class? What should we know about you and your background in order to have fruitful discussions this semester?
+
+### Presentations ###
+
+#### Unpacking the title of the class: ####
+
+Modern + Christian + Thought
+
+![](../img/Peanuts-2Bsnoopy-2Band-2Bsound-2Btheology-2Bflood.jpg)
+
+##### Modern era #####
+
+We assume here that the **modern period** begins with the
+Reformation. As the course unfolds we hope to bring an understanding of the following:
+
+- What characteristics are associated with the period?
+- What might characterize a \"post-modern\" period?
+
+##### History #####
+
+Necessarily an important category for this course is the method involved with **history**. What does the following quote mean:
+
+> All histories, including the history of Christian theology, rest on
+> the interplay between remembering and forgetting.\" (xxiv)
+
+##### Denominational History #####
+
+The limits to our perspective (on things) is sometimes vast:
+
+- most of us learn church theology and church history from a denominational perspective
+- we enter the study through a particular portal
+- our understanding will come through the development of our own self-awareness of our own limitations
+
+##### Limitations and warnings (p. 2) #####
+
+Placher himself sets these parameters for his text:
+
+1. It is history of Christian theology, not general history,
+   intellectual history, etc.
+2. Theology means the systematic reflection on one\'s faith.
+   (experience?) An \"elite\" enterprise?
+3. Much ends up being ignored. We need to make decisions about what we leave out, perhaps to add them back in later.
+4. Too favorable picture of \"theology\"?
+
+##### Knowledge #####
+
+As we seek greater understanding of this "modern period", the question of what we know, how we can know are continual framing questions.
+
+* what do we know?
+* what is history?
+* what is change?
+* what is "modern"?
+* what is "Christian thought" as opposed to other important religious thinking?
+
+##### Timeline exercises #####
+
+We will exercise some of these disciplines later in the course as we examine lists of events that happen during the course of a century. We will have to make decisions about the relative importance of these events.
+
+- What is left out?
+- What is essential?
+- What do we need to understand in order to understand the big picture?
+
+##### Video resources #####
+
+Here are some video resources to provide some background perspective on our course.
+
+- [Scale of the universe video](https://www.htwins.net/scale2/)
+- [String exercise](https://prezi.com/2ocnrs77kd6f/rope-yarn-history-of-the-world-update-2014/?present=1)
+- [history of religions in 2.5 minutes video](https://youtu.be/AvFl6UBZLv4)
+- [spread of Christianity in 2 min](https://youtu.be/BJ0dZhHccfU)
+- [History of Judaism](https://youtu.be/2sOzmBAaCHA)
+- [all of human history in 6 min](https://youtu.be/n0I3ap335hM)
+- [History of Christianity in 5 min](https://youtu.be/3e9ipBX2gR0)
+- [5 major world religions](https://youtu.be/m6dCxo7t_aE)
+
+#### Prefatory to reading Placher ####
+
+##### Placher's approach  #####
+
+- his particular attention to how Christians interpret the Bible
+- insistence on **theological interpretation of Scripture** (helping to bridge divides in Christendom)
+- "Placher's **postliberal (post-modern)** approach (to theology and experience) 
+- providing a way to critically appropriate the best of postmodern thought while avoiding the weaknesses" (xiv)
+
+##### Post-liberal #####
+
+This methodology shares a conviction that the ""modern"" period is over and that we must move past it
+
+* thus our theology can not be "foundational",  based on **universal** claims of rationality
+* Lindbeck and Frei are important figures in this approach
+* Placher is aware of  the many "deadends" of typical "modern"approach to truth in biblical interpretation (xv)
+* Barth became in 70's great postliberal inspiration
+* major emphasis on " **conversation**" (narrativity)
+
+## 2. Background
+
+### Presentations ###
+
+#### Resources  ####
+
+##### More media overviews #####
+
+- [PBS: Luther](https://youtu.be/fp77mcJKsIk)
+- [Short overview Reformation](https://youtu.be/IATyzSAjC1w)
+- [Rick Steves Reformation](https://youtu.be/CXK9NNp1yk4)
+- [The Council of Trent in 5 and a half minutes](https://youtu.be/qwT35DULwLg)
+
+##### Crash courses #####
+
+* [Crash course Reformation](https://youtu.be/0eO0pPrGi6o)
+* [Catholic Counter-Reformation: Crash Course European History #9](https://youtu.be/xy_M4pDjafo)
+* [Reformation consequences crash course esp. the political consequences #7](https://youtu.be/PbBDP1Elbbg)
+* [The Age of Exploration: Crash Course European History #4](https://youtu.be/wOclF9eP5uM)
+* [Expansion and Consequences: Crash Course European History #5](https://youtu.be/AcphphFoijY)
+* [Locke, Berkeley, & Empiricism: Crash Course Philosophy #6](https://youtu.be/5C-s4JrymKM)
+
+#### Continuums and Eras ####
+
+##### 5 continuums / themes playing out over the centuries #####
+
+We will return again and again in the course to these themes laid out by Placher
+
+1. Humanity and Divinity of Christ
+2. Reason and revelation
+3. Works and Grace
+4. Spirit and Structure
+5. Church and State
+
+###### Humanity and Divinity of Christ
+
+- the early centuries of the Common Era were marked by debates 
+- as the Reformation unfolded and created itself, this polarity became a distinguishing marker
+
+###### Reason and Revelation
+
+- *Faith* and *Scripture* became watchwords for the Reformation
+- The Catholic tradition would have to wrestle with the *sola fide* and the *sola scriptura*
+
+###### Works and Grace
+
+- Luther's opening salvo in the Reformation was aimed at this theme, claiming that the tradition represented a form of salvation by works rather than salvation by grace
+- Something to watch throughout the unfolding modern era is how much one side or the other is emphasized
+###### Spirit and Structure
+
+- throughout the modern period there  emerged periodically "charismatic" movements, emphasizing "spirit" over "structure"
+- whenever such renewals engage the tradition there is tension over how to maintain the spiritual without structure
+###### Church and State
+
+- in most religious communities there is either an examined or an assumed relationship between the authority of the church and the authority of the state
+- within the emerging Reformation tradition there are some communities that understand there to be strong connections between the two and some that understand the relationship must be kept distance
+- the two pillars of the early Protestant era represent two contrasting positions, Luther and Calvin
+##### Cultural eras #####
+
+Below are major developments that unfold in Western Civilization during the time period of our survey of Christian thought: 
+
+- Renaissance
+- Development of National identities (including languages)
+- Printing Press
+- Development of European music
+- Science and Technology
+- Discovery of Americas
+- Rise of Capitalism
+- Enlightenment
+- Romantic / Baroque
+- Wars
+- Liberation: Women, Slavery, Indigenous Peoples ...

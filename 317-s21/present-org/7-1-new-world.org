@@ -1,0 +1,46 @@
+#+Title:New World 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+### from Enlightenment to a New World ###
+
+##### Locke and the Deists #####
+
+-   nearly all the attitudes of the time came together in john locke
+-   <https://www.youtube.com/watch?v=kitxvjlnttk>
+-   many deists brought to bear on the biblical miracle stories all the
+    prestige of the scientific discovery of laws
+-   deists distrusted appeals to authority and the miraculous, but they
+    also turned away from anything beyond natural religion in part for
+    moral reasons.
+
+##### pietists and methodists #####
+
+
+-   \"**enthusiasm**\" was a dirty word in the eighteenth century.
+-   story begins in germany, where lutheran orthodoxy had increasingly
+    defined faith as assent to a set of doctrines
+-   lutherans suspect any call to moral improvement as a move toward
+    works-righteousness.
+-   methodism with a \"method\" for holiness
+-   wesley and whitefield changed the shape of popular religion in
+    england and north america, but they made little impact on the
+    attitudes among most intellectuals
+
+##### the end of reason #####
+
+-   hume
+-   rousseau
+-   kant
+

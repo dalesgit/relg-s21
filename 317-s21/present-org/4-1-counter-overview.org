@@ -1,0 +1,77 @@
+#+Title:Overview Counter-Reformation 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+#### Overview ####
+
+##### 13 Catholic Reformation #####
+
+[[counter-reformation]] counter-reformation
+[[317-counter-governance]] 317-counter-governance
+
+###### questions and focus ######
+
+###### read Erasmus ######
+
+###### "authority" and scripture, tradition ######
+
+###### Read Don Quixote? What have to do with Christian thought? Knighthood? Chivalry? "Good citizen" ######
+
+###### read Pascal: wager, end of logic? ######
+
+###### what is "pietism" ######
+
+###### epithoughts ######
+
+###### Erasmus yielded to Loyola (desire for reform) ######
+
+###### response of Church "a more militant, less tolerant church" ######
+
+##### Counter Reformation #####
+
+##### 5 themes and the Counter Reformation #####
+
+###### Humanity and Divinity of Christ: ######
+
+1. how fit the Catholic humanists in this?
+
+###### Reason and revelation: (What is true? Path to salvation?) ######
+
+1. cf. bible and tradition vs. bible alone
+
+###### Works and Grace: ######
+
+1. maintaining a tension,
+2. cp. Contarini with similar exp. to Luther
+
+###### Spirit and Structure: canons and "reforms" aimed at structure, ######
+
+1. cf. also the turmoil over Carmelites
+
+###### Church and State: ######
+
+1. nb that German Lutherans overthrew state authority, tradition that
+   state followed ruler,
+2. Rome pretensions to the Roman Empire (left over from high middle
+   ages synthesis)
+
+##### One can see the Church has constantly reforming. #####
+
+-   Paul as a reformer
+-   Anthony in the desert -- Benedict's Rule
+-   Establishing rule of law
+-   Councils seen as reforming (cf. canons of Nicea)
+-   Debates about the nature of the Eucharist flourished through the centuries
+-   Vatican 2 in our own day
+

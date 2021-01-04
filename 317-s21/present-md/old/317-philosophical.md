@@ -1,0 +1,84 @@
+Review
+======
+
+Some basic themes
+-----------------
+
+1. Humanity and Divinity of Christ
+2. Reason and revelation
+3. Works and Grace
+4. Spirit and Structure
+5. Church and State
+
+Nominalism vs. Realism (philosophical concepts)
+-----------------------------------------------
+
+- the really real vs. knowing the individual rather than the universal
+- cf. John Duns Scotus
+- William of Ockham: showing reason\'s limitations
+- Ockham\'s \"razor\"
+
+3 \"proofs\" for the existence of God
+-------------------------------------
+
+- Anselm of Canterbury (11th c.)
+- Thomas Aquinas (13th c.)
+- B. Pascal (17th c.)
+
+14th c.
+-------
+
+- The Avignon papacy transfers the seat of the Popes from Italy to
+  France
+- The Great Famine of 1315-1317 kills millions of people in Europe.
+- Beginning of the Renaissance in Italy
+- The Hundred Years\' War begins when Edward III of England lays claim
+  to the French throne. (1337) The French recruit troops and ships in
+  Genoa, Monaco, and Nice (1345--1346).
+- Black Death kills around a third of the population of Europe.
+  (1347--1351).
+- The Great Schism of the West begins in 1378, eventually leading to 3
+  simultaneous popes.
+- The poet Petrarch coins the term *Dark Ages* to describe the
+  preceding 900 years in Europe, beginning with the fall of the
+  Western Roman Empire in 476 through to the renewal embodied in the
+  **Renaissance**.
+
+Reformation
+===========
+
+Vocabulary
+----------
+
+- nepotism: handing out positions to family members
+- pluralism: illegally hold more than one clergy position
+- ignorance: esp. of clergy
+- indulgences
+- absenteeism: clergy did not live in their diocese or parishes
+- worldliness: clergy got drunk, lead armies, fathered children,
+  gambled etc.
+
+Vocabulary 2
+------------
+
+- humanism
+  - ?
+  - ?
+  - ?
+
+Luther, father of Reformation
+-----------------------------
+
+Who was this person who stands so huge at the beginning of our period?
+
+<https://prezi.com/yfmiihckhjj0/martin-luther-reformation/>
+
+Read for Monday
+---------------
+
+Excerpts from Luther\'s \"Freedom of a Christian\" (found on the class
+web site)
+
+- <https://sites.google.com/site/relg317f15/>
+
+- <http://richard-hooker.com/sites/worldcultures/REFORM/FREEDOM.HTM>

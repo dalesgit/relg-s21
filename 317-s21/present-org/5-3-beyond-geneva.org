@@ -1,0 +1,63 @@
+#+Title: Beyond Geneva 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+#### Beyond Geneva ####
+
+##### Bucer #####
+
+- centrale figure of Reformation? 190
+- sought to avoid being explicit about sacraments (Luth/Zwingli)
+- stands out in the figures for his tolerance
+- theology of sacraments: cf. **Martin Bucer** (large influence)
+  - sought position between Luther and Zwingli
+
+##### Knox #####
+
+- connected the struggle of Scotland against England with Reformed theology
+- what is the role of faithful viz a viz oppressive society?
+- synod of Dort (5 principles) "uncompromising" 194
+
+##### Sacraments #####
+
+- importance of Martin Bucer as a bridge figure
+- insisting on Christ's presence (not a particular understanding)
+- the church regulating its own life (discipline)
+- normalcy of church/state overlap
+
+##### questions/focus #####
+
+- "reform" as in "reformed life"
+- organizing society, community
+- what is community?
+- 39 articles
+- "Puritans"
+
+##### Discipline of the community #####
+
+- (191) Community maintain discipline by regulating who come to communion
+- (191) organization of community (Geneva) ministers, teachers, elders,
+  deacons ... "presbytery"
+
+##### Church and State #####
+
+- (192) Calvin allowing for working against civil authority when they
+  betray the faith
+- John Knox in Scotland "seized" on those principles in his energy
+  opposing the English
+- (193) France, Scotland, then England Calvinists thought about how to
+  oppose an unjust society
+- Scotland corrupt church 193, thus as in France political conditions
+  drove Calvin's followers
+

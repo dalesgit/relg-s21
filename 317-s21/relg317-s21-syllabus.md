@@ -1,0 +1,260 @@
+
+
+# Modern Christian Thought
+RELG 317-S21
+
+## Preface ##
+
+Modern Christian Thought  
+Jan 11, 2021 - May 04, 2021  
+CRN: 22233  
+Tuesdays: 2:00 pm - 3:15 pm -- Via Internet   
+3 Credit Hours  
+Winthrop University  
+Department of Philosophy & Religious Studies  
+Office: KIN 337a
+
+Phone: 803-323-3015  
+email: hathawayd@winthrop.edu  
+Office Hours: MW 3:30-4:30 PM – T 1:00 PM - 2:00 PM  
+Instructor Web site: http://hathashoe-blog.weebly.com/
+
+# General Information ##
+
+## Description ###
+
+
+**Description**: 
+The course is designed to introduce students to some major currents in Christian thought from the Reformation to the present. 
+
+By focusing on the works of numerous leading theologians and religious thinkers, students will better understand the challenges and contributions of modern consciousness to the classic formulations of Christian thought. Attention will be paid to movements such as the **Reformation**, the Italian and Northern **Renaissances**, the **Enlightenment**, **Romanticism**, **Idealism**, **Darwinism**, **Existentialism**, **Systematic Theology**, **Liberation Theology**, **Black Theology**, **Feminist Theology**, and **Postmodern Theology**. 
+
+**Prerequisite**: At least 12 hours of college credit (i.e. must be a second semester Freshman). 
+
+**Notes**: _Usually offered every other Fall semester (historically in odd-numbered years), alternating with RELG 316._
+
+## University-Level Competencies (ULC’s) that apply in this course are: ##
+
+RELG 101 helps students make progress toward the following University
+Level Competencies.
+
+**Winthrop graduates think critically and solve problems.**
+
+- Winthrop University graduates reason logically, evaluate and use evidence, and solve problems. They seek out and assess relevant information from multiple viewpoints to form well-reasoned conclusions. Winthrop graduates consider the full context and consequences of their decisions and continually reexamine their own critical thinking process, including the strengths and weaknesses of their arguments.
+
+
+By recognizing the variety of fundamental approaches of Christian thinking to understanding our world and our place in it, the students will gain skills in critical problem solving.
+
+**Winthrop graduates are personally and socially responsible.**
+
+- Winthrop University graduates value integrity, perceive moral dimensions, and achieve excellence. They take seriously the perspectives of others, practice ethical reasoning, and reflect on experiences. Winthrop graduates have a sense of responsibility to the broader community and contribute to the greater good.
+
+As students wrestle with the way in which Christian thought is related to ethics, morality and social justice through class lectures, discussions and journals, the students will reflect on their own approach to personal and social responsibility.
+
+**Winthrop graduates understand the interconnected nature of the world and the time in which they live.**
+
+- Winthrop University graduates comprehend the historical, social, and global contexts of their disciplines and their lives. They also recognize how their chosen area of study is inextricably linked to other fields. Winthrop graduates collaborate with members of diverse academic, professional, and cultural communities as informed and engaged citizens.
+
+As the students learn to relate the history of the last 1,000 years of Christian reflection on faith and experience, they will understand better the diversity of the Christian tradition and its place today in relation to our broader world.
+
+**Winthrop graduates communicate effectively.**
+
+- Winthrop University graduates communicate in a manner appropriate to the subject, occasion, and audience. They create texts – including but not limited to written, oral, and visual presentations – that convey content effectively. Mindful of their voice and the impact of their communication, Winthrop graduates successfully express and exchange ideas.
+
+Week by week in individual presentations and periodically through writing and exam assignments, the students will expand their ability to communicate effectively.
+
+## Course Goals: ##
+
+1. **Recognize** major themes of Christian theology, especially in the last 600 years.
+1. **Identify** the interrelated connections between issues in theology and developments throughout the wider world
+1. **Gain experience and expertise** in reading original texts of last 1,000 years
+1. **Recognize the difference** between confessional and academic study of Christian thought
+1. **Collaborate** with fellow students in identifying themes of original source material in Christian theology
+1. **Recognize and illustrate** the function of editing in understanding history by e.g.  forgetting as well as remembering
+1. Identify characteristics of the **post-modern** in recent developments in Christian thought
+
+## Course Materials ##
+
+### Required Texts ###
+
+- *Readings in the History of Christian Theology*, Volume 2, Revised Edition: From the Reformation to the Present Paperback – January 18, 2017
+by William C. Placher (Author),‎ Derek R. Nelson (Author)
+- *A History of Christian Theology*, Second Edition: An Introduction 2nd Edition/
+by William C. Placher (Author),‎ Derek R. Nelson (Author)
+
+### Technology Requirements ###
+
+#### Software
+
+You will need access to the internet and use of an internet browser such as Firefox, Google Chrome, or Safari to access course materials. In general, that is the only required software for this course, though you may prefer using Microsoft Office, such as word, to complete certain assignments. To download a free copy of Microsoft Office, see the Blackboard How To’s and Campus Resources section of Blackboard.
+
+#### Hardware
+
+As long as your computer can access Blackboard with an up-to-date web browser, you should have no problem accessing and completing work in this course. Your computer should be able to handle video and audio files, but it is not required.
+
+#### Computer Access
+
+It is highly recommended that you have daily access to a computer. It is recommended that you use a personal computer. If you need to access the course through a public computer, please be sure to think about clearing any personal information off of the computer each time you finish a session.
+
+# Course Policies #
+
+## Attendance and Time Commitment ##
+
+### Student Class Attendance policy
+
+Students are expected to attend classes and should understand that they are responsible for the academic consequences of absence. The student is responsible for all requirements of the course regardless of absences. For reporting purposes, attendance in distance education courses is based on course activity participation. Students are required to make an initial online submission within the session's drop/add period. Students who do not submit within this timeframe may be dropped from the roster.
+
+If the student has a particular hardship or need for accommodation, the student should contact the instructor as soon as possible.
+
+Attendance (regular participation in the online classroom) is essential for maintaining the best learning environment.
+
+   1. You will be expected to log on to the course site 2-3 times per week.
+   1. You are also expected to participate in all assigned activities in the course.
+   1. Attendance is measured by completion of course assignments.
+
+This course consists of 8 modules of content, with two additional introductory and concluding modules . Some modules will take longer than others; so it will be important for participants to consistently work on the class. Your course facilitator will keep you updated on your course progress and may adjust the schedule accordingly, depending on the circumstances of the course.
+
+## Grading Tables ##
+
+### Spring 2021 University policy
+
+For Spring 2020 and Fall 2020 the University has had a revised grading policy. At the time of this writing Winthrop will return to the regular grading policy for Spring 2021. Regular letter grades and the standard S/U policies will be in place.
+
+### Grading table
+
+| Grade | Score %  |
+|-------|----------|
+| A     | 94 - 100 |
+| A-    | 90 - 93  |
+| B+    | 88 - 89  |
+| B     | 84 - 87  |
+| B-    | 80 - 83  |
+| C+    | 78 - 79  |
+| C     | 74 - 77  |
+| C-    | 70 - 73  |
+| D+    | 68 - 69  |
+| D     | 64 - 67  |
+| D-    | 60 - 63  |
+
+### Weighted Assessments
+
+|   Assessments |  Instances  | %Weight |
+| --- | :---: | :----: |
+Quizzes | 4 | 5%
+Timelines | 3 | 5%
+Exams | 2 | 20%
+Discussion Threads | 6 | 35%
+Papers | 4 | 35%
+
+## Student Code of Conduct ##
+
+The Winthrop University Student Handbook States: "A fundamental tenet of all institutions of higher learning is academic honesty. Academic work must depend upon respect for and acknowledgment of the research and ideas of others. Misrepresentation of someone else's work as one's own is a most serious offense in any academic setting. Academic misconduct in any form cannot be condoned." https://www.winthrop.edu/academicintegrity/
+
+As noted in the Student Conduct Code: “Responsibility for good conduct rests with students as adult individuals.” The policy on student academic misconduct is outlined in the “Student Conduct Code Academic Misconduct Policy” in the online Student Handbook which can be accessed at:
+
+<https://www.winthrop.edu/uploadedFiles/studentconduct/StudentConductCode.pdf>
+
+See <https://www.winthrop.edu/studentconduct/winthrop-university-student-handbook.aspx> for additional policies and guidelines.
+
+Do not plagiarize. Review the “Correct Use of Borrowed Information” before submitting your assignments.
+
+Dishonesty is a serious offense in all its forms, whether lying about reasons for an absence or missed assignment or cheating on a test or misrepresenting borrowed material as your own. It can result in a failing grade on a test, assignment, or the course, or even dismissal from the university.
+
+## Online Etiquette ##
+
+Your behavior and communication in this course is expected to be clear, professional, and courteous at all times. Open and honest expression is at the core of The Winthrop Experience, but never at the cost of respect or civility. As Winthrop participants, you should demonstrate the ability to hold deliberate, articulate, and even-tempered discussions.
+
+1. Annoying, disruptive, and threatening conduct is completely unacceptable. The instructor reserves the right to remove you from the course in the event that you demonstrate such behavior. Some general guidelines for communication include:
+1. Check your Winthrop email and the discussion board at least twice per week (more often is better).
+1. Be patient. Do not expect an immediate response when you send a message. Generally, 24 hours is considered reasonable amount of time to receive a reply.
+1. Be courteous and considerate. Being honest and expressing yourself freely is very important, but equally important is respecting others’ experiences.
+1. Make every effort to be clear. Online communication lacks the nonverbal cues that fill in much of the meaning in face-to-face communication.
+1. Do not use all caps. This makes the message very hard to read and is considered "shouting." Check spelling, grammar, and punctuation.
+1. Compose messages and posts in a word processor, then copy and paste the message into the discussion or message. Save the Word document as a backup for yourself in case of technical issues. You can re-send the message right away if you saved your work.
+1. If you want to send a personal message to the instructor or to another student, use email rather than the discussions.
+
+## Course Communication ##
+
+We have provided a number of ways for you to interact with the instructor. There is a discussion thread on the main menu. There is an email listed in several places for the instructor. The instructor has provided a cell phone number as well as the office number. We will hold weekly Zoom sessions to respond to questions and concerns.
+
+## Student Responsibilities in an Online Course ##
+
+1. Many students find that responsibilities for online courses differ from traditional courses.  The following statements outline some of your basic responsibilities for this course. If you decide that you are unable to meet these responsibilities, then you may want to consider taking a traditional version of this course instead.
+1. I will ask questions immediately if I don't understand the instructions or due dates for assignments.
+1. I will organize my time in order to complete my assignments in a thoughtful and timely manner.
+1. I will be responsible for completing assignments when they are due.
+1. I understand that failure of technology is not an excuse for turning assignments in late.
+1. I understand that there are other sources of technology for me to use if my primary source fails, such as libraries, campus labs, or friends' computers.
+1. I understand that if the class uses a third party software and that I would need to contact those companies directly as soon as I have technical problems.  I will also contact my instructor to let him/her know that I am experiencing technical problems.
+1. I will participate fully in collaborative assignments by writing respectful and scholarly comments.
+1. I will log in to class at least 2-3 times per week and spend an appropriate amount of time each week completing course materials.
+
+## Campus Resources for Online Learners ##
+
+Students who are enrolled in online courses are entitled to the campus resources made available to on-campus students. These resources included admissions counselling, library, student services, and recreational facilities. Questions regarding access to these resources should be directed to the assigned academic advisor.
+
+## Students with Disabilities/Need of Accommodations for Access ##
+
+Winthrop University is committed to providing accessible learning experiences and equal access to education for all students. The syllabus is available in alternate formats upon request.
+
+If you are a student with a disability (including mental health concerns, chronic or temporary medical conditions, learning disabilities, etc.) and you anticipate or experience academic barriers due to the condition, please contact The Office of Accessibility (OA) for information on accommodations, registration, and procedures, After receiving approval for accommodations through OA, please make arrangements with me as soon as possible to discuss your accommodations so that they may be implemented in a timely manner.
+
+OA contact information: accessiblity@winthrop.edu; 803-323-3290; 307 Bancroft Hall Annex.
+
+## Copyright Notice ##
+
+The materials in this course are only for the use of students enrolled in this course and for purposes associated with this course.  Do not disseminate any copyright-protected material that you encounter in this course.
+
+## Syllabus Change Policy ##
+
+*The following syllabus is subject to change. Any modifications will be communicated clearly to the students and posted on **Blackboard** and on the instructor's web page*.
+
+# Outline of Course #
+
+## Modules ##
+
+1. Getting Started
+
+2. Background
+
+3. Ch. 12 Faith alone, scripture alone
+
+4. Ch. 14 God's governance
+
+5. Ch. 15 Reason and Enthusiasm
+
+6. Ch. 16 City on a hill
+
+7. Ch. 17 The claims of history (233)
+
+8. Ch. 18 The end of western Christendom
+
+9. Ch. 19 The current scene
+
+10. Wrapping it up
+
+## Assessments ##
+
+| Module                  | Assessments       | Due date          |
+| ----------------------- | ----------------- | ----------------- |
+| Getting Started         | Introductions     | Fri, Jan 15, 2021 |
+|                         | Discussion thread | Wed, Jan 20, 2021 |
+|                         | Groups            | Sun, Jan 24, 2021 |
+| Scripture & Faith alone | Quiz              | Fri, Jan 29, 2021 |
+|                         | Timeline          | Fri, Jan 29, 2021 |
+|                         | Discussion thread | Wed, Jan 27, 2021 |
+| God's governance        | Quiz              | Fri, Feb 12, 2021 |
+|                         | Paper             | Sat, Feb 13, 2021 |
+|                         | Exam              | Sat, Feb 20, 2021 |
+| Reason & enthusiasm     | Quiz              | Thu, Mar 4, 2021  |
+|                         | Timeline          | Wed, Mar 3, 2021  |
+|                         | Discussion thread | Wed, Feb 24, 2021 |
+| City on a hill          | Discussion thread | Wed, Mar 10, 2021 |
+|                         | Exam              | Sat, Mar 20, 2021 |
+| Claims of history       | Quiz              | Thu, Mar 25, 2021 |
+|                         | Timeline          | Wed, Mar 31, 2021 |
+|                         | Discussion thread | Wed, Mar 24, 2021 |
+|                         | Paper             | Sat, Apr 3, 2021  |
+| End of Christendom      | Discussion thread | Wed, Apr 14, 2021 |
+| Current scene           | Paper             | Thu, Apr 22, 2021 |
+| Wrapping it up          | Final             | Sat, May 1, 2021  |

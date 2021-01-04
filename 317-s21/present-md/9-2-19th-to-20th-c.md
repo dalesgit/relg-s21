@@ -1,0 +1,61 @@
+[\\]: # (From 19th - 20th c. #)
+
+## Existentialism and Fundamentalism ##
+
+## Existentialism's impact ##
+   
+   Bultmann’s “left-wing” followers, like the American Schubert Ogden, have concluded that Christianity concerns only the possibility of a new way of 
+   existing.
+
+## American response ##
+
+- Reinhold Niebuhr: Christian realism "Man's capacity for justice makes democracy possible; but man's inclination to injustice makes democracy necessary."
+  
+  God, grant me the serenity to accept the things I cannot change,  
+  The courage to change the things I can,  
+  And the wisdom to know the difference.
+  
+  cf. https://en.wikipedia.org/wiki/Serenity_Prayer
+
+## Christ and culture ##
+   
+   Richard Niebuhr: Christian ethicist: *Christ and Culture*
+- **Christ against Culture:** For the exclusive Christian, history is the story of a rising church or - Christian culture and a dying pagan civilization.
+- **Christ of Culture:** For the cultural Christian, history is the story of the Spirit’s encounter with nature.
+- **Christ above Culture:** For the synthesist, history is a period of preparation under law, reason, gospel, and church for an ultimate communion of the soul with God.
+- **Christ and Culture in Paradox:** For the dualist, history is the time of struggle between faith and unbelief, a period between the giving of the promise of life and its fulfillment.
+- **Christ Transforming Culture:** For the conversionist, history is the story of God’s mighty deeds and humanity’s response to them.
+
+## Evangelical ##
+
+- United States. Evangelical theology, with a renewed emphasis on the authority and often the literal inspiration of the Bible, also continues to be an important force in American theology, but it has generally reaffirmed the views Charles Hodge and Benjamin B. Warfield developed in the nineteenth century rather than producing new ideas.
+
+
+## Catholic development ##
+
+1. Catholic focus
+   
+- Karl Rahner said that there is a **fundamental mystery**, a matter of religious faith, at the heart of all human understanding.
+- Vatican 2: **Pilgrim people**: define “the church” not as the hierarchy of pope and bishops but as the **whole “pielgrim people of God**.”
+   
+   > The joys and the hopes, the griefs and the anxieties of the men of this age, especially those who are poor or in any way afflicted, these are the joys and hopes, the griefs and anxieties of the followers of Christ. 
+   
+   <http://www.cctwincities.org/document.doc?id=62>
+- Bernard Lonergan: It's all about the **method**
+## Theology and Liberation##
+
+## Liberation Theology ##
+
+- That very emphasis—liberating the captives—names the most important field of theology in the last half-century.
+- Liberation theology first drew wide attention in the United States in connection with “black liberation.”
+- James Cone’s Black Theology and Black Power, published in 1969, made the blacks’ liberation from their white oppressors its central theological theme and addressed whites with warnings rather than pleas for help.
+
+## Feminist criticism / liberation ##
+
+- Looking beyond that, Rosemary Radford Ruether (a prolific theologian committed both to feminism and to Christianity) has written, All theologies of liberation, whether done in a black or a feminist or a Third World perspective, will be abortive of the liberation they seek, unless they finally go beyond the … model of the oppressor and the oppressed.
+
+## Theology And The Religions ##
+
+- “Yes, I am a syncretist. But so are you. I know that I am a syncretist, but you don’t know you are a syncretist because you have hegemonic power.
+- Other theologians of pluralism have been less insistent that multiple religions are different ways of saying the same thing. A Roman Catholic priest named Raimundo Pannikar, for example, born in Spain to a Hindu father and a Spanish mother, advocates a more strictly comparative approach.
+

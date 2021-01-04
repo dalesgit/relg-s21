@@ -1,0 +1,184 @@
+# Triumphant sense of history presentations #
+
+## Europe Rejecting the Enlightenment ##
+
+-   Different course from that taken in America
+
+::: {.NOTES}
+Note: How did America move past the Enlightenment?
+
+Locke etc. -- Deism Great Awakening -- embracing "enthusiasm",
+conversion over "natural theology" Unitarians, Emerson, Slavery?
+:::
+
+### Placement along various continua ###
+
+
+-   Traditional <---> Progressive
+-   Catholic <---> Protestant
+-   Open to Science <---> Reactive or rejecting
+-   Religious language as literal <---> Figurative
+
+### Definitions ###
+
+
+-   Romanticism: p.233 *change is not always for the best, appreciate national traditions, value feeling over scientific analysis*
+-   **Not** "natural theology": p. 205 *the basic truths about the existence of God and human morality known to good people in all societies*
+
+### New awareness of History ###
+
+
+-   Rise of historical criticism since Renaissance
+-   Skepticism of **knowing** with certainty (Spinoza, Hume, Kant, rise of scientific method)
+
+::: {.NOTES}
+Note: From my youth I would reflect that no one in all of human history could think the thoughts I do, imagine what I imagine. I somehow looked toward Africa, reflecting that my vantage point was toward Africa not the other way round. That I had learned the things I learned in school -- from my ancestors -- that I thought in an English way, not French or Albanian or whatever.
+
+Moreover, the experience of History class in High School. Historical knowledge is never knowledge **with certainty**.
+:::
+
+# Romantic era #
+
+![Building Foundations](https://thefunambulistdotnet.files.wordpress.com/2010/12/undergroundbydavidmacaulay001.jpg)
+
+
+## 2 Romantics ##
+
+
+### Schleiermacher ###
+
+
+-   religion as a **feeling** not **thought** "feeling of absolute
+    dependence"
+-   every event is a miracle, a "sign"
+-   revelation is "every original and new communication of the Universe
+    to man"
+-   embrace the "genius" of one's own tradition
+
+### Coleridge ###
+
+
+-   **tradition** is not conservatism but interpreting Christianity in
+    terms of Romanticism
+-   "factual accuracy of the Bible does not matter" but whether it
+    **finds me**
+
+# Hegel #
+
+
+## Structure of Reality & How we can know it ##
+
+- ![](http://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-580x288/public/news/research/news/120905-georg-wilhelm-friedrich-hegel-wikimedia-commons.jpg?itok=1upCC102)
+- everything we see and experience is bound by historical setting
+- thus: **How can we know anything with certainty?**
+- triadic structure of reality p. 237
+- [Overview of Hegel](https://www.youtube.com/watch?v=q54VyCpXDH8&feature=youtu.be)
+- [30 min. more in depth on Hegel](http://www.openculture.com/2015/08/the-half-hour-hegel.html)
+
+
+
+
+## David Strauss ##
+
+
+- until Strauss, miracles either:
+    - happened as described (literal) or
+    - some "rational" explanation or
+    -"fraud"
+- Strauss proposed that they consisted of "myth" (religious language
+    that conveys sacred truth)
+
+## Ludwig Feuerbach ##
+
+
+- "theology is anthropology"
+- many college freshman can say, "God is just a projection of the
+    human imagination." (a function of low-level thinking? or
+    pervasiveness of Feuerbach's position)
+
+## Development of Religious Person for S.K. ##
+
+
+- **aesthetic** stage
+- **ethical** stage
+- **religious** stage
+    - The "Knight of Faith"
+
+![](http://blog.jaluo.com/wp-content/uploads/2012/05/19/unst_fa_2da_files/image006.jpg)
+
+## Søren Kierkegaard ##
+
+-   writing in pseudonyms to make the point that we always only know
+    from a certain perspective
+-   "We understand backwards, but we must live forwards."
+
+::: {.NOTES}
+Note: Thus Abraham responding to God's command to sacrifice Isaac as seen from an ethical perspective was utterly depraved, justification for **murder**. "Only faith can offer a different interpretation... Faith goes beyond the universal categories of ethics to make the individual matter again. Only through **absurdity** ... belief in **paradox**. Anything else made faith to be **trivial**. "Only paradox can be grasped with passion." (p. 240)
+
+Use the image of "leap of faith" in a dancer. Throughout one is only becoming or reflecting where one has been. Only at one unspeakable moment is one in **being**.
+
+The aesthetic perspective seeks to understand **love**. Thus is personal. Personal <-> Universal <-> Personal again
+:::
+
+# Roman Catholic Reaction #
+
+
+-   interplay of Church/State authority (Papacy reluctant to abandon)
+-   condemnation of "modernism" (*Syllabus of Errors*)
+-   **immaculate conception** as dogma by means of **papal
+    infallibility**
+-   Leo XIII & Catholic social justice concerns
+
+## English Response ##
+
+
+## John H. Newman ##
+
+
+-   recognizing that the Protestant claim to return to apostolic origins
+    was fraught with historical perspectives (Hegel)
+    -   doctrine had developed from the very beginning of the church
+-   "England would improve "were it vastly more superstitious, more
+    bigoted, more gloomy, more fierce in its religion ..." p. 242
+
+## Frederick Maurice ##
+
+
+-   high church / evangelical wing
+-   rejecting both Maurice sought a 3rd alternative, identifying with
+    the working class, argued for a gospel that could be embraced by
+    **all**
+-   Darwin / Huxley couldn't explain "the philosophical and
+    theological implications of these new scientific conclusions."
+
+# Liberal Theology #
+
+
+-   Albrecht Ritschl
+-   Friedrich Nietzsche
+-   Adolf Harnack
+-   Ernst Troeltsch
+
+::: {.NOTES}
+Note: Ritschl tied Christianity closely to the culture of his time,
+moving away from metaphysical theories (cp. Maurice re. attacking
+emphasis on justification and conversion.
+
+Harnack was his student. History of Christian doctrine -- corruption of
+Christ's original teaching through Greek influences.
+
+History of religions theologicans like E. Troeltsch concluded
+Christianity emerged gradually out of a context of Jewish and middle
+eastern religions.
+
+Johannes Weiss and Albert Schweitzer argued that Jesus context had been
+**apocalypticism** -- expectation that a cataclysm was approaching and a
+**new age** would be ushered in.
+
+Nietzsche: argued that the influence of Christianity had been
+**negative**! We are not moving towards **truth** but truth is simply
+whatever a society agrees to call "true".
+
+Fascination with **history** ending in **despair**?
+:::
+

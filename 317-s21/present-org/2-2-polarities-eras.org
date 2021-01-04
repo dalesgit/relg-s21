@@ -1,0 +1,54 @@
+#+Title:Polarities and Eras 
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+* Polarities and Eras
+  :PROPERTIES:
+  :CUSTOM_ID: polarities-and-eras
+  :END:
+
+** 5 polarities / themes playing out over the centuries
+   :PROPERTIES:
+   :CUSTOM_ID: 5-polarities--themes-playing-out-over-the-centuries
+   :END:
+
+We will return again and again in the course to these themes laid out by
+Placher
+
+1. Humanity and Divinity of Christ
+2. Reason and revelation
+3. Works and Grace
+4. Spirit and Structure
+5. Church and State
+
+** Cultural eras
+   :PROPERTIES:
+   :CUSTOM_ID: cultural-eras
+   :END:
+
+Below are major developments that unfold in Western Civilization during
+the time period of our survey of Christian thought:
+
+- Renaissance
+- Development of National identities (including languages)
+- Printing Press
+- Development of European music
+- Science and Technology
+- Discovery of Americas
+- Rise of Capitalism
+- Enlightenment
+- Romantic / Baroque
+- Wars
+- Liberation: Women, Slavery, Indigenous Peoples ...
+

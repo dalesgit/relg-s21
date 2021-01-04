@@ -1,0 +1,100 @@
+reveal~width~:1000 reveal~height~:800
+
+Radical Reformation {#radical-reformation-1}
+===================
+
+The Schleitheim Confession Of Faith, 1527
+-----------------------------------------
+
+-   a People set apart (sect)
+-   the \"ban\"
+-   a \"remembrance\" for the holy people
+-   the \"sword\" is for the world, not the holy people
+
+Humanism
+========
+
+Erasmus
+-------
+
+Several quotes to illustrate \"Humanism\"
+
+-   cf. <http://oll.libertyfund.org/people/desiderius-erasmus>
+-   need for a philosopher of the kitchen
+-   for peace and against war
+
+Sacraments
+==========
+
+3 Competing Definitions
+-----------------------
+
+### Trent
+
+-   Transubstantiation
+-   Universal = Christ, outward appearance = bread and wine
+
+### Luther
+
+-   Consubstantiation
+-   by the power of God both Christ and bread and wine present
+
+### Zwingli
+
+-   (mere) symbol
+-   Humanist focus on the human effects, language
+
+Sacrament is ...
+----------------
+
+\"Outward and visible sign of an inward and invisible grace\"
+
+-   one substance (Christ) with \"accidents\" (manifestations, \"outward
+    appearance\") of bread and wine
+-   But the power of God cannot be so determined and measured
+-   In view of these passages we are compelled to confess that the
+    words: \"This is my body,\" should not be understood naturally, but
+    figuratively,
+-   option: not to define the \"presence\"
+
+Counter Reformation
+===================
+
+Council of Trent
+----------------
+
+-   p\. 173 notion of \"justification\" which many thought as a kind of
+    property people have or don\'t, -- L. \"no righteousness of our own but
+    only share in Christ\'s righteousness\"
+-   Trent set forth doctrinal statements on Scripture and tradition,
+    original sin, justification, and the sacraments that have provided
+    the basis of Catholic theology ever since,\" laid foundation for
+    reform
+
+-   Scripture and tradition equally
+-   L. had said original sin destroyed will, Catholics sought compromise
+-   Justification as a \"process\" not instantaneous as L. thought
+-   Sacraments and reform: 7 sacraments, transubstantiation, sacrifice
+    on altar repeated, purgatory and indulgences (but warned re. abuse)
+
+Jesuits and mystics
+-------------------
+
+-   Don Quixote and Loyola (Knight for Christ)
+-   S.J. sending missionaries world wide, adapting to customs of people
+    they met
+-   Carmelites (John and Teresa)
+
+Continuing debates
+------------------
+
+-   Jesuits at center of response to Protestantism
+-   \"Aquinas had taught that we talk about God \"analogically\"
+-   Port Royal Jansenists -- rigorous piety and trust in grace as
+    opposed to Jesuits whom they saw as \"Pelagian\"
+-   Pascal: genius of age ... conversion \"Fire, God of Abraham ...\"
+    trust in grace while being well trained in reason as mathematician
+-   Pascal defense of Christianity, but ultimately Pope ruled against
+    Jansenist radical trust in grace (not own will)
+-   Fenelon, \"Quietism\", Mme. Guyon = claiming that usual rules don\'t
+    apply because of special relationship with God
