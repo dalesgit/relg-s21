@@ -13,12 +13,12 @@
  #+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
 
-* Continuums and Eras
+* Continua and Eras
   :PROPERTIES:
   :CUSTOM_ID: continuums-and-eras
   :END:
 
-** 5 continuums / themes playing out over the centuries
+** 5 continua / themes playing out over the centuries
    :PROPERTIES:
    :CUSTOM_ID: 5-continuums--themes-playing-out-over-the-centuries
    :END:
@@ -105,4 +105,53 @@ the time period of our survey of Christian thought:
 - Wars
 - Liberation: Women, Slavery, Indigenous Peoples ...
 
+
+* Philosophical issues
+  :PROPERTIES:
+  :CUSTOM_ID: philosophical-issues
+  :END:
+
+** Nominalism vs. Realism (philosophical concepts)
+   :PROPERTIES:
+   :CUSTOM_ID: nominalism-vs-realism-philosophical-concepts
+   :END:
+
+- Realism: Universals are "real"
+
+- Nominalism: The only thing "real" are the names we put on things
+
+- the really real vs. knowing the individual rather than the universal
+
+- cf. John Duns Scotus
+
+** William of Ockham: showing reason's limitations
+   :PROPERTIES:
+   :CUSTOM_ID: william-of-ockham-showing-reasons-limitations
+   :END:
+
+ - Ockham (God can do anything)
+
+ - Ockham's "razor": argued the simpler explanation is to be preferred
+
+ - Particulars are all that we experience and "know"
+
+ - Ockham's "razor"
+
+
+[[http://www.tournamentpokeredge.com/wp-content/uploads/2015/02/occam-300x179.jpeg]]
+    
+** 
+
+https://yourspiritualquest.files.wordpress.com/2018/05/ockhams-razor.jpg
+** What is the possible critique?
+
+[[../img/simple-pathways.png]]
+** 3 "proofs" for the existence of God
+   :PROPERTIES:
+   :CUSTOM_ID: 3-proofs-for-the-existence-of-god
+   :END:
+
+- Anselm of Canterbury (11th c.)
+- Thomas Aquinas (13th c.)
+- B. Pascal (17th c.)
 

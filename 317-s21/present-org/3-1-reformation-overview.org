@@ -18,103 +18,58 @@
   :CUSTOM_ID: reformation-overview
   :END:
 
-** 5 Themes
+* 5 Themes / 5 Continuua
+  :PROPERTIES:
+  :CUSTOM_ID: 5-themes
+  :END:
+
+** Humanity / Divinity of Christ
    :PROPERTIES:
-   :CUSTOM_ID: 5-themes
+   :CUSTOM_ID: humanity--divinity-of-christ
    :END:
 
-*** Humanity / Divinity of Christ
-    :PROPERTIES:
-    :CUSTOM_ID: humanity--divinity-of-christ
-    :END:
-
-- John 1 (NRSV) 1 In the beginning was the Word, and the Word was with
+- /John 1 (NRSV)/ 1 In the beginning was the Word, and the Word was with
   God, and the Word was God. 2 He was in the beginning with God. 3 All
   things came into being through him, and without him not one thing came
   into being. What has come into being 4 in him was life, ...
-- Matthew 13:55 Is not this the carpenter's son? Is not his mother
+- /Matthew 13:55/ Is not this the carpenter's son? Is not his mother
   called Mary? And are not his brothers James and Joseph and Simon and
   Judas?
 
-*** Spirit and Structure
-    :PROPERTIES:
-    :CUSTOM_ID: spirit-and-structure
-    :END:
+** Spirit and Structure
+   :PROPERTIES:
+   :CUSTOM_ID: spirit-and-structure
+   :END:
 
-- Romans 8:2 For the law of the Spirit of life in Christ Jesus has set
+- /Romans 8:2/ For the law of the Spirit of life in Christ Jesus has set
   you free from the law of sin and of death.
 
-*** Reason and Revelation
-    :PROPERTIES:
-    :CUSTOM_ID: reason-and-revelation
-    :END:
+** Reason and Revelation
+   :PROPERTIES:
+   :CUSTOM_ID: reason-and-revelation
+   :END:
 
-- Romans 16:25 Now to God who is able to strengthen you according to my
+- /Romans 16:25/ Now to God who is able to strengthen you according to my
   gospel and the proclamation of Jesus Christ, according to the
   revelation of the mystery that was kept secret for long ages
 
-*** Works and Grace
-    :PROPERTIES:
-    :CUSTOM_ID: works-and-grace
-    :END:
+** Works and Grace
+   :PROPERTIES:
+   :CUSTOM_ID: works-and-grace
+   :END:
 
-- 2 Timothy 1:9 who saved us and called us with a holy calling, not
+- /2 Timothy 1:9/ who saved us and called us with a holy calling, not
   according to our works but according to his own purpose and grace.
   This grace was given to us in Christ Jesus before the ages began,
 
-*** Church and State
-    :PROPERTIES:
-    :CUSTOM_ID: church-and-state
-    :END:
-
-- Romans 13 Let every person be subject to the governing authorities;
-  for there is no authority except from God, and those authorities that
-  exist have been instituted by God.
-
-** Philosophical issues
+** Church and State
    :PROPERTIES:
-   :CUSTOM_ID: philosophical-issues
+   :CUSTOM_ID: church-and-state
    :END:
 
-*** Nominalism vs. Realism (philosophical concepts)
-    :PROPERTIES:
-    :CUSTOM_ID: nominalism-vs-realism-philosophical-concepts
-    :END:
-
-- Realism: Universals are "real"
-
-- Nominalism: The only thing "real" are the names we put on things
-
-- the really real vs. knowing the individual rather than the universal
-
-- cf. John Duns Scotus
-
-  ***** William of Ockham: showing reason's limitations
-        :PROPERTIES:
-        :CUSTOM_ID: william-of-ockham-showing-reasons-limitations
-        :END:
-
-- Ockham (God can do anything)
-
-- Ockham's "razor": argued the simpler explanation is to be preferred
-
-- Particulars are all that we experience and "know"
-
-- Ockham's "razor"
-
-*** [[http://www.tournamentpokeredge.com/wp-content/uploads/2015/02/occam-300x179.jpeg]]
-    :PROPERTIES:
-    :CUSTOM_ID: img
-    :END:
-
-[[https://yourspiritualquest.files.wordpress.com/2018/05/ockhams-razor.jpg?w=900]]
-
-*** What is the possible critique?
-    :PROPERTIES:
-    :CUSTOM_ID: what-is-the-possible-critique
-    :END:
-
-[[https://i2.wp.com/theethicalskeptic.com/wp-content/uploads/2019/11/simple-pathways.png?resize=552%2C290&ssl=1]]
+- /Romans 13/ Let every person be subject to the governing authorities;
+  for there is no authority except from God, and those authorities that
+  exist have been instituted by God.
 
 ** Broad issues
    :PROPERTIES:
@@ -183,24 +138,15 @@
 - 14th c. as focus of mysticism (Meister Eckhart)
 - Julian of Norwich (Mother Jesus)
 
-*** 3 "proofs" for the existence of God
-    :PROPERTIES:
-    :CUSTOM_ID: 3-proofs-for-the-existence-of-god
-    :END:
+* Some perspectives
+  :PROPERTIES:
+  :CUSTOM_ID: some-perspectives
+  :END:
 
-- Anselm of Canterbury (11th c.)
-- Thomas Aquinas (13th c.)
-- B. Pascal (17th c.)
-
-** Some perspectives
+** Events of the 14th c.
    :PROPERTIES:
-   :CUSTOM_ID: some-perspectives
+   :CUSTOM_ID: events-of-the-14th-c
    :END:
-
-*** Events of the 14th c.
-    :PROPERTIES:
-    :CUSTOM_ID: events-of-the-14th-c
-    :END:
 
 - The Avignon papacy transfers the seat of the Popes from Italy to
   France
@@ -217,10 +163,10 @@
   900 years in Europe, beginning with the fall of the Western Roman
   Empire in 476 through to the renewal embodied in the *Renaissance*.
 
-*** Vocabulary
-    :PROPERTIES:
-    :CUSTOM_ID: vocabulary
-    :END:
+** Vocabulary
+   :PROPERTIES:
+   :CUSTOM_ID: vocabulary
+   :END:
 
 - nepotism: handing out positions to family members
 - pluralism: illegally hold more than one clergy position
@@ -230,29 +176,28 @@
 - worldliness: clergy got drunk, lead armies, fathered children, gambled
   etc.
 
-** Competing Views of World / Universe
-   :PROPERTIES:
-   :CUSTOM_ID: competing-views-of-world--universe
-   :END:
+* Competing Views of World / Universe
+  :PROPERTIES:
+  :CUSTOM_ID: competing-views-of-world--universe
+  :END:
 
-*** Ptolemaic system
-    :PROPERTIES:
-    :CUSTOM_ID: ptolemaic-system
-    :END:
+* Ptolemaic system
+  :PROPERTIES:
+  :CUSTOM_ID: ptolemaic-system
+  :END:
 
 [[../img/cellarius-ptolemaic-system.jpg]]
 
-*** Copernican system
-    :PROPERTIES:
-    :CUSTOM_ID: copernican-system
-    :END:
+* Copernican system
+  :PROPERTIES:
+  :CUSTOM_ID: copernican-system
+  :END:
 
 [[../img/copernican.jpg]]
-
-** Protest against Church authority
-   :PROPERTIES:
-   :CUSTOM_ID: protest-against-church-authority
-   :END:
+* Protest against Church authority
+  :PROPERTIES:
+  :CUSTOM_ID: protest-against-church-authority
+  :END:
 
 - Competing popes
 - Church offices for sale
