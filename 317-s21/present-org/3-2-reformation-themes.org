@@ -16,7 +16,10 @@
   :PROPERTIES:
   :CUSTOM_ID: key-themes-of-reformation
   :END:
-
+- Faith alone
+- Grace alone
+- Scripture alone
+- Law vs. Gospel
 ** Sola Fides
    :PROPERTIES:
    :CUSTOM_ID: sola-fides
