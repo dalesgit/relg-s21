@@ -19,39 +19,64 @@
 - Faith alone
 - Grace alone
 - Scripture alone
+- /Solus Christus/ or /Solo Christo/ ("Christ alone" or "through Christ alone")
+- /Soli Deo gloria/ ("glory to God alone")
 - Law vs. Gospel
 ** Sola Fides
    :PROPERTIES:
    :CUSTOM_ID: sola-fides
    :END:
 
+#+REVEAL_HTML: <img class="stretch" src="https://responsivereiding.files.wordpress.com/2017/10/sola-fide.jpg">
+*** Justification by faith alone
+    - foundational belief of Reformation
+    - "works" are a fruit of faith
+    - growing out of Luther's experience
+    - the established church (Western Catholic, Eastern Orthodox) never argued the opposite i.e. justification by works alone
 ** Sola Gratia
    :PROPERTIES:
    :CUSTOM_ID: sola-gratia
    :END:
-
+#+reveal_html: <img class="stretch" src="https://onewaychristiancenter.com/wp-content/uploads/2015/04/Sola-Gratia.jpg">
+** 
+- salvation is accomplished entirely by God's grace, not our doing
+- even the benefits or fruit of God's grace working in us, does not effect salvation
 ** Sola Scriptura
    :PROPERTIES:
    :CUSTOM_ID: sola-scriptura
    :END:
+#+reveal_html: <img class="stretch" src="https://onewaychristiancenter.com/wp-content/uploads/2015/04/Sola-Scriptura.jpg">
+** 
+- scripture is the primary source of authority
+- scripture should be used to interpret scripture
+- pitted against the authority of "*tradition*", or later in the Anglican tradition a 3rd category of "experience"
 
 ** Law vs. Gospel
    :PROPERTIES:
    :CUSTOM_ID: law-vs-gospel
    :END:
 
-[[https://cdn.kastatic.org/ka-perseus-images/d9e7978a4b7fe756ac98a30c6f16b2331626d655.jpg]]
+#+reveal_html: <img src="https://cdn.kastatic.org/ka-perseus-images/d9e7978a4b7fe756ac98a30c6f16b2331626d655.jpg">
 
+** a "Polarity" of the Reformation
+- this is typically used to contrast the standards, authority, and effectiveness of the old covenant vs. the new covenant
+- Luther established the pattern of using the contrast as a standard for interpreting scripture
 * Authority
   :PROPERTIES:
   :CUSTOM_ID: authority
   :END:
-
+- the nature, range, source, extent of *authority* has been consistently a part of theology controversy from the earliest days of the church
+- it raises issues of political vs. spiritual authority
+- it raises local vs. global (i.e. "catholic") tensions
+- in the context of the reformation it pits the authority of *scripture* vs. the authority of the *church* or the authority of "*tradition*"
 * Free will and Predestination
   :PROPERTIES:
   :CUSTOM_ID: free-will-and-predestination
   :END:
-
+- this polarity seems very modern, where "free will" seems self-evident
+- contemporary science continues to provide less self-evident evidence that all might be determined
+- the Reformation provides considerable background to the debate
+- both Luther and Calvin provided strong arguments intended to contrast the fallen nature of human will vs. majesty of God's will
 * References:
   :PROPERTIES:
   :CUSTOM_ID: references
