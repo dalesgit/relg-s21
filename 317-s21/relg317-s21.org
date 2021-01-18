@@ -5906,6 +5906,8 @@ file:relg317-exam1-review.org
 *** Module 1
   file:present-org/1-1-unpacking-the-title.org
   file:present-org/1-2-prefatory-placher.org
+  file:present-org/zoom-1.org
+
 *** Module 2
   file:present-org/2-1-resources.org
   file:present-org/2-2-polarities-eras.org
@@ -5941,3 +5943,4 @@ file:relg317-exam1-review.org
   file:present-org/10-1-theology-new-philosophies.org
 
 
+  

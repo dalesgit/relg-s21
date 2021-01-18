@@ -1,0 +1,87 @@
+#+Title: Zoom session
+#+Date: Jan. 19, 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+* Things to keep in mind
+** Denominational History
+
+- most of us learn church theology and church history from a denominational perspective
+- we enter the study through a particular portal
+- our understanding will come through the development of our own self-awareness of our own limitations
+
+** Methods available to us 
+- historical methods
+- philosophical methods
+- language & literary methods
+- other methods through the modern period, e.g. scientific, psychological, ...
+
+** Limitations and warnings
+Placher himself sets these parameters for his text:
+
+1. It is history of Christian theology, not general history, intellectual history, etc.
+2. Theology means the systematic reflection on one's faith. (experience?) An "elite" enterprise?
+3. Much ends up being ignored. We need to make decisions about what we leave out, perhaps to add them back in later.
+4. Too favorable picture of "theology"?
+
+* Meeting room discussion
+** Questions to consider
+As we seek greater understanding of this "modern period", the question of what we know, how we can know are continual framing questions.
+
+- what do we know?
+- what is history?
+- what is change?
+- what is "modern"?
+- what is "Christian thought" as opposed to other important religious thinking?
+* Prior to Reformation change was at work
+** Nominalism vs. Realism (philosophical changes)
+- *Realism*: Universals are "real"
+- *Nominalism*: The only thing "real" are the names we put on things
+
+** William of Ockham: showing reason's limitations
+With the rise of *nominalism* there began to develop new models for making decisions. William Ockham argued "God can do anything", miracles of the most unimaginable ways. For example, we observe that when we boil water it bubbles until it finally disappears. How do we explain that? 
+
+ - Ockham's "razor": argued the simpler explanation is to be preferred
+ - Particulars (what we observe) are all that we experience and "know"
+ - Ockham's "razor" guides us in drawing conclusions, tentative as long as our observations are not contradicted
+
+** 
+ #+REVEAL_HTML: <img class="stretch" src="https://yourspiritualquest.files.wordpress.com/2018/05/ockhams-razor.jpg">  
+
+
+* Philosophy applied to God
+** 3 "proofs" for the existence of God
+
+- Anselm of Canterbury (11th c.)
+- Thomas Aquinas (13th c.)
+- Blaise Pascal (17th c.)
+** Anselm ontological argument 
+God is most perfect, the most supreme that can be imagined. Existence -- "being" -- is better than not being. Since God is supreme, God must exist. 
+
+Moses received God's name, "Yahweh", which is a form of the verby "to be". Modern philosophers have argued that "being" is the most basic reality humans can "know".
+** Aquinas argument from design
+He provides 5 "proofs" that claim to start from things we can observe. One of them is explicitly arguing from the "design". "Some intelligent being must have created such a creation." The other 4 are similar in nature: 1) from motion, 2) from efficient causes, 3) something must have been the original creator, 4) better and worse imply that there must be a "best"
+** Pascal wager 
+For Pascal we can not know whether God exists. It is, therefore, a good bet to bet on God's existence. He based his wager on a profound experience:
+
+#+begin_quote
+“Fire. God of Abraham, God of Isaac, God of Jacob, not of the philosophers and the scholars. I will not forget thy word. Amen.” 
+#+end_quote
+** Discussion Thread
+
+Of the 3 positions identified in the presentations (viz., Anselm, Aquinas, Pascal) which one is most persuasive to you. Why? Is there another alternative that is more persuasive to you.
+
+Respond to at least 2 peers. Be both supportive and insightful. Provide evidence.
+
+
+
