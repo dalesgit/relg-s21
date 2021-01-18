@@ -35,6 +35,14 @@
 - /Matthew 13:55/ Is not this the carpenter's son? Is not his mother
   called Mary? And are not his brothers James and Joseph and Simon and
   Judas?
+** Reformers and ...
+   :PROPERTIES:
+   :CUSTOM_ID: reformers-and-
+   :END:
+
+- what is the role of free will?
+- does justification happen instantaneously or gradually?
+
 
 ** Spirit and Structure
    :PROPERTIES:
@@ -43,6 +51,15 @@
 
 - /Romans 8:2/ For the law of the Spirit of life in Christ Jesus has set
   you free from the law of sin and of death.
+** Reformers and ...
+   :PROPERTIES:
+   :CUSTOM_ID: reformers-and--1
+   :END:
+
+- is Spirit primary? or Scripture?
+- If community is led by Spirit does it need to follow ordinary rules of
+  society?
+
 
 ** Reason and Revelation
    :PROPERTIES:
@@ -52,6 +69,14 @@
 - /Romans 16:25/ Now to God who is able to strengthen you according to my
   gospel and the proclamation of Jesus Christ, according to the
   revelation of the mystery that was kept secret for long ages
+** Reformers and ...
+   :PROPERTIES:
+   :CUSTOM_ID: reformers-and--2
+   :END:
+
+- /sola scritura/ vs. scripture and tradition
+- is Scripture the only authority or the "highest" authority?
+
 
 ** Works and Grace
    :PROPERTIES:
@@ -61,6 +86,14 @@
 - /2 Timothy 1:9/ who saved us and called us with a holy calling, not
   according to our works but according to his own purpose and grace.
   This grace was given to us in Christ Jesus before the ages began,
+** Reformers and ...
+   :PROPERTIES:
+   :CUSTOM_ID: reformers-and--3
+   :END:
+
+- justification by grace alone, works are of no use
+- gradual sanctification manifest through works
+
 
 ** Church and State
    :PROPERTIES:
@@ -70,71 +103,71 @@
 - /Romans 13/ Let every person be subject to the governing authorities;
   for there is no authority except from God, and those authorities that
   exist have been instituted by God.
-
-** Broad issues
+** Reformers and ...
    :PROPERTIES:
-   :CUSTOM_ID: broad-issues
+   :CUSTOM_ID: reformers-and--4
    :END:
 
-*** path to salvation
-    :PROPERTIES:
-    :CUSTOM_ID: path-to-salvation
-    :END:
+- Luther essentially conservative with regard to civil authorities
+- others understood the Reform agenda to be revolutionary
+- pacifism of Mennonites
 
-- reflecting the particular, we contribute to the salvicfic effect
-  (Pelagian?)
+* Broad issues
+  :PROPERTIES:
+  :CUSTOM_ID: broad-issues
+  :END:
+
+** path to salvation
+   :PROPERTIES:
+   :CUSTOM_ID: path-to-salvation
+   :END:
+
+- reflecting the particular, we contribute to the salvicfic effect (*Pelagian?*)
 - later Martin Luther was Augustinian trained as *nominalist*
-- Meister Eckhart (God's spark within us) n.b. 14th c. *mystical*
-  traditions (/tradition where metaphysics is more controversial than
-  sex/)
+- Meister Eckhart (God's spark within us) n.b. 14th c. *mystical* traditions (/tradition where metaphysics is more controversial than sex/)
 
-*** councils and rebels
-    :PROPERTIES:
-    :CUSTOM_ID: councils-and-rebels
-    :END:
+** councils and rebels
+   :PROPERTIES:
+   :CUSTOM_ID: councils-and-rebels
+   :END:
 
 - Avignon etc. competing popes
 - church corruption
-- dissenters and reformers experienced as betrayers of sacred truth --;
-  burning of John Hus (1410)
-- John Wycliffe in England (foundation for protest against church
-  authority)
+- dissenters and reformers experienced as betrayers of sacred truth --; burning of John Hus (1410)
+- John Wycliffe in England (foundation for protest against church authority)
 - Nicholas of Cusa defended pope's authority from a mystic point of view
 
-*** toward humanism and simple piety
-    :PROPERTIES:
-    :CUSTOM_ID: toward-humanism-and-simple-piety
-    :END:
+* toward Humanism and Simple Piety
+  :PROPERTIES:
+  :CUSTOM_ID: toward-humanism-and-simple-piety
+  :END:
 
-*** rise of Renaissance
-    :PROPERTIES:
-    :CUSTOM_ID: rise-of-renaissance
-    :END:
+** rise of Renaissance
+   :PROPERTIES:
+   :CUSTOM_ID: rise-of-renaissance
+   :END:
 
 - (art not theology lay at the heart of the movement)
 
   [[http://4.bp.blogspot.com/-QOR43_35H4c/URKBrTEcIUI/AAAAAAAAAv8/CRrAjAL2U50/s1600/Renaissance.jpg]]
 
-*** rise of /Modern Devotion/ "devotio moderna"
-    :PROPERTIES:
-    :CUSTOM_ID: rise-of-modern-devotion-devotio-moderna
-    :END:
+** rise of /Modern Devotion/ "devotio moderna"
+   :PROPERTIES:
+   :CUSTOM_ID: rise-of-modern-devotion-devotio-moderna
+   :END:
 
-- centered in what would become the Netherlands, ordinary Christians
-  forming community to "devote themselves to prayer and charity"
+- centered in what would become the Netherlands, ordinary Christians forming community to "devote themselves to prayer and charity"
 - "beginnings of a new kind of Christian ideal"
-  [[https://i.ytimg.com/vi/jpi3cGzWsGk/maxresdefault.jpg]]
 
-*** Mysticism
-    :PROPERTIES:
-    :CUSTOM_ID: mysticism
-    :END:
+#+REVEAL_HTML: <img class="stretch" src="https://i.ytimg.com/vi/jpi3cGzWsGk/maxresdefault.jpg">
 
-- "nominalism had raised basic questions about the nature of the order
-  (the world) we see around us."
-- The environment of the 14th c. gave rise to leading figures reflecting
-  a rejection of both realism and nominalism, namely *mysticism*, a
-  direct experience of God's presence
+** Mysticism
+   :PROPERTIES:
+   :CUSTOM_ID: mysticism
+   :END:
+
+- "nominalism had raised basic questions about the nature of the order (the world) we see around us."
+- The environment of the 14th c. gave rise to leading figures reflecting a rejection of both realism and nominalism, namely *mysticism*, a direct experience of God's presence
 - 14th c. as focus of mysticism (Meister Eckhart)
 - Julian of Norwich (Mother Jesus)
 
@@ -148,20 +181,13 @@
    :CUSTOM_ID: events-of-the-14th-c
    :END:
 
-- The Avignon papacy transfers the seat of the Popes from Italy to
-  France
+- The Avignon papacy transfers the seat of the Popes from Italy to France
 - The Great Famine of 1315-1317 kills millions of people in Europe.
 - Beginning of the Renaissance in Italy
-- The Hundred Years' War begins when Edward III of England lays claim to
-  the French throne. (1337) The French recruit troops and ships in
-  Genoa, Monaco, and Nice (1345--1346).
-- Black Death kills around a third of the population of Europe.
-  (1347--1351).
-- The Great Schism of the West begins in 1378, eventually leading to 3
-  simultaneous popes.
-- The poet Petrarch coins the term /Dark Ages/ to describe the preceding
-  900 years in Europe, beginning with the fall of the Western Roman
-  Empire in 476 through to the renewal embodied in the *Renaissance*.
+- The Hundred Years' War begins when Edward III of England lays claim to the French throne. (1337) The French recruit troops and ships in Genoa, Monaco, and Nice (1345--1346).
+- Black Death kills around a third of the population of Europe. (1347--1351).
+- The Great Schism of the West begins in 1378, eventually leading to 3 simultaneous popes.
+- The poet Petrarch coins the term /Dark Ages/ to describe the preceding 900 years in Europe, beginning with the fall of the Western Roman Empire in 476 through to the renewal embodied in the *Renaissance*.
 
 ** Vocabulary
    :PROPERTIES:
@@ -180,20 +206,23 @@
   :PROPERTIES:
   :CUSTOM_ID: competing-views-of-world--universe
   :END:
+- Ptolemaic (the old classical view centered on the world around us)
+- Copernican system (the new scientific view featuring the familiar solar system)
+** Ptolemaic system
+   :PROPERTIES:
+   :CUSTOM_ID: ptolemaic-system
+   :END:
 
-* Ptolemaic system
-  :PROPERTIES:
-  :CUSTOM_ID: ptolemaic-system
-  :END:
 
-[[../img/cellarius-ptolemaic-system.jpg]]
+#+reveal_html: <img class="stretch" src="../img/cellarius-ptolemaic-system.jpg">
 
-* Copernican system
-  :PROPERTIES:
-  :CUSTOM_ID: copernican-system
-  :END:
+** Copernican system
+   :PROPERTIES:
+   :CUSTOM_ID: copernican-system
+   :END:
 
-[[../img/copernican.jpg]]
+ #+reveal_html: <img class="stretch" src="../img/copernican.jpg">
+
 * Protest against Church authority
   :PROPERTIES:
   :CUSTOM_ID: protest-against-church-authority
@@ -201,7 +230,6 @@
 
 - Competing popes
 - Church offices for sale
-- John Wycliffe: the Bible could provide foundation to reform Church
-  authority
+- John Wycliffe: the Bible could provide foundation to reform Church authority
 - John Hus: populist, all should receive communion, clergy are corrupt
 
