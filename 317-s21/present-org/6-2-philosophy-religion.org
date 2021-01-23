@@ -12,85 +12,106 @@
  #+REVEAL_PLUGINS: (markdown notes menu)
  #+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
+* Religion & Philosophy
+#+REVEAL_HTML: <img class="stretch" src="https://media.buzzle.com/media/images-en/gallery/famous-personalities/1200-96372953-rene-descartes.jpg">
+** Descartes to Newton
+ #+REVEAL_HTML: <img class="stretch" src="https://probaway.files.wordpress.com/2013/06/isaac_newton_3fm1.jpg">
+* Newton on religion
+  :PROPERTIES:
+  :CUSTOM_ID: newton-on-religion
+  :END:
 
-### Religion & Philosophy ###
+- Newton: God's "immensity" stretching infinitely in all directions and unchanged for all eternity [[https://www.gwern.net/docs/borges/1951-borges-pascalssphere.pdf][See an amazing short "inquiry"]] by Jorge Borges
+- what was most important about religion was its morality (/cf. Jefferson's approach (206)/)
+- while retaining religion, it is no stripped of the "supernatural"
+- "natural religion" (206)
+- Church of England would keep its theology vague enough to include as many groups as possible and tolerate the presence of some dissenting groups like Anabaptists and Quakers, though not Catholics
+- cf. 3 parts of Anglican: high (emphasizing ritual), low (like Methodism), broad (open to science and reasoning)
 
-#### Descartes to Newton ####
+** Locke and Deists
+   :PROPERTIES:
+   :CUSTOM_ID: locke-and-deists
+   :END:
 
-##### Newton on religion #####
-   
-   - Newton: God’s "immensity" stretching infinitely in all directions and unchanged for all eternity (cp. changing metaphor) (cp. Borges)
-   - what was most important about religion was its morality --; cf. Jefferson's approach (206)
-   - while retaining religion, it is no stripped of the "supernatural"
-   - "natural religion" (206)
-   - Church of England would keep its theology vague enough to include as many groups as possible and tolerate the presence of some dissenting groups like Anabaptists and Quakers, though not Catholics
-   
-   <div class="NOTES">
-   cf. 3 parts of Anglican: hi, lo, broad
-   
-   </div>
+- Nearly all the attitudes of the time came together in John Locke (207)
+- John Locke (most influential English philosopher of his day /The reasonableness of Christianity/ (Locke)
+- [[https://www.youtube.com/watch?v=kItXvJLnTtk]]
+- Many Deists brought to bear on the biblical miracle stories all the prestige of the scientific discovery of laws (209)
+- Deists distrusted appeals to authority and the miraculous, but they also turned away from anything beyond natural religion in part for moral reasons.
 
-##### Note: cf. Borges #####
-   
-   "Universal history is the history of a handful of metaphors"
-   
-   - changing metaphor from Anselm to Descartes
-   
-   <div class="NOTES">
-   read from *Labyrinths* "The fearful sphere of Pascal"
-   
-   </div>
-   
-##### Locke and Deists #####
+** Religion of Reason
+   :PROPERTIES:
+   :CUSTOM_ID: religion-of-reason
+   :END:
 
-   - Nearly all the attitudes of the time came together in John Locke (207)
-   
-   - <https://www.youtube.com/watch?v=kItXvJLnTtk>
-   
-   - Many Deists brought to bear on the biblical miracle stories all the prestige of the scientific discovery of laws (209)
-   
-   - Deists distrusted appeals to authority and the miraculous, but they also turned away from anything beyond natural religion in part for moral reasons.
+- Descartes argued that knowledge would come only from doubting everything
+- can a religion be built on Doubt?
+- No man shall ever be kept out of Heaven ... if he had but an honest and good heart, that was ready to comply with Christ's commandments (205)
+- God is more inward to us than our very souls (205)
 
-##### Religion of Reason #####
-   
-   Descartes argued that knowledge would come only from doubting everything
-   
-   - can a religion be built on Doubt?
-   - No man shall ever be kept out of Heaven … if he had but an honest and good heart, that was ready to comply with Christ’s commandments (205)
-   - God is more inward to us than our very souls (205)
-   - Pietists and Methodists
-   - "**Enthusiasm**" was a dirty word in the eighteenth century. (210)
-   - story begins in Germany, where Lutheran orthodoxy had increasingly defined faith as assent to a set of doctrines
-   - Lutherans suspect any call to moral improvement as a move toward works-righteousness.
-   - rise of **Pietism** (210)
-   - Moravians and J. Wesley intersect (211)
-   - Methodism with a "method" for holiness
-   - Wesley and Whitefield changed the shape of popular religion in England and North America, but they made little impact on the attitudes among most intellectuals
-   
-   <div class="NOTES">
-   Read Wesley quote of his conversion p. 211
-   
-   nb. that for Wesley, too, morality was more important than doctrine
-   
-   </div>
+* Pietists and Methodists
+** 
+#+REVEAL_HTML: <img class="stretch" src="https://www.steviva.com/wp-content/uploads/2017/09/enthusiasm.jpg">
+** 
+- "*Enthusiasm*" was a dirty word in the eighteenth century. (210)
+- story begins in Germany, where Lutheran orthodoxy had increasingly defined faith as assent to a set of doctrines
+- Lutherans suspect any call to moral improvement as a move toward works-righteousness.
+** Pietism
+#+REVEAL_HTML: <img class="stretch" src="https://pietistschoolman.files.wordpress.com/2012/05/h-pietism.jpg">
+- rise of *Pietism* (210)
+- Moravians and J. Wesley intersect -- see his "conversion"(211)
 
-<a id="org9d17fc1"></a>
+** Methodism
+   :PROPERTIES:
+   :CUSTOM_ID: methodism
+   :END:
 
-#### The end of Age of Reason ####
+- Methodism with a "*method*" for holiness
+- morality more important than doctrine
+- *Wesley* and *Whitefield* changed the shape of popular religion in England and North America,
+- but they made *little impact on the attitudes among most intellectuals*
 
-##### Hume #####
-   
-   - skeptic of scientific inference producing absolute knowledge
-   - apply skepticism to argument from order; miracles; and others ...;
+* The end of Age of Reason
+  :PROPERTIES:
+  :CUSTOM_ID: the-end-of-age-of-reason
+  :END:
 
-##### Rousseau #####
-   
-- doubting even **civilization** --; cf. *Emile* raised as a **natural child**
+- Kant "*sought religion independent of historical facts about Jesus*" ...
+- cf. also his morality ...
+- "Kant believed in God and grace, but not in most of Christian theology."
+
+** Hume
+   :PROPERTIES:
+   :CUSTOM_ID: hume
+   :END:
+
+- David Hume, "asking embarrassing questions about scientific method" (213), *question about what we can know* ...; scepticism
+- skeptic of scientific inference producing absolute knowledge
+- Hume is relevant to the question we asked in the opening weeks of the class about proofs for existence of God
+
+#+BEGIN_NOTES
+
+  apply skepticism to argument from order; miracles; and others ...;
+#+END_NOTES
+
+** Rousseau
+   :PROPERTIES:
+   :CUSTOM_ID: rousseau
+   :END:
+
+- Rousseau, Lessing ... Christian, Jews, Muslims should all follow God and humanity in own ways (215)
+- doubting even *civilization* 
+- cf. /Emile/ raised as a *natural child*
 - follow self & respect others (214)
 - Lessing: story of 3 rings (214)
-   
-   <div class="NOTES">
-   see how we identify with the motto of Rousseau above
-   
-   </div>
+
+** Religion of Reason
+   :PROPERTIES:
+   :CUSTOM_ID: religion-of-reason-1
+   :END:
+
+- Cartesian coordinates
+- can a religion be built on Doubt?
+- No man shall ever be kept out of Heaven ... if he had but an honest and good heart, that was ready to comply with Christ's commandments
+- God is more inward to us than our very souls
 

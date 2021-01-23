@@ -12,36 +12,53 @@
  #+REVEAL_PLUGINS: (markdown notes menu)
  #+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
+* Developing themes of Modern world
+  :PROPERTIES:
+  :CUSTOM_ID: developing-themes-of-modern-world
+  :END:
 
-#### Emergence of the "modern" world ####
+** Individualization
+   :PROPERTIES:
+   :CUSTOM_ID: individualization
+   :END:
 
-##### Developing themes of Modern world #####
+- for at least 1,000 years before the Reformation there had been a developing focus on the individual over society
+- Augustine was the first person to report the phenomenon of someone reading a book *silently*
 
-###### Individualization ######
+** Empirical reason, Scientific Method
+   :PROPERTIES:
+   :CUSTOM_ID: empirical-reason-scientific-method
+   :END:
 
-###### Empirical reason, Scientific Method ######
+- first the Islamic civilization and then the emerging European medieval culture began developing a reliance on empirical learning - the fully flowering of these beginnings would take centuries
 
-###### Exploration of world of diverse cultures ######
+** Exploration of world of diverse cultures 
+- again, partly from exposure to Islamic culture, Europe began to be more aware of the wider world
+- trade with Asia began to develop
 
-###### Important Developments of the Modern period ######
+* Important Developments of the Modern period
+  :PROPERTIES:
+  :CUSTOM_ID: important-developments-of-the-modern-period
+  :END:
 
-###### Exploration of the world: growing awareness of diversity in the world ######
-
-###### Importance of Americas ######
+** Importance of Americas
+   :PROPERTIES:
+   :CUSTOM_ID: importance-of-americas
+   :END:
 
 - Suddenly expanded natural resources
 - distance from Europe
 - "Independence"
 
-###### Science & technology ######
-- exponential growth of "knowledge"[^2]
-  * [^2]: cf. Mary Pat's visuals
+** Science & technology
+   :PROPERTIES:
+   :CUSTOM_ID: science-technology
+   :END:
 
-###### Wars becoming more and more destructive, even as hope was projected ######
+- exponential growth of "knowledge"[fn:1]
+- Wars becoming more and more destructive, even as hope was projected
+- by the end of 19th c. "everything is known, just mopping up"[fn:2]
+- exploitation of the earth's ecosystems
 
-###### End of 19th c. "everything is known, just mopping up"[^1] ######
-
-- [^1]: cf. in Joplin [Which 19th century physicist famously said that all that remained to be done in physics was compute effects to another decimal place? - Quora](:/de8d5070d1b44c9e8cbee67c42a4925a)
-
-###### Exploitation of the earth's ecosystems ######
-
+[fn:1] In 2001 Ray Kurzweil wrote "The Law of Accelerating Returns" which posited that during the 21st century humanity would experience 20,000 years of progress instead of 100. This is possible because the rate of change of technology is undergoing "double" exponential growth, that is, exponential growth. [[https://www.industrytap.com/new-paradigms-the-exponential-growth-of-knowledge/53192][new paradigms]]
+[fn:2] in 1894, the scientist Albert Michelson said, "While it is never safe to affirm that the future of Physical Science has no marvels in store even more astonishing than those of the past, it seems probable that most of the grand underlying principles have been firmly established and that further advances are to be sought chiefly in the rigorous application of these principles to all the phenomena which come under our notice. It is here that the science of measurement shows its importance --- where quantitative work is more to be desired than qualitative work. An eminent physicist remarked that the future truths of physical science are to be looked for in the sixth place of decimals."

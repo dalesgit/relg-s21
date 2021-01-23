@@ -24,6 +24,9 @@ Religion Modern World
  #+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
 
+* adjust images
+#+REVEAL_HTML: <img class="stretch" src="images/hippo1.png">
+#+REVEAL: split
 
 * * C-c C-x i     (org-insert-columns-dblock)
 Insert a dynamic block capturing a column view. You will be prompted for the scope or ID of the view. 
@@ -5869,10 +5872,10 @@ file:relg317-exam1-review.org
 
 *** Module 4
  file:present-md/4-1-counter-overview.md
- file:present-md/4-2-counter-developments.md
+ file:present-md/4-2-counter-developments.md (unused)
 
 *** Module 5
- file:present-md/5-1-emergence-modern.md
+ file:present-md/5-1-emergence-modern.md (Is this where to use this?)
  file:present-md/5-2-calvinist-strand.md
  file:present-md/5-3-beyond-geneva.md
  file:present-md/5-4-english-reformation.md
@@ -5903,33 +5906,32 @@ file:relg317-exam1-review.org
  file:present-md/317-age-expansion-module.org
  file:present-md/317-begin-post-modern-module.org
 ** org presentations
-*** Module 1
+*** Module 1 Getting started
   file:present-org/1-1-unpacking-the-title.org
   file:present-org/1-2-prefatory-placher.org
   file:present-org/zoom-1.org
 
-*** Module 2
+*** Module 2 Background
   file:present-org/2-1-resources.org
   file:present-org/2-2-polarities-eras.org
-*** Module 3
+*** Module 3 Reformation pt. 1
   file:present-org/3-1-reformation-overview.org
   file:present-org/3-2-reformation-themes.org
-  file:present-org/3-3-reformation-polarities.org
   file:present-org/3-4-reformation-figures.org
-  file:present-org/3-5-reformation-developments.org
-  file:present-org/3-6-reformation-sacraments.org
-*** Module 4
-  file:present-org/4-1-counter-overview.org
-  file:present-org/4-2-counter-developments.org
-  file:present-org/5-1-emergence-modern.org
-*** Module 5
+  file:present-org/3-3-reformation-polarities.org unused
+  file:present-org/3-5-reformation-developments.org unused
+  file:present-org/3-6-reformation-sacraments.org unused
+*** Module 4 Reformation pt. 2
   file:present-org/5-2-calvinist-strand.org
-  file:present-org/5-3-beyond-geneva.org
+  file:present-org/4-1-counter-overview.org
   file:present-org/5-4-english-reformation.org
+  file:present-org/5-3-beyond-geneva.org unused 
+  file:present-org/4-2-counter-developments.org (don't use)
+  file:present-org/5-1-emergence-modern.org (Is this where to place this?)
 *** Module 6
   file:present-org/6-1-enlightenment.org
   file:present-org/6-2-philosophy-religion.org
-  file:present-org/6-3-enlightenment-to-city-hill.org
+  file:present-org/6-3-enlightenment-to-city-hill.org not needed
 *** Module 7
   file:present-org/7-1-new-world.org
   file:present-org/7-2-city-on-hill.org

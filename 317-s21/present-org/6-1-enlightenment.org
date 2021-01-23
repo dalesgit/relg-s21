@@ -12,129 +12,55 @@
  #+REVEAL_PLUGINS: (markdown notes menu)
  #+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
+* Enlightenment
 
-### Enlightenment ###
+#+REVEAL_HTML: <img class="stretch" src="https://therationalcolonel.files.wordpress.com/2015/01/enlightenment.jpg">
+** Rationality
 
-#### Rationality ####
+ - "It may be that universal history is the history of the different intonations given a handful of metaphors." (*)
+ - Arguments for God: /a priori/ and /empirical/
+ - Calvin's systematic development of the faith position *sovereignty of God*
+ - Quakers and Nonconformists: where is highest authority placed?
+ - Descartes: from scientific method to rational conclusions
 
-- History of a metaphor
-- Arguments for God: *a priori* and *empirical*
-- Calvin's systematic development of the faith position **sovereignty of God**
-- Quakers and Nonconformists: where is highest authority placed?
-- Descartes: from scientific method to rational conclusions
+ (*) [[https://www.gwern.net/docs/borges/1951-borges-pascalssphere.pdf][Pascal's Sphere]] where he traces a metaphor about God and the cosmos from the 6th c. BCE up to the 16th CE, all in 3 pages
 
-#### Religion and the Age of Reason ####
-
-##### San Francisco #####
-
-![img](../img/sf-quakes.jpg)
-
-
-##### Earthquakes #####
-![img](../img/sfeq06_01.jpg)
-
-![img](../img/lisbon-burning.jpeg)
-
-![img](../img/Lisbon-earthquake-1755.jpg)
+* Earthquakes: San Francisco
+  :PROPERTIES:
+  :CUSTOM_ID: san-francisco
+  :END:
 
 
-##### Earthquakes and God's will #####
+#+REVEAL_HTML: <img class="stretch" src="../img/sf-quakes.jpg">
+
+** 1906 
+ #+REVEAL_HTML: <img class="stretch" src="../img/sfeq06_01.jpg">
+**  Lisbon 1755
+#+REVEAL_HTML: <img class="stretch" src="https://images.fineartamerica.com/images-medium-large-5/1755-lisbon-earthquake-science-photo-library.jpg">
+** Lisbon Theodicy 
+#+REVEAL_HTML: <img class="stretch" src="https://onlyfunfacts.com/wp-content/uploads/2019/10/Lisabon-Earthquake-1.jpg">
+* Voltaire
+  :PROPERTIES:
+  :CUSTOM_ID: voltaire
+  :END:
 
 - a tale of 2 earthquakes
-- he found the evidence for his belief in nature rather than in the Bible; he doubted a good bit of traditional doctrine—and he didn’t treat religion all that seriously.
+- he found the evidence for his belief in nature rather than in the Bible; he doubted a good bit of traditional doctrine---and he didn't treat religion all that seriously.
 - Revivals but at heart a move from God to human beings
 
+/Do we explain these by reference to God? No? We are inheritors of Enlightenment/.
 
-##### Voltaire #####
-   
-   - a tale of 2 earthquakes
-   - he found the evidence for his belief in nature rather than in the Bible; he doubted a good bit of traditional doctrine—and he didn’t treat religion all that seriously.
-   - Revivals but at heart a move from God to human beings
-   
-   <div class="NOTES">
-   Do we explain these by reference to God? No? We are inheritors of Enlightenment.
-   
-   p. 203 it is the **shifting of place** re. God and world --; what is important
-   
-   </div>
+- p. 203 it is the *shifting of place* re. God and world --
+- what do we pay attention to? What determines our interpretive framework?
 
-###### Earthquakes and God's will ######
+** Enlightenment from ...
+God-centered to Human-centered
 
-###### From God-centered to Human-centered ######
-   
-   1. 5 catalysts for change (204)
-   1. wars of religion
-   2. Europe divided
-   3. philosophical attitudes encouraged questioning tradition
-   4. science seemed to being moving from one accomplishment to another ...;
-   5. nationalism taking root, centralizing power
-
- at the very time of success in discovery and technology, reason seemed to reach its end of life
-
-
-##### From God-centered to Human-centered #####
-
-- 5 catalysts for change
-- at the very time of success in discovery and technology, reason seemed to reach its end of life
-- changing metaphor from Anselm to Descartes
-
-
-#### Religion of Reason ####
-
-- Cartesian coordinates
-- can a religion be built on Doubt?
-- No man shall ever be kept out of Heaven … if he had but an honest and good heart, that was ready to comply with Christ’s commandments
-- God is more inward to us than our very souls
-
-
-##### Descartes to Newton #####
-
-- Newton: God’s "immensity" stretching infinitely in all directions and unchanged for all eternity (cp. changing metaphor)
-- while retaining religion, it is no stripped of the "supernatural"
-- Church of England would keep its theology vague enough to include as many groups as possible and tolerate the presence of some dissenting groups like Anabaptists and Quakers, though not Catholics
-
-
-##### Locke and Deists #####
-
-- Nearly all the attitudes of the time came together in John Locke
-- <https://www.youtube.com/watch?v=kItXvJLnTtk>
-- Many Deists brought to bear on the biblical miracle stories all the prestige of the scientific discovery of laws
-- Deists distrusted appeals to authority and the miraculous, but they also turned away from anything beyond natural religion in part for moral reasons.
-
-
-##### Pietists and Methodists #####
-
-- "**Enthusiasm**" was a dirty word in the eighteenth century.
-- story begins in Germany, where Lutheran orthodoxy had increasingly defined faith as assent to a set of doctrines
-- Lutherans suspect any call to moral improvement as a move toward works-righteousness.
-- Methodism with a "method" for holiness
-- Wesley and Whitefield changed the shape of popular religion in England and North America, but they made little impact on the attitudes among most intellectuals
-
-
-##### The end of Reason #####
-
-- Hume
-- Rousseau
-- Kant
-
-
-#### Notes: Religion and the Age of Reason ####
-
-Notes:
- ![img](http://www.sciencephoto.com/image/167272/large/E3700104-1755_Lisbon_earthquake-SPL.jpg)
- ![img](https://lifeafter40.net/wp-content/uploads/2014/12/lisbon-burning-768x518.jpeg)
-
- ![img](http://cdn.history.com/sites/2/2016/04/Post-and-Grant-Avenue.-Look-E.jpeg)
- San Francisco earthquake 1906
- lead to the rise of Pentecostalism
- preaching at Azusa, CA
-
- <https://lifeafter40.net/the-1755-lisbon-earthquake-the-start-of-atheism/>
- For an account of how this gave birth to "atheism" --; read to get a feel for it
-
- ![img](../img/sf-quakes.jpg)
- ![img](../img/sfeq06_01.jpg)
- ![img](../img/lisbon-burning.jpeg)
- ![img](../img/Lisbon-earthquake-1755.jpg)
-
+1. 5 catalysts for change (204)
+2. wars of religion
+3. Europe divided
+4. philosophical attitudes encouraged questioning tradition
+5. science seemed to being moving from one accomplishment to another ...;
+6. nationalism taking root, centralizing power
+7. at the very time of success in discovery and technology, reason seemed to reach its end of life
 

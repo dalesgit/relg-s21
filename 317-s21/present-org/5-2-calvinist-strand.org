@@ -12,70 +12,118 @@
  #+REVEAL_PLUGINS: (markdown notes menu)
  #+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
+* Calvinist strand
+  :PROPERTIES:
+  :CUSTOM_ID: calvinist-strand
+  :END:
 
-#### Calvinist strand ####
-
-##### Geneva #####
+** Geneva
+   :PROPERTIES:
+   :CUSTOM_ID: geneva
+   :END:
 
 - Europe being divided up
 - Radical reformation in pockets
 - Calvin inherited what Zwingli had begun
 - looked on as "the Protestant Rome"
 
-##### Calvin #####
+** Calvin
+#+REVEAL_HTML: <img class="stretch" src="../img/john-calvin.jpg">
 
-![img](../img/john-calvin.jpg)
-
-##### Calvin #####
+** Calvin
 
 - clear & systematic mind at work
 - overpowering sense of God's glory
-- Plato: we sin out of ignorance. Calvin: we are ignorant because of
-  sin
-- not so much Luther's law & Gospel / standing in a continuous
-  **covenant** from Abraham
-- **predestination**
 - obedience to constituted authority
 
+| *Plato*:                | *Calvin*:                      |
+| we sin out of ignorance | we are ignorant because of sin |
 
-##### Prezi #####
+** Comparison table
+| Calvin                              | Luther                                          |
+|-------------------------------------+-------------------------------------------------|
+| private and rarely personal         | theology built on personal experience           |
+| God's Glory & Power                 | Sin & need of justification                     |
+| Covenant                            | Law & Gospel                                    |
+| Sanctification before justification | emphasis on Grace & justification               |
+| Vague about presence in Eucharist   | "consubstantiation" contra "transubstantiation" |
+| Church maintains discipline         |                                                 |
+| Predestination                      |                                                 |
 
-<https://prezi.com/ympfwolg3_no/john-calvin-the-greatest-exegete-of-the-reformation/>
+** Further information (2 links)
 
-##### Catholic point of view #####
+- [[https://prezi.com/ympfwolg3_no/john-calvin-the-greatest-exegete-of-the-reformation/][Calvin as Scholar]]
+- [[http://www.newadvent.org/cathen/03195b.htm][Catholic perspective]] 
 
-<http://www.newadvent.org/cathen/03195b.htm> catholic point of view
 
-##### Luther and Calvin compared #####
-
-- where Luther's emphasis on grace and justification
-- Calvin on covenant (in the lineage of Abraham)
-- the government of society bound up with notion of covenant
-- a "civil" use of law as well as "theological" (188)
-- 
-::: {.NOTES}
-Notes:
-
+#+BEGIN_NOTES
 Compare Luther & Calvin
 
 - Calvin Luther built on his personal conversion
-  - Calvin was private and rarely personal, rather logical
+- Calvin was private and rarely personal, rather logical
 - Luther sin and need for justification
-  - Calvin God's glory and power
+- Calvin God's glory and power
 - Law and gospel
-  - vs Covenant (Abraham)
-- Calvin: God's grace alone saves us, but in gratitude we then try to
-  do God's will. Sanctification before justification
-- Being saved by God's grace alone leads to a doctrine of
-  predestination Surely it is not by good works but God's doing
-  completely
-- Contrary to Luther and Zwingli he preferred to be vague about nature
-  of presence in Eucharist
-- Regulate morality? Punish those who don't prove to be reformed?
-  Church maintains discipline?
-  :::
+- vs Covenant (Abraham)
 
-##### questions/focus #####
+- Calvin: God's grace alone saves us, but in gratitude we then try to do God's will. Sanctification before justification
+- Being saved by God's grace alone leads to a doctrine of predestination Surely it is not by good works but God's doing completely
+- Contrary to Luther and Zwingli he preferred to be vague about nature of presence in Eucharist
+- Regulate morality? Punish those who don't prove to be reformed? Church maintains discipline?
+- the government of society bound up with notion of covenant
+- a "civil" use of law as well as "theological" (188)
+
+
+#+END_NOTES
+
+* Beyond Geneva
+
+** Bucer (moderating figure)
+
+- central figure of Reformation? 
+- sought to avoid being explicit about sacraments (as Luther & Zwingli had been)
+- stands out in Reformation figures for his tolerance
+  
+** Knox
+
+- connected the struggle of *Scotland* against *England* with Reformed theology
+- what is the role of faithful viz a viz oppressive society?
+- synod of Dort (5 principles) "uncompromising" 
+** Noted emphasis in his theology
+1. total depravity,
+2. unconditional election,
+3. limited atonement (/arguing that Christ's atoning work was intended only for the elect and not for the rest of the world/),
+4. irresistible (or irrevocable) grace
+5. perseverance of the saints.
+
+** Sacraments
+
+- importance of Martin Bucer as a bridge figure
+- insisting on Christ's presence (not a particular understanding)
+- the church regulating its own life (discipline)
+- normalcy of church/state overlap
+
+** Discipline of the community
+
+- Community maintain discipline by regulating who could come to communion
+- organization of community (Geneva) ministers, teachers, elders, deacons ... "presbytery"
+
+** Church and State
+
+- Calvin allowing for *working against civil authority when they betray the faith*
+- John Knox in Scotland "seized" on those principles in his energy *opposing the English*
+- France, Scotland, then England Calvinists thought about *how to oppose an unjust society*
+- Scotland corrupt church, thus as in France political conditions drove Calvin's followers
+
+#+BEGIN_NOTES
+questions/focus
+
+- "reform" as in "reformed life"
+- organizing society, community
+- what is community?
+- influence on "Puritans"
+
+questions/focus
 
 - "reform" as in "reformed life"
 - organizing society, community
@@ -83,17 +131,16 @@ Compare Luther & Calvin
 - 39 articles
 - "Puritans"
 
-##### epithoughts #####
+epithoughts
 
 - "Calvinist in polity" -- huge influence on English world
 - Knox and Calvin and the "reformed" tradition
 - Calvin retreating from France to Geneva
 - reading Calvin elicits not an emotional response but a cumulative one from the systematic presentation p 188
-- response to (free) grace is a **reformed** life (thus the name)
+- response to (free) grace is a *reformed* life (thus the name)
 - in contrast to Luther's distinction between law and gospel, Calvin thought we stood in the same convenant as Abraham (189)
 - "Reflections on how we come to be saved led to the doctrine of predestination (189 ff.)
-- <https://en.wikipedia.org/wiki/The_Private_Memoirs_and_Confessions_of_a_Justified_Sinner>
-- theology of sacraments: cf. **Martin Bucer** (large influence) – sought position between Luther and Zwingli
+- [[https://en.wikipedia.org/wiki/The_Private_Memoirs_and_Confessions_of_a_Justified_Sinner]]
+- theology of sacraments: cf. *Martin Bucer* (large influence) -- sought position between Luther and Zwingli
 
-###### Calvinism ######
-
+#+END_NOTES
