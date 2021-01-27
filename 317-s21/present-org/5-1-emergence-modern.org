@@ -55,10 +55,21 @@
    :CUSTOM_ID: science-technology
    :END:
 
-- exponential growth of "knowledge"[fn:1]
-- Wars becoming more and more destructive, even as hope was projected
-- by the end of 19th c. "everything is known, just mopping up"[fn:2]
-- exploitation of the earth's ecosystems
+- exponential growth of "knowledge" [fn:1] 
+
+[*] In 2001 Ray Kurzweil wrote "The Law of Accelerating Returns" which posited that during the 21st century humanity would experience 20,000 years of progress instead of 100. This is possible because the rate of change of technology is undergoing "double" exponential growth, that is, exponential growth. [[https://www.industrytap.com/new-paradigms-the-exponential-growth-of-knowledge/53192][new paradigms]]
+
 
 [fn:1] In 2001 Ray Kurzweil wrote "The Law of Accelerating Returns" which posited that during the 21st century humanity would experience 20,000 years of progress instead of 100. This is possible because the rate of change of technology is undergoing "double" exponential growth, that is, exponential growth. [[https://www.industrytap.com/new-paradigms-the-exponential-growth-of-knowledge/53192][new paradigms]]
+
+*** Destruction at incomprehensible levels
+ - Wars becoming more and more destructive, even as hope was projected
+ - exploitation of the earth's ecosystems
+
+*** over-extended pride in "progress"
+ - by the end of 19th c. "everything is known, just mopping up"[fn:2]
+[*] in 1894, the scientist Albert Michelson said, "While it is never safe to affirm that the future of Physical Science has no marvels in store even more astonishing than those of the past, it seems probable that most of the grand underlying principles have been firmly established and that further advances are to be sought chiefly in the rigorous application of these principles to all the phenomena which come under our notice. It is here that the science of measurement shows its importance --- where quantitative work is more to be desired than qualitative work. An eminent physicist remarked that the future truths of physical science are to be looked for in the sixth place of decimals."
+
+
 [fn:2] in 1894, the scientist Albert Michelson said, "While it is never safe to affirm that the future of Physical Science has no marvels in store even more astonishing than those of the past, it seems probable that most of the grand underlying principles have been firmly established and that further advances are to be sought chiefly in the rigorous application of these principles to all the phenomena which come under our notice. It is here that the science of measurement shows its importance --- where quantitative work is more to be desired than qualitative work. An eminent physicist remarked that the future truths of physical science are to be looked for in the sixth place of decimals."
+
