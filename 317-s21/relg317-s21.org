@@ -5928,12 +5928,12 @@ file:relg317-exam1-review.org
   file:present-org/5-3-beyond-geneva.org unused 
   file:present-org/4-2-counter-developments.org (don't use)
   file:present-org/5-1-emergence-modern.org (Is this where to place this?)
-*** Module 6
+*** Module 6 Reason & Enthusiasm
   file:present-org/6-1-enlightenment.org
   file:present-org/6-2-philosophy-religion.org
   file:present-org/6-3-enlightenment-to-city-hill.org not needed
 *** Module 7
-  file:present-org/7-1-new-world.org
+  file:present-org/7-1-new-world.org not needed cf. philosophy-religion above
   file:present-org/7-2-city-on-hill.org
   file:present-org/7-3-romanticism-in-america.org
 *** Module 8

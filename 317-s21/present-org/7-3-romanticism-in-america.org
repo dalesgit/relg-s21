@@ -13,33 +13,42 @@
  #+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
 
-### Romanticism in America ###
+** Romanticism in America
+   :PROPERTIES:
+   :CUSTOM_ID: romanticism-in-america
+   :END:
 
-#### Key figures ####
+*** Key figures
+    :PROPERTIES:
+    :CUSTOM_ID: key-figures
+    :END:
 
--   Unitarians: William Ellery Channing
--   Transcendentalists: Ralph Waldo Emerson
--   Nevin & Schaff (transform humanity)
--   Horace Bushnell (attacking individualism)
+ - Unitarians: William Ellery Channing
+ - Transcendentalists: Ralph Waldo Emerson
+ - Nevin & Schaff (transform humanity)
+ - Horace Bushnell (attacking individualism)
 
-#### Slavery & Black Religion ####
+*** Slavery & Black Religion
+    :PROPERTIES:
+    :CUSTOM_ID: slavery--black-religion
+    :END:
 
--   Bushnell
--   evangelicals in England, Quakers in America
--   the unfulfilled dream of Puritan America
+ - Bushnell
+ - evangelicals in England, Quakers in America
+ - the unfulfilled dream of Puritan America
 
-#### 18th C. issues ####
+** 18th C. issues
+   :PROPERTIES:
+   :CUSTOM_ID: 18th-c-issues
+   :END:
 
-
--   How do politics and science affect theology? (206)
--   distrust of authority
--   Reason vs. Enthusiasm
--   Pietism -- Methodism
--   baptismal regeneration (211 - Wesley rejected)
--   \"City on a hill\" the dream (221)
--   Edwards re. experience & theology (223)
--   predestination for the Calvinists in America
--   challenge of slavery to American experience
-
-
+- How do politics and science affect theology? (206)
+- distrust of authority
+- Reason vs. Enthusiasm
+- Pietism -- Methodism
+- baptismal regeneration (211 - Wesley rejected)
+- "City on a hill" the dream (221)
+- Edwards re. experience & theology (223)
+- predestination for the Calvinists in America
+- challenge of slavery to American experience
 
