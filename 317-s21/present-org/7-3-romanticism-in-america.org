@@ -18,26 +18,44 @@
    :CUSTOM_ID: romanticism-in-america
    :END:
 
-*** Key figures
-    :PROPERTIES:
-    :CUSTOM_ID: key-figures
-    :END:
-
+*** Romantic challenge fo rationalism
+    
  - Unitarians: William Ellery Channing
+   - accomodating "biblical" teaching with rationalist approach to interpretation
  - Transcendentalists: Ralph Waldo Emerson
- - Nevin & Schaff (transform humanity)
- - Horace Bushnell (attacking individualism)
+   - appealed to inner life, intuition ... "I don't need to turn to the Bible to find revelation, I can look within myself."
+*** Seeking to return American church to founding principles of Reformation
 
-*** Slavery & Black Religion
-    :PROPERTIES:
-    :CUSTOM_ID: slavery--black-religion
-    :END:
+ - Nevin & Schaff (transform humanity -- not individuals)
+ - Horace Bushnell (attacking individualism of revivals)
+   - influenced the developing *Sunday School* movement
+   - the experience of the Civil War and the confrontation with slavery led to a need for corporate *atonement*, not just individual
 
- - Bushnell
- - evangelicals in England, Quakers in America
- - the unfulfilled dream of Puritan America
+** Slavery & Black Religion
+   :PROPERTIES:
+   :CUSTOM_ID: slavery--black-religion
+   :END:
 
-** 18th C. issues
+- Bushnell concern for the morality of slavery emphasizes the need account for the "*full consequences of slavery and non-emancipation*"
+- American slavery was distinctive in identifying slavery with race
+- evangelicals in England, Quakers in America led opposition to slavery
+- Black identification with the freeing of the Israelites in the *Exodus* and the unjust suffering of *Jesus on the cross*
+- Slavery represents in the strongest terms the unfulfilled dream of the *city on a hill*
+  - the unfulfilled dream of Puritan America
+
+*** PBS special
+ A valuable recent production on PBS gives an overview of the Black Church experience in 4 hours
+ - Henry Louis Gates Jr. narrating: https://www.pbs.org/weta/black-church/
+ - For the moment these are available on *Youtube* at:
+   - https://youtu.be/BijAOYktT4k and  https://youtu.be/AnT3cTNU-ZI
+
+*** Liberation theology of the later 20th c.
+    - James Cone and Black Theology
+    - W. E. B. Du Bois
+    - Martin Luther King Jr.
+    - South Africa experience (*Koinonia* movement)
+
+** Ongoing issues left over from 18th c. 
    :PROPERTIES:
    :CUSTOM_ID: 18th-c-issues
    :END:
@@ -45,10 +63,5 @@
 - How do politics and science affect theology? (206)
 - distrust of authority
 - Reason vs. Enthusiasm
-- Pietism -- Methodism
-- baptismal regeneration (211 - Wesley rejected)
-- "City on a hill" the dream (221)
-- Edwards re. experience & theology (223)
-- predestination for the Calvinists in America
 - challenge of slavery to American experience
 

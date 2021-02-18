@@ -24,13 +24,24 @@
  - Romanticism in America (228)
  - Slavery and black religion (230)
 
-** City on a Hill
+*** Key Figures
+
+ - Wesley & Whitefield
+ - John Winthrop
+ - Thomas Hooker
+ - John Cotton
+ - Solomon Stoddard
+ - Jonathan Edwards
+ - "Great Awakening"
+ - Grimke sisters
+
+** City on a Hill in Graphics
    :PROPERTIES:
    :CUSTOM_ID: city-on-a-hill
    :END:
 
-- the *idea* of *denomination* really developed in the us
-- bewildering variety of developments in us (219)
+- the *idea* of *denomination* really developed in the US
+- bewildering variety of developments in US (219)
 - /Indeed I tremble for my country when I reflect that God is just./
   --Thomas Jefferson
 *** City on a Hill
@@ -77,49 +88,55 @@
  ::: {.NOTES} Note: Humor with re. "resolutions" :::
 
 #+END_NOTES
-** Fire and Brimstone / Heroic Courage
-   #+REVEAL_HTML: <img class="stretch" src="http://www.quotehd.com/imagequotes/authors83/jonathan-edwards-clergyman-quote-resolution-one-i-will-live-for-god.jpg">
+** A Covenant with God: The Great Awakening
 
-#+BEGIN_NOTES
+*** Fire and Brimstone / Heroic Courage
+    #+REVEAL_HTML: <img class="stretch" src="http://www.quotehd.com/imagequotes/authors83/jonathan-edwards-clergyman-quote-resolution-one-i-will-live-for-god.jpg">
 
- ::: {.NOTES} Note: Revival of "Great Awakening" *Fire and brimstone* and
- *heroic courage*
+ #+BEGIN_NOTES
+
+  ::: {.NOTES} Note: Revival of "Great Awakening" *Fire and brimstone* and
+  *heroic courage*
  
-#+END_NOTES
-** Sinners in the hands of an angry God (J. Edwards)
-   #+REVEAL_HTML: <img class="stretch" src="https://img00.deviantart.net/513c/i/2012/341/5/6/sinners_in_the_hands_of_an_angry_god_drawing_by_9andrew5-d5ncxhc.jpg">
+ #+END_NOTES
+*** Sinners in the hands of an angry God (J. Edwards)
+    #+REVEAL_HTML: <img class="stretch" src="https://img00.deviantart.net/513c/i/2012/341/5/6/sinners_in_the_hands_of_an_angry_god_drawing_by_9andrew5-d5ncxhc.jpg">
 
-#+BEGIN_NOTES
-:PROPERTIES:
+ #+BEGIN_NOTES
+ :PROPERTIES:
 
-:reveal_background: https://img00.deviantart.net/513c/i/2012/341/5/6/sinners_in_the_hands_of_an_angry_god_drawing_by_9andrew5-d5ncxhc.jpg
-:reveal_background_size="1100px"
-:END:
+ :reveal_background: https://img00.deviantart.net/513c/i/2012/341/5/6/sinners_in_the_hands_of_an_angry_god_drawing_by_9andrew5-d5ncxhc.jpg
+ :reveal_background_size="1100px"
+ :END:
 
-:reveal_background_trans="slide"
-#+END_NOTES
+ :reveal_background_trans="slide"
+ #+END_NOTES
+*** Characteristics
+    - J. Edwards rejected the *rationalism* in the critique of Locke and Newton
+    - Edwards argued in defense of "Calvinism" in a new age
+    - George Whitefield inspired enthusiastic conversions from Massachusetts to George: *The Great Awakening*
+    - "perhaps the first *national* experience shared by all the colonies
+** American variations on a theme
+*** Rational Religion
+  - Jefferson produced a New Testament consisting of teachings and no miracles
+  - Franklin sought to limit the impact of the established church on the developing political identity
+  - Rationalism was exemplified by *Unitarianism*
+  - William Ellery Channing: believing in miracles, but understanding them *rationally*
 
-** Key Figures
 
-- Wesley & Whitefield
-- John Winthrop
-- Thomas Hooker
-- John Cotton
-- Solomon Stoddard
-- Jonathan Edwards
-  - "Great Awakening"
-- Grimke sisters
+*** Revivals
+ - moving away from the *predestination* of Calvinism
+ - Lyman Beecher
+ - Charles Finney
+ - "We must have exciting, powerful preaching, or the devil will have the people"
 
-** Rational Religion
 
- - Jefferson & Franklin
- - William Ellery Channing
+*** Idealistic Movements
+ - Seeking a *perfect community*
+   - Ann Lee & Shakers: seeking to capture the "*female aspect of divinity*"
+   - Oneida Community: an Acts 3 community were all things were held in common and sexual roles were blurred
+   - Seventh Day Adventists
+ - Joseph Smith & American covenant
+   - Latter Day Saints
+   - New sacred book
 
-** Revivals
-
-- Lyman Beecher
-- Charles Finney
-- Ann Lee & Quakers
-- Oneida Community
-- Latter Day Saints
-- Seventh Day Adventists
