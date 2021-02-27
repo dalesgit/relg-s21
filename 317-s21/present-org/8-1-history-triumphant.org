@@ -1,4 +1,4 @@
-#+Title:Triumphant sense of History 
+#+Title: 19th c. Foundations
 #+Date: Spring 2021 
 #+Email: hathawayd@winthrop.edu
  #+OPTIONS: reveal_width:1000 reveal_height:800 

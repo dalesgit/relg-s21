@@ -5928,20 +5928,23 @@ file:relg317-exam1-review.org
   file:present-org/5-3-beyond-geneva.org unused 
   file:present-org/4-2-counter-developments.org (don't use)
   file:present-org/5-1-emergence-modern.org (Is this where to place this?)
-*** Module 6
+*** Module 6 Enlightenment
   file:present-org/6-1-enlightenment.org
   file:present-org/6-2-philosophy-religion.org
   file:present-org/6-3-enlightenment-to-city-hill.org not needed
-*** Module 7
+*** Module 7 City on a Hill
   file:present-org/7-1-new-world.org
   file:present-org/7-2-city-on-hill.org
   file:present-org/7-3-romanticism-in-america.org
-*** Module 8
-  file:present-org/8-1-history-triumphant.org
-*** Module 9 
+*** Module 8 Triumph of History
+  [[file:present-org/8-1-history-triumphant.org][19th c. foundations]]
+  [[file:present-org/8-2-romanticism.org][Romanticism]]
+  [[file:present-org/8-3-english-response.org][English response]]
+
+*** Module 9 Leaving 19th c.
   file:present-org/9-1-leaving-19-c.org
   file:present-org/9-2-19th-to-20th-c.org
-*** Module 10
+*** Module 10 Current Scene
   file:present-org/10-1-theology-new-philosophies.org
 
 
