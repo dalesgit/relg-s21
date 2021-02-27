@@ -1,119 +1,142 @@
 #+Title: City on a Hill
 #+Date: Spring 2021 
 #+Email: hathawayd@winthrop.edu
- #+OPTIONS: reveal_width:1000 reveal_height:800 
- #+REVEAL_MARGIN: 0.1
- #+REVEAL_MIN_SCALE: 0.5
- #+REVEAL_MAX_SCALE: 2
- #+REVEAL_HLEVEL: 1h
- #+OPTIONS: toc:1 num:nil
- #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
- #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
- #+REVEAL_PLUGINS: (markdown notes menu)
- #+REVEAL_THEME: beige
+#+OPTIONS: reveal_width:1000 reveal_height:800 
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2
+#+REVEAL_HLEVEL: 1h
+#+OPTIONS: toc:1 num:nil
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+#+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+#+REVEAL_PLUGINS: (markdown notes menu)
+#+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
+** City on a Hill presentations
 
-### City on a Hill presentations ###
+*** Overview themes of Church in America
 
-#### Overview themes of Church in America ####
+ - the *idea* of *denomination* really developed in the US
+ - bewildering variety of developments in US (219)
+ - New England's covenant with God (219)
+ - Rational religion in the US (224)
+ - Revivals on the frontier (225)
+ - Romanticism in America (228)
+ - Slavery and black religion (230)
 
-- the **idea** of **denomination** really developed in the US
+*** Key Figures
+
+ - Wesley & Whitefield
+ - John Winthrop
+ - Thomas Hooker
+ - John Cotton
+ - Solomon Stoddard
+ - Jonathan Edwards
+ - "Great Awakening"
+ - Grimke sisters
+
+** City on a Hill in Graphics
+   :PROPERTIES:
+   :CUSTOM_ID: city-on-a-hill
+   :END:
+
+- the *idea* of *denomination* really developed in the US
 - bewildering variety of developments in US (219)
-- New England's covenant with God (219)
-- Rational religion in the US (224)
-- Revivals on the frontier (225)
-- Romanticism in America (228)
-- Slavery and black religion (230)
-#### Key figures ####
+- /Indeed I tremble for my country when I reflect that God is just./
+  --Thomas Jefferson
+*** City on a Hill
+#+REVEAL_HTML: <img class="stretch" src="../img/city-on-hill-01.jpg">
+*** John Winthrop
+#+REVEAL_HTML: <img class="stretch" src="../img/winthrop.jpg">
+*** Calvin's resolutions
+#+REVEAL_HTML: <img class="stretch" src="../img/calvin-resolutions.jpg">
+*** Prepare for action
+#+REVEAL_HTML: <img class="stretch" src="../img/4-prepare-for-action-1-peter-11316-50-728.jpg">
+*** Jonathan Edwards
+#+REVEAL_HTML: <img class="stretch" src="../img/resolution-edwards.jpg">
+*** Resolved to live
+#+REVEAL_HTML: <img class="stretch" src="../img/resolved-to-live.jpg">
+*** Massachussetts Colony
+#+REVEAL_HTML: <img class="stretch" src="../img/Masscolony.png">
+ 
+#+BEGIN_NOTES
+ ::: {.NOTES} Notes:
 
-- John Winthrop
-- Jonathan Edwards
-- Great Awakening
-- Grimke 
+ - any story of church in America must acknowledge the denominationalism
+ - What does the epigraph mean? :::
 
-#### City on a Hill ####
+ {#section
+ reveal\_background="[[http://izquotes.com/quotes-pictures/quote-for-we-must-consider-that-we-shall-be-as-a-city-upon-a-hill-the-eyes-of-all-people-are-upon-us-so-john-winthrop-311908.jpg]]"
+ reveal\_background\_size="1100px" reveal\_background\_trans="slide"}
 
+ ::: {.NOTES} note: The vision of a light to the nations.
 
--   the **idea** of **denomination** really developed in the us
--   bewildering variety of developments in us (219)
--   *Indeed I tremble for my country when I reflect that God is just.*
-    --Thomas Jefferson
+ Quote from Bible. Identifying with a line from Ancient Israel. (Is 49.6)
+ :::
 
-![](../img/city-on-hill-01.jpg)
+ {#section-1
+ reveal\_background="[[http://www.memorywebs.org/Winthrop_John_CityUponHillSpeech1630.jpg]]"
+ reveal\_background\_size="1100px" reveal\_background\_trans="slide"}
 
+ ::: {.NOTES} Note: Cartoon in faculty room: "Freedom of religion is my
+ short term goal. My long term goal is to go into real estate." :::
 
-![](../img/winthrop.jpg)
+ {#section-2
+ reveal\_background="[[https://nahswingspan.com/wp-content/uploads/2016/01/calvin-hobbes-new-years-resolutions.jpg]]"
+ reveal\_background\_size="1100px" reveal\_background\_trans="slide"}
 
-![](../img/calvin-resolutions.jpg)
+ ::: {.NOTES} Note: Humor with re. "resolutions" :::
 
-![](../img/4-prepare-for-action-1-peter-11316-50-728.jpg)
+#+END_NOTES
+** A Covenant with God: The Great Awakening
 
-![](../img/resolution-edwards.jpg)
+*** Fire and Brimstone / Heroic Courage
+    #+REVEAL_HTML: <img class="stretch" src="http://www.quotehd.com/imagequotes/authors83/jonathan-edwards-clergyman-quote-resolution-one-i-will-live-for-god.jpg">
 
-![](../img/resolved-to-live.jpg)
+ #+BEGIN_NOTES
 
-![](../img/Masscolony.png)
+  ::: {.NOTES} Note: Revival of "Great Awakening" *Fire and brimstone* and
+  *heroic courage*
+ 
+ #+END_NOTES
+*** Sinners in the hands of an angry God (J. Edwards)
+    #+REVEAL_HTML: <img class="stretch" src="https://img00.deviantart.net/513c/i/2012/341/5/6/sinners_in_the_hands_of_an_angry_god_drawing_by_9andrew5-d5ncxhc.jpg">
 
-::: {.NOTES}
-Notes:
+ #+BEGIN_NOTES
+ :PROPERTIES:
 
--   any story of church in America must acknowledge the
-    denominationalism
--   What does the epigraph mean?
-:::
+ :reveal_background: https://img00.deviantart.net/513c/i/2012/341/5/6/sinners_in_the_hands_of_an_angry_god_drawing_by_9andrew5-d5ncxhc.jpg
+ :reveal_background_size="1100px"
+ :END:
 
- {#section reveal_background="http://izquotes.com/quotes-pictures/quote-for-we-must-consider-that-we-shall-be-as-a-city-upon-a-hill-the-eyes-of-all-people-are-upon-us-so-john-winthrop-311908.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
-
-::: {.NOTES}
-note: The vision of a light to the nations.
-
-Quote from Bible. Identifying with a line from Ancient Israel. (Is 49.6)
-:::
-
- {#section-1 reveal_background="http://www.memorywebs.org/Winthrop_John_CityUponHillSpeech1630.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
-
-::: {.NOTES}
-Note: Cartoon in faculty room: \"Freedom of religion is my short term
-goal. My long term goal is to go into real estate.\"
-:::
-
- {#section-2 reveal_background="https://nahswingspan.com/wp-content/uploads/2016/01/calvin-hobbes-new-years-resolutions.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
-
-::: {.NOTES}
-Note: Humor with re. \"resolutions\"
-:::
-
- {#section-3 reveal_background="http://www.quotehd.com/imagequotes/authors83/jonathan-edwards-clergyman-quote-resolution-one-i-will-live-for-god.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
-
-::: {.NOTES}
-Note: Revival of \"Great Awakening\" **Fire and brimstone** and **heroic
-courage**
-
-Sinners in the hands of an angry God (J. Edwards) {#sinners-in-the-hands-of-an-angry-god-j.-edwards reveal_background="https://img00.deviantart.net/513c/i/2012/341/5/6/sinners_in_the_hands_of_an_angry_god_drawing_by_9andrew5-d5ncxhc.jpg" reveal_background_size="1100px" reveal_background_trans="slide"}
-:::
-
-##### Key Figures #####
-
--   wesley & whitefield
--   john winthrop
--   thomas hooker
--   john cotton
--   solomon stoddard
--   jonathan edwards
-    -   \"great awakening\"
+ :reveal_background_trans="slide"
+ #+END_NOTES
+*** Characteristics
+    - J. Edwards rejected the *rationalism* in the critique of Locke and Newton
+    - Edwards argued in defense of "Calvinism" in a new age
+    - George Whitefield inspired enthusiastic conversions from Massachusetts to George: *The Great Awakening*
+    - "perhaps the first *national* experience shared by all the colonies
+** American variations on a theme
+*** Rational Religion
+  - Jefferson produced a New Testament consisting of teachings and no miracles
+  - Franklin sought to limit the impact of the established church on the developing political identity
+  - Rationalism was exemplified by *Unitarianism*
+  - William Ellery Channing: believing in miracles, but understanding them *rationally*
 
 
-##### Rational Religion #####
+*** Revivals
+ - moving away from the *predestination* of Calvinism
+ - Lyman Beecher
+ - Charles Finney
+ - "We must have exciting, powerful preaching, or the devil will have the people"
 
--   jefferson & franklin
--   william ellery channing
 
-##### Revivals #####
-
--   lyman beecher
--   charles finney
--   ann lee & quakers
--   oneida community
--   latter day saints
--   seventh day adventists
+*** Idealistic Movements
+ - Seeking a *perfect community*
+   - Ann Lee & Shakers: seeking to capture the "*female aspect of divinity*"
+   - Oneida Community: an Acts 3 community were all things were held in common and sexual roles were blurred
+   - Seventh Day Adventists
+ - Joseph Smith & American covenant
+   - Latter Day Saints
+   - New sacred book
 

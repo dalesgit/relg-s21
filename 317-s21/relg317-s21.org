@@ -5934,6 +5934,13 @@ file:relg317-exam1-review.org
   file:present-org/6-3-enlightenment-to-city-hill.org not needed
 *** Module 7 City on a Hill
   file:present-org/7-1-new-world.org
+*** Module 6 Reason & Enthusiasm
+  file:present-org/6-1-enlightenment.org
+  file:present-org/6-2-philosophy-religion.org
+  file:present-org/6-3-enlightenment-to-city-hill.org not needed
+*** Module 7
+  file:present-org/7-1-new-world.org not needed cf. philosophy-religion above
+>>>>>>> 9076c312a8725b88b8ac77d6c38ca96ba16f4714
   file:present-org/7-2-city-on-hill.org
   file:present-org/7-3-romanticism-in-america.org
 *** Module 8 Triumph of History

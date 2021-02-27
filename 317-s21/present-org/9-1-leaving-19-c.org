@@ -12,44 +12,59 @@
  #+REVEAL_PLUGINS: (markdown notes menu)
  #+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
+* Leaving the 19th c. behind
+  :PROPERTIES:
+  :CUSTOM_ID: leaving-the-19th-c-behind
+  :END:
 
-#### Leaving the 19th c. behind ####
-
-##### Barth #####
+** Barth
+   :PROPERTIES:
+   :CUSTOM_ID: barth
+   :END:
 
 - rejection of cultural Christianity: Grace of Christ is supreme
 - everything reflects biases and cultural assumptions
 - attacked all human efforts to understand God
 
-
-##### Anti-semitism interlude? #####
+** Anti-semitism interlude?
+   :PROPERTIES:
+   :CUSTOM_ID: anti-semitism-interlude
+   :END:
 
 - "God on Trial"
 - Roots and implications
-- God on trial trailer 1:37 min <https://youtu.be/0W9uRPuo7hc>
-- complete: <https://youtu.be/tD7v9phroGM>
-- <https://youtu.be/5caAug5n8Zk>
+- God on trial trailer 1:37 min [[https://youtu.be/0W9uRPuo7hc]]
+     - complete version: [[https://youtu.be/tD7v9phroGM]]
 
-
-##### Bonhoeffer #####
+** Bonhoeffer
+   :PROPERTIES:
+   :CUSTOM_ID: bonhoeffer
+   :END:
 
 - Cheap Grace
 - Religionless Christianity
-- trailer to pbs documentary: 1:21 <https://youtu.be/Cd_gmkypPGk>
-- <http://www.pbs.md/bonhoeffer/>
+- On the occasion of the centennial of Bonhoeffer's birth: https://www.elca.org/News-and-Events/7073
+- Web site for PBS documentary on Bonhoeffer: https://www.pbs.org/bonhoeffer/
+- 8 min. video overview: https://watch.myarkansaspbs.org/video/religion-and-ethics-newsweekly-charles-marsh-dietrich-bonhoeffer/
+- hour and 1/2 film biography: https://youtu.be/2325_APzy6c
+- The Dietrich Bonhoeffer Institute: https://tdbi.org/
+- Doblmeier documentary: https://youtu.be/4Y4wet7-fjk
+- lecture by one of my teachers at Notre Dame on Bonhoeffer: https://youtu.be/FPPJCkfxdTs
 
-
-##### Bultmann & Existentialism #####
+** Bultmann & Existentialism
+   :PROPERTIES:
+   :CUSTOM_ID: bultmann--existentialism
+   :END:
 
 - Search for historical truth is fruitless
 - There is no "human nature" to find
 - p. 257
 
-
-
-##### American response #####
+** American response
+   :PROPERTIES:
+   :CUSTOM_ID: american-response
+   :END:
 
 - Fundamentalism: Inerrancy
 - Niebuhr: Social realist
-
 
