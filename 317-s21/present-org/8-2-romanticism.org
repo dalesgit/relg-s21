@@ -5,11 +5,121 @@
  #+REVEAL_MARGIN: 0.1
  #+REVEAL_MIN_SCALE: 0.5
  #+REVEAL_MAX_SCALE: 2
- #+REVEAL_HLEVEL: 1h
+ #+REVEAL_HLEVEL: 1
  #+OPTIONS: toc:1 num:nil
  #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
  #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
  #+REVEAL_PLUGINS: (markdown notes menu)
  #+REVEAL_THEME: beige
 #+REVEAL_ROOT: ../../reveal.js/
+
+
+* Romantic era
+  :PROPERTIES:
+  :CUSTOM_ID: romantic-era
+  :END:
+Looking below ground to understand religion.
+
+#+REVEAL_HTML: <img class="stretch" src="https://thefunambulistdotnet.files.wordpress.com/2010/12/undergroundbydavidmacaulay001.jpg">
+
+** 2 Romantics
+   :PROPERTIES:
+   :CUSTOM_ID: 2-romantics
+   :END:
+ - as in art, the discovery of native traditions led to new sensitivities about the nature of religion
+ - if religion followed individual or cultural patterns, in what sense does it express universal truths?
+  
+** Schleiermacher
+   :PROPERTIES:
+   :CUSTOM_ID: schleiermacher
+   :END:
+
+- religion as a *feeling* not *thought* "feeling of absolute dependence"
+- every event is a miracle, a "sign"
+- revelation is "every original and new communication of the Universe to man"
+- embrace the "genius" of one's own tradition
+
+** Coleridge
+   :PROPERTIES:
+   :CUSTOM_ID: coleridge
+   :END:
+
+- *tradition* is not conservatism but interpreting Christianity in terms of Romanticism
+- "factual accuracy of the Bible does not matter" but whether it *finds me*
+* Hegel
+  :PROPERTIES:
+  :CUSTOM_ID: hegel
+  :END:
+#+REVEAL_HTML: <img class="stretch" src="https://i1.wp.com/sageandsavant.com/wp-content/uploads/2017/04/hegel.jpg">
+** Structure of Reality & How we can know it
+   :PROPERTIES:
+   :CUSTOM_ID: structure-of-reality--how-we-can-know-it
+   :END:
+
+- everything we see and experience is bound by historical setting
+- thus: *How can we know anything with certainty?*
+- triadic structure of reality p. 237
+- [[https://www.youtube.com/watch?v=q54VyCpXDH8&feature=youtu.be][Overview of Hegel]]
+- [[http://www.openculture.com/2015/08/the-half-hour-hegel.html][30 min. more in depth on Hegel]]
+
+** David Strauss
+   :PROPERTIES:
+   :CUSTOM_ID: david-strauss
+   :END:
+
+- until Strauss, miracles either:
+
+  - happened as described (literal) or
+  - some "rational" explanation or -"fraud"
+
+- Strauss proposed that they consisted of "myth" (religious language
+  that conveys sacred truth)
+
+** Ludwig Feuerbach
+   :PROPERTIES:
+   :CUSTOM_ID: ludwig-feuerbach
+   :END:
+
+- "theology is anthropology"
+- many college freshman can say, "God is just a projection of the human
+  imagination." (a function of low-level thinking? or pervasiveness of
+  Feuerbach's position)
+
+** Søren Kierkegaard
+   :PROPERTIES:
+   :CUSTOM_ID: søren-kierkegaard
+   :END:
+
+- writing in pseudonyms to make the point that we always only know from
+  a certain perspective
+- "We understand backwards, but we must live forwards."
+
+#+BEGIN_NOTES
+
+::: {.NOTES} Note: Thus Abraham responding to God's command to sacrifice
+Isaac as seen from an ethical perspective was utterly depraved,
+justification for *murder*. "Only faith can offer a different
+interpretation... Faith goes beyond the universal categories of ethics
+to make the individual matter again. Only through *absurdity* ... belief
+in *paradox*. Anything else made faith to be *trivial*. "Only paradox
+can be grasped with passion." (p. 240)
+
+Use the image of "leap of faith" in a dancer. Throughout one is only
+becoming or reflecting where one has been. Only at one unspeakable
+moment is one in *being*.
+
+The aesthetic perspective seeks to understand *love*. Thus is personal.
+Personal <-> Universal <-> Personal again :::
+
+#+END_NOTES
+** Development of Religious Person for S. Kierkegaard
+   :PROPERTIES:
+   :CUSTOM_ID: development-of-religious-person-for-sk
+   :END:
+
+- *aesthetic* stage
+- *ethical* stage
+- *religious* stage - The "Knight of Faith"
+** Knight of Faith?
+#+REVEAL_HTML: <img class="stretch" src="http://blog.jaluo.com/wp-content/uploads/2012/05/19/unst_fa_2da_files/image006.jpg">
 

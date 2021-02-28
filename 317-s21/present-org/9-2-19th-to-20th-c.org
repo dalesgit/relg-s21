@@ -18,33 +18,34 @@
   :CUSTOM_ID: from-19th---20th-c
   :END:
 
-** Existentialism and Fundamentalism
+** Fundamentalism
    :PROPERTIES:
    :CUSTOM_ID: existentialism-and-fundamentalism
    :END:
-
+ #+REVEAL_HTML: <img class="stretch" src="http://image.slideserve.com/283767/fundamentalism-l.jpg">
 ** Existentialism's impact
    :PROPERTIES:
    :CUSTOM_ID: existentialisms-impact
    :END:
 
-Bultmann's “left-wing” followers, like the American Schubert Ogden, have concluded that Christianity concerns only the possibility of a new way of existing.
-
+- Bultmann's “left-wing” followers, like the American Schubert Ogden, have concluded that Christianity concerns only the possibility of a new way of existing.
+- From both the "left" and the "right" there was a critique of "Americanized" Christianity
 * American response
-  :PROPERTIES:
-  :CUSTOM_ID: american-response
-  :END:
+** Christian Realism (Reinhold Niebuhr)
+   :PROPERTIES:
+   :CUSTOM_ID: american-response
+   :END:
 
-- Reinhold Niebuhr: Christian realism "Man's capacity for justice makes democracy possible; but man's inclination to injustice makes democracy necessary."
+ - Reinhold Niebuhr: Christian realism "Man's capacity for justice makes democracy possible; but man's inclination to injustice makes democracy necessary."
 
-#+BEGIN_VERSE
-    God, grant me the serenity to accept the things I cannot change,  
-    The courage to change the things I can,  
-    And the wisdom to know the difference.
-#+END_VERSE
-  cf. [[https://en.wikipedia.md/wiki/Serenity_Prayer]]
+ #+BEGIN_VERSE
+     God, grant me the serenity to accept the things I cannot change,  
+     The courage to change the things I can,  
+     And the wisdom to know the difference.
+ #+END_VERSE
+   cf. [[https://en.wikipedia.md/wiki/Serenity_Prayer]]
 
-** Christ and culture
+** Christ and culture (Richard Niebuhr)
    :PROPERTIES:
    :CUSTOM_ID: christ-and-culture
    :END:
@@ -65,64 +66,24 @@ Richard Niebuhr: Christian ethicist: /Christ and Culture/
 
 - United States. Evangelical theology, with a renewed emphasis on the authority and often the literal inspiration of the Bible, also continues to be an important force in American theology, but it has generally reaffirmed the views Charles Hodge and Benjamin B. Warfield developed in the nineteenth century rather than producing new ideas.
 
-* Catholic development
+* Catholic developments
   :PROPERTIES:
   :CUSTOM_ID: catholic-development
   :END:
 
-1. Catholic focus
+Vatican II was a watershed for the Catholic church. It was both the culmination of developments of the previous century and it set in motion things that changed the Church 
 
-   1. Roman Catholic response
 
-   - Rahner said that there is a fundamental mystery, a matter of religious faith, at the heart of all human understanding.
-   - Vatican 2: Pilgrim people: define “the church” not as the hierarchy of pope and bishops but as the whole “pielgrim people of God.”
+- Rahner said that there is a *fundamental mystery*, a matter of religious faith, at the heart of all human understanding.
+- Vatican 2: *Pilgrim people*: define “the church” not as the hierarchy of pope and bishops but as the whole “Pilgrim People of God.”
+- Lonergan: It's all about the method
 
    #+BEGIN_QUOTE
-     The joys and the hopes, the griefs and the anxieties of the men of this age, especially those who are poor or in any way afflicted, these are the joys and hopes, the griefs and anxieties of the followers of Christ.
+     The joys and the hopes, the griefs and the anxieties of the men of this age, especially those who are poor or in any way afflicted, these are the joys and hopes, the griefs and anxieties of the followers of Christ. /Gaudium et Spes/ [fn:1] 
    #+END_QUOTE
 
-   [[http://www.cctwincities.md/document.doc?id=62]]
+[fn:1] http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html
 
-** Roman Catholic response
-   :PROPERTIES:
-   :CUSTOM_ID: roman-catholic-response
-   :END:
+* Footnotes
 
-- Vatican 2: Pilgrim people
-- Lonergan: It's all about the method
-- Rahner: The mystery is beyond words
-
-* Theology and Freedom
-  :PROPERTIES:
-  :CUSTOM_ID: theology-and-freedom
-  :END:
-
-** LIBERATION THEOLOGY
-   :PROPERTIES:
-   :CUSTOM_ID: liberation-theology
-   :END:
-
-- That very emphasis---liberating the captives---names the most important field of theology in the last half-century.
-- Liberation theology first drew wide attention in the United States in connection with “black liberation.”
-- James Cone's /Black Theology and Black Power/, published in 1969, made the blacks' liberation from their white oppressors its central theological theme and addressed whites with warnings rather than pleas for help.
-
-** Feminist criticism / liberation
-   :PROPERTIES:
-   :CUSTOM_ID: feminist-criticism--liberation
-   :END:
-
-- Looking beyond that, Rosemary Radford Ruether (a prolific theologian committed both to feminism and to Christianity) has written,
-
-#+BEGIN_QUOTE
-  All theologies of liberation, whether done in a black or a feminist or a Third World perspective, will be abortive of the liberation they seek, unless they finally go beyond the ... model of the oppressor and the oppressed.
-#+END_QUOTE
-
-* THEOLOGY AND THE RELIGIONS
-  :PROPERTIES:
-  :CUSTOM_ID: theology-and-the-religions
-  :END:
-
-- “Yes, I am a syncretist. But so are you. I know that I am a syncretist, but you don't know you are a syncretist because you have hegemonic power.
-- Other theologians of pluralism have been less insistent that multiple religions are different ways of saying the same thing.
-- A Roman Catholic priest named Raimundo Pannikar, for example, born in Spain to a Hindu father and a Spanish mother, advocates a more strictly comparative approach.
-
+[fn:1] http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html
