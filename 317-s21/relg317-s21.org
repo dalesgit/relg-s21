@@ -5940,13 +5940,12 @@ file:relg317-exam1-review.org
   file:present-org/6-3-enlightenment-to-city-hill.org not needed
 *** Module 7
   file:present-org/7-1-new-world.org not needed cf. philosophy-religion above
->>>>>>> 9076c312a8725b88b8ac77d6c38ca96ba16f4714
   file:present-org/7-2-city-on-hill.org
   file:present-org/7-3-romanticism-in-america.org
 *** Module 8 Triumph of History
   [[file:present-org/8-1-history-triumphant.org][19th c. foundations]]
   [[file:present-org/8-2-romanticism.org][Romanticism]]
-  [[file:present-org/8-3-english-response.org][English response]]
+  [[file:present-org/8-3-english-response.org][Responses]]
 
 *** Module 9 Leaving 19th c.
   file:present-org/9-1-leaving-19-c.org
@@ -5956,3 +5955,4 @@ file:relg317-exam1-review.org
 
 
   
+
