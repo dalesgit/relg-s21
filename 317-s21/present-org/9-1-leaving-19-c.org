@@ -11,38 +11,49 @@
  #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
  #+REVEAL_PLUGINS: (markdown notes menu)
  #+REVEAL_THEME: beige
-#+REVEAL_ROOT: ../../reveal.js/
+ #+REVEAL_ROOT: ../../reveal.js/
 * Leaving the 19th c. behind
   :PROPERTIES:
   :CUSTOM_ID: leaving-the-19th-c-behind
   :END:
+- If the 19th c. may be said to have ended with a sense of optimism in the progress of humanity
+- The beginning of the 20th c. led to dismay
+  - the "triumph" of industrialism was clearly problematic for many people
+  - "colonialism" in its many forms began to unravel
+  - the destruction of WWI was monumental
+  - and the main players were the very cultures that had seemed so confident such a short time before
 
+* Major European figures
+- Karl Barth
+- Dietrich Bonhoeffer
+- Rudolf Bultmann
+  
 ** Barth
    :PROPERTIES:
    :CUSTOM_ID: barth
    :END:
+ #+REVEAL_HTML: <img class="stretch" src="https://www-images.christianitytoday.com/images/67494.jpg">
+ 
+** Barth skeptical of liberal theology
+- rejection of cultural Christianity: *Grace of Christ* is supreme
+- everything reflects biases and cultural assumptions (/we cannot escape/)
+- attacked all *human efforts to understand God*
 
-- rejection of cultural Christianity: Grace of Christ is supreme
-- everything reflects biases and cultural assumptions
-- attacked all human efforts to understand God
-
-** Anti-semitism interlude?
-   :PROPERTIES:
-   :CUSTOM_ID: anti-semitism-interlude
-   :END:
-
-- "God on Trial"
-- Roots and implications
-- God on trial trailer 1:37 min [[https://youtu.be/0W9uRPuo7hc]]
-     - complete version: [[https://youtu.be/tD7v9phroGM]]
-
+** Barth attacked the heritage of the Enlightenment 
+- liberal theology seemed to accept the values of contemporary cultures
+- that included the anti-semitism that exploded in WWII, anticipated in the *Barmen Declaration*
+- attacked all "natural theology", all human efforts to understand God (p. 250)
 ** Bonhoeffer
    :PROPERTIES:
    :CUSTOM_ID: bonhoeffer
    :END:
+ #+REVEAL_HTML: <img class="stretch" src="http://peterfaur.com/wp-content/uploads/2012/12/Bonhoeffer.jpg">
+** Cheap Grace
+   The term “cheap grace” can be traced back to a book written by German theologian, Dietrich Bonhoeffer, called The Cost of Discipleship, published in 1937. In that book, Bonhoeffer defined “cheap grace” as “the preaching of forgiveness without requiring repentance, baptism without church discipline. Communion without confession.[fn:1] 
 
-- Cheap Grace
-- Religionless Christianity
+   [fn:1] https://www.gotquestions.org/cheap-grace.html
+
+** Religionless Christianity
 - On the occasion of the centennial of Bonhoeffer's birth: https://www.elca.org/News-and-Events/7073
 - Web site for PBS documentary on Bonhoeffer: https://www.pbs.org/bonhoeffer/
 - 8 min. video overview: https://watch.myarkansaspbs.org/video/religion-and-ethics-newsweekly-charles-marsh-dietrich-bonhoeffer/
@@ -55,16 +66,35 @@
    :PROPERTIES:
    :CUSTOM_ID: bultmann--existentialism
    :END:
+ #+REVEAL_HTML: <img class="stretch" src="https://image1.slideserve.com/2655056/origin-of-existentialism-l.jpg">
 
+** Bultmann & theology & Biblical interpretation
 - Search for historical truth is fruitless
-- There is no "human nature" to find
-- p. 257
+- There is no "human nature" to find - p. 257
+- opponent of "liberal" theology
 
-** American response
-   :PROPERTIES:
-   :CUSTOM_ID: american-response
-   :END:
 
-- Fundamentalism: Inerrancy
-- Niebuhr: Social realist
+* Anti-semitism interlude?
+  :PROPERTIES:
+  :CUSTOM_ID: anti-semitism-interlude
+  :END:
+The *Holocaust* ("offering") or *Shoah* ("catastrophe") challenges Christian thought in deep and penetrating ways.
 
+- Theodicy: asking about the *justice of God*
+- "God on Trial"
+- Roots and implications
+- God on trial trailer 1:37 min [[https://youtu.be/0W9uRPuo7hc]]
+     - complete version: [[https://youtu.be/tD7v9phroGM]]
+
+* American response
+  :PROPERTIES:
+  :CUSTOM_ID: american-response
+  :END:
+- America n:ot impacted by WWI the way Europe was
+- Social Gospel (Rauschenbusch) responded to the injustice and suffering wrought by Industrial Revolution
+- *Fundamentalism*: Inerrancy seen by Placher as a part of the general reaction to the identification of cultural values and Christian truth
+- Reinhold Niebuhr: *Social realist* -- "no party or cause can be unambiguously good" (p. 255)
+
+* Footnotes
+
+[fn:1] https://www.gotquestions.org/cheap-grace.html
