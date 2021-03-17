@@ -34,6 +34,10 @@ Insert a dynamic block capturing a column view. You will be prompted for the sco
 
 ** Placher 2nd ed
  Kindle $12.99 Paperback $24.44   
+ 
+[[cite:placherHistoryChristianTheology2013][Cite]]
+
+bibliography:~/Dropbox/org-roam/winthrop-library.bib
 
 ** Readings
 *** CHAPTER Luther and the Radical Reformation

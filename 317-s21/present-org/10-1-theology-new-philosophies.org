@@ -17,7 +17,6 @@
   :PROPERTIES:
   :CUSTOM_ID: theology-and-recent-philosophies
   :END:
-
 ** Wittgenstein
    :PROPERTIES:
    :CUSTOM_ID: wittgenstein
@@ -149,17 +148,18 @@ Finding the meaning there.
 
   cf. esp. awareness of natural environment. Reading of Genesis 1.
 
-  Cox: avoid theology being a ghetto cut off from the world
+  Cox: avoid theology being a ghetto cut off from the world 
 
  #+END_NOTES
 ** World of many religions
    :PROPERTIES:
    :CUSTOM_ID: world-of-many-religions
    :END:
-
- - *"syncretism":* "the amalgamation or attempted amalgamation of different religions, cultures, or schools of thought" --; Christianity itself syncretistic?
- - **pluralism*:* truth in other religions? (John Hick)
- - Raimundo Pannikar --; center of Christian theology moving south?
+ 
+ - *"syncretism":*[fn:1] "the amalgamation or attempted amalgamation of different religions, cultures, or schools of thought" --; Christianity itself syncretistic?
+ - *pluralism*: truth in other religions? (John Hick)
+ - Raimundo Pannikar --; center of Christian theology moving south? 
+   
 #+BEGIN_NOTES
 
  Notes:
@@ -168,3 +168,12 @@ Finding the meaning there.
 
 
 #+END_NOTES
+* Footnotes
+
+[fn:1] cite:p.nHistory2013 
+
+
+bibliographystyle:apalike
+* 
+bibliography:~/Dropbox/org-roam/winthrop-library.bib
+
