@@ -160,15 +160,6 @@
 
 
 #+END_NOTES
-* Footnotes
-
-[fn:1] cite:p.nHistory2013 
-
-
-bibliographystyle:apalike
-* Bibliography
-bibliography:~/Dropbox/org-roam/winthrop-library.bib
-=======
 ** Theology And The Religions
    :PROPERTIES:
    :CUSTOM_ID: theology-and-the-religions
@@ -177,4 +168,14 @@ bibliography:~/Dropbox/org-roam/winthrop-library.bib
  - “Yes, I am a syncretist. But so are you. I know that I am a syncretist, but you don't know you are a syncretist because you have hegemonic power. (Korean theologian (p. 272)
  - Other theologians of pluralism have been less insistent that multiple religions are different ways of saying the same thing.
  - A Roman Catholic priest named Raimundo Pannikar, for example, born in Spain to a Hindu father and a Spanish mother, advocates a more strictly comparative approach. (p. 272)
+
+* Footnotes
+
+[fn:1] cite:p.nHistory2013 
+
+
+* Bibliography
+  
+bibliographystyle:apalike
+bibliography:~/Dropbox/org-roam/winthrop-library.bib
 
