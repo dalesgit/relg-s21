@@ -3,7 +3,11 @@
 <head>
 <meta charset="utf-8"/>
 <title>Theology and New Philosophies</title>
+<<<<<<< HEAD
+<meta name="author" content="Comment"/>
+=======
 <meta name="author" content="(Dale Hathaway)"/>
+>>>>>>> a8ea489f070e4ca7801104b7f4dc500f490b06db
 <style type="text/css">
 .underline { text-decoration: underline; }
 </style>
@@ -11,7 +15,10 @@
 
 <link rel="stylesheet" href="../../reveal.js/css/theme/beige.css" id="theme"/>
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> a8ea489f070e4ca7801104b7f4dc500f490b06db
 <!-- If the query includes 'print-pdf', include the PDF print sheet -->
 <script>
     if( window.location.search.match( /print-pdf/gi ) ) {
@@ -271,8 +278,6 @@ Raimon Panikkar Alemany (November 2, 1918 &#x2013; August 26, 2010; also known a
 
 </ul>
 
-
-
 </section>
 </section>
 <section>
@@ -290,16 +295,10 @@ Raimon Panikkar Alemany (November 2, 1918 &#x2013; August 26, 2010; also known a
 </div>
 <p> Created by Dale Hathaway. </p>
 <script src="../../reveal.js/js/reveal.js"></script>
-
 <script>
 // Full list of configuration options available here:
 // https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
-multiplex: {
-    secret: '', // null if client
-    id: '', // id, obtained from socket.io server
-    url: '' // Location of socket.io server
-},
 
 controls: true,
 progress: true,
@@ -330,7 +329,6 @@ dependencies: [
  { src: '../../reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
  { src: '../../reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
 ]
-});
 
 });
 </script>
