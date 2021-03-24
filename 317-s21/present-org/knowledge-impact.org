@@ -5,7 +5,7 @@
  #+REVEAL_MARGIN: 0.1
  #+REVEAL_MIN_SCALE: 0.5
  #+REVEAL_MAX_SCALE: 2
- #+REVEAL_HLEVEL: 1h
+ #+REVEAL_HLEVEL: 1
  #+OPTIONS: toc:1 num:nil
  #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
  #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
@@ -14,236 +14,192 @@
 #+REVEAL_ROOT: ../../reveal.js/
 
 * Development of Knowledge and Theology
-    :PROPERTIES:
-    :CUSTOM_ID: development-of-knowledge-and-theology
-    :END:
+
 
 
 The Rev. Dale C. Hathaway
 
 March 23, 2021
-** Aim of the presentation
 
-- The aim of this presentation is not to go *deeply* into the vast
-  expansion of knowledge and understanding of creation over the last 500
-  + years
+** Goals
+
+- The aim of this presentation is not to go **deeply** into the vast expansion of knowledge and understanding of creation over the last 500 + years
 - Some of it will be familiar to you, some of it, perhaps, will not be
-- Goal is to suggest the vast impact all of this has on the development
-  of *Church Thought*
+- Goal is to suggest the vast impact all of this has on the development of **Church Thought**
 - especially during the period covered by this course
 
 
-* Rapid expansion of knowledge
-   :PROPERTIES:
-   :CUSTOM_ID: rapid-expansion-of-knowledge
-   :END:
 
-- Buckminster Fuller's data, shown here in gray, displays his estimate
-  for the doubling rate for accumulated knowledge.
-
-- The time scale begins with Johannes Gutenberg, who lived from
-  approximately 1398 to 1468, and ends in the 1970s. Doubling scale is
-  the inverse of the time required to see the volume of accumulated
-  knowledge double. As emphasized by the black dashed arrow, the
-  doubling rate increased dramatically during the twentieth century.
+** Rapid expansion of knowledge
 
 
-**  Knowledge explosion
-#+REVEAL_HTML:<img src="http://open-organization.com/wp-content/uploads/2017/04/3_fuller.jpg" alt="drawing" style="width:500px;"/>
 
-[[https://open-organization.com/en/2017/04/26/knowledge-creation-globalization-and-exponential-growth/#:~:text=Many%20authors%20claim%20that%20knowledge,doubles%20at%20a%20consistent%20pace.&text=He%20estimated%20the%20historical%20variation%20in%20the%20doubling%20time%20of%20knowledge]["Knowledge Creation: Globalization and Exponential Growth - Open Organization."
+- Buckminster Fuller’s data, shown here in gray, displays his estimate for the doubling rate for accumulated knowledge.
+
+- The time scale begins with Johannes Gutenberg, who lived from approximately 1398 to 1468, and ends in the 1970s. Doubling scale is the inverse of the time required to see the volume of accumulated knowledge double. As emphasized by the black dashed arrow, the doubling rate increased dramatically during the twentieth century.
+
+** Another view
+
+ #+REVEAL_HTML: <img class="stretch" src="http://open-organization.com/wp-content/uploads/2017/04/3_fuller.jpg" alt="drawing" />
+
+[[https://open-organization.com/en/2017/04/26/knowledge-creation-globalization-and-exponential-growth/#:~:text=Many%20authors%20claim%20that%20knowledge,doubles%20at%20a%20consistent%20pace.&text=He%20estimated%20the%20historical%20variation%20in%20the%20doubling%20time%20of%20knowledge]["Knowledge
+Creation: Globalization and Exponential Growth - Open Organization."
 $site. March 23, 2021. $publisher, Web. March 23, 2021.]]
 
-**
- #+REVEAL_HTML:<img src="https://www.industrytap.com/wp-content/uploads/2020/05/biology.png" alt="drawing" style="width:500px;"/>
 
+
+** Another view
+
+
+ #+REVEAL_HTML: <img class="stretch" src="https://www.industrytap.com/wp-content/uploads/2020/05/biology.png" alt="drawing" />
 
 [[https://www.industrytap.com/new-paradigms-the-exponential-growth-of-knowledge/53192][Link]]
 
+
+
 * Astronomy
-   :PROPERTIES:
-   :CUSTOM_ID: astronomy
-   :END:
 
-** Copernicus
-   :PROPERTIES:
-   :CUSTOM_ID: copernicus
-   :END:
+*Copernicus*
 
-#+REVEAL_HTML:<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nikolaus_Kopernikus.jpg/220px-Nikolaus_Kopernikus.jpg" alt="drawing" style="width:500px;"/>
+
+#+REVEAL_HTML: <img class="stretch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nikolaus_Kopernikus.jpg/220px-Nikolaus_Kopernikus.jpg" alt="drawing" />
+
 
 ** Perspective of our place in the world
-    :PROPERTIES:
-    :CUSTOM_ID: perspective-of-our-place-in-the-world
-    :END:
 
-[[https://en.wikipedia.org/wiki/Renaissance][Renaissance]]-era
-mathematician, astronomer, and Catholic
-[[https://en.wikipedia.org/wiki/Canon_(priest)][canon]] who formulated a
-[[https://en.wikipedia.org/wiki/Mathematical_model][model]] of
-[[https://en.wikipedia.org/wiki/Celestial_spheres#Renaissance][the
-universe]] that placed
-[[https://en.wikipedia.org/wiki/Heliocentrism][the Sun rather than
+[[https://en.wikipedia.org/wiki/Renaissance][Renaissance]]-era mathematician, astronomer, and Catholic [[https://en.wikipedia.org/wiki/Canon_(priest)][canon]] who formulated a [[https://en.wikipedia.org/wiki/Mathematical_model][model]] of [[https://en.wikipedia.org/wiki/Celestial_spheres#Renaissance][the universe]] that placed [[https://en.wikipedia.org/wiki/Heliocentrism][the Sun rather than
 Earth]] at its center
 
+
 ** Where is the center?
-    :PROPERTIES:
-    :CUSTOM_ID: where-is-the-center
-    :END:
+#+REVEAL_HTML: <img class="stretch" src="https://gnosticwarrior.com/wp-content/uploads/2015/05/Symbols-Jerusalem-map.jpg" alt="drawing" />
+
+
 
 ** Global perspective
-    :PROPERTIES:
-    :CUSTOM_ID: global-perspective
-    :END:
+
+ #+REVEAL_HTML: <img class="stretch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Globe_Atlantic.svg/894px-Globe_Atlantic.svg.png" alt="drawing" />
 
 We understand that on the surface of a globe there is no center
 
+
+
 ** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology
-    :END:
 
-- Christianity is not the only religion on the planet or in history or
-  in the universe
+- Christianity is not the only religion on the planet or in history or in the universe
 - Theology must take seriously the morality of how we treat the earth
-- Interpretation of Genesis 1 -- "Stewards of creation" or "Lords of
-  creation"
+- Interpretation of Genesis 1 -- "Stewards of creation" or "Lords of creation"
 
-* Calculus:
-    :PROPERTIES:
-    :CUSTOM_ID: calculus
-    :END:
 
-*Calculus*, originally called *infinitesimal calculus* or "the calculus
-of [[https://en.wikipedia.org/wiki/Infinitesimal][infinitesimals]]", is
-the [[https://en.wikipedia.org/wiki/Mathematics][mathematical]] study of
-continuous change, in the same way that
-[[https://en.wikipedia.org/wiki/Geometry][geometry]] is the study of
-shape and [[https://en.wikipedia.org/wiki/Algebra][algebra]] is the
-study of generalizations of
-[[https://en.wikipedia.org/wiki/Arithmetic_operations][arithmetic
-operations]].
-** It has two major branches,
-[[https://en.wikipedia.org/wiki/Differential_calculus][differential
-calculus]] and
-[[https://en.wikipedia.org/wiki/Integral_calculus][integral calculus]];
-the former concerns instantaneous rates of change, and the slopes of
-curves, while integral calculus concerns accumulation of quantities, and
-areas under or between curves.
+
+
+* Leibnitz / Newton
+
+
+
+#+REVEAL_HTML: <img class="stretch" src="https://images.fineartamerica.com/images-medium-large-5/gottfried-leibniz-mathematician-wellcome-images.jpg" alt="drawing" />
+
+
+*Calculus*, originally called *infinitesimal calculus* or "the calculus of [[https://en.wikipedia.org/wiki/Infinitesimal][infinitesimals]]", is the [[https://en.wikipedia.org/wiki/Mathematics][mathematical]] study of continuous change, in the same way that [[https://en.wikipedia.org/wiki/Geometry][geometry]] is the study of shape and [[https://en.wikipedia.org/wiki/Algebra][algebra]] is the study of generalizations of [[https://en.wikipedia.org/wiki/Arithmetic_operations][arithmetic operations]].
+
+It has two major branches, [[https://en.wikipedia.org/wiki/Differential_calculus][differential calculus]] and [[https://en.wikipedia.org/wiki/Integral_calculus][integral calculus]]; the former concerns instantaneous rates of change, and the slopes of curves, while integral calculus concerns accumulation of quantities, and areas under or between curves.
 
 ** Precise measurement:
-    :PROPERTIES:
-    :CUSTOM_ID: precise-measurement
-    :END:
-
-- Calculate navigating to the Orbiting Space Station, trip to the moon,
-  etc.
+- Calculate navigating to the Orbiting Space Station, trip to the moon, etc.
 - Google Maps navigation
 
+
+
 ** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-1
-    :END:
 
 - measurements and claims in historical documents, including the Bible
 
-** Leibnitz / Newton
-   :PROPERTIES:
-   :CUSTOM_ID: leibnitz-newton
-   :END:
-
-#+REVEAL_HTML:<img src="https://images.fineartamerica.com/images-medium-large-5/gottfried-leibniz-mathematician-wellcome-images.jpg" alt="drawing" style="width:500px;"/>
 
 
 * Geography
-   :PROPERTIES:
-   :CUSTOM_ID: geography
-   :END:
 
-** New & hitherto unknown lands
-    :PROPERTIES:
-    :CUSTOM_ID: new-hitherto-unknown-lands
-    :END:
+
+
+** New & hitherto unknown  lands
+
+#+REVEAL_HTML: <img class="stretch" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.5uQj1BTrEdtCXGJY-MajXgHaDn%26pid%3DApi&f=1" alt="drawing" />
+
 
 
 ** New & hitherto unknown cultures
-    :PROPERTIES:
-    :CUSTOM_ID: new-hitherto-unknown-cultures
-    :END:
+
+#+REVEAL_HTML: <img class="stretch" src="http://environews.ph/wp-content/uploads/2018/08/Ifugao-woman.jpg" alt="drawing" />
+
+
 
 
 ** Exploitation? or Uncontaminated?
-    :PROPERTIES:
-    :CUSTOM_ID: exploitation-or-uncontaminated
-    :END:
 
 - European colonization
 - What does it mean to be human?
 
 
-** Discovery of new Civilizations
-    :PROPERTIES:
-    :CUSTOM_ID: discovery-of-new-civilizations
-    :END:
 
-**
-#+CAPTION: Zen monk
-[[https://dharma-documentaries.net/screenshots/00-Headers/Mirror-of-Zen.jpg]]
+** Discovery of new Civilizations
+
+
+
+ #+REVEAL_HTML: <img class="stretch" src="https://dharma-documentaries.net/screenshots/00-Headers/Mirror-of-Zen.jpg"  alt="drawing" />
+
 
 
 ** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-2
-    :END:
 
-- how to understand mature spirituality of more ancient religions than
-  Christianity
+- how to understand mature spirituality of more ancient religions than Christianity
 - Zen, Hinduism, Buddhism
 
 
+
 * Archaeology
-   :PROPERTIES:
-   :CUSTOM_ID: archaeology
-   :END:
+
+ #+REVEAL_HTML: <img class="stretch" src="https://blogs.brown.edu/archaeology/files/2018/07/banner-try-1038x576.jpg" alt="drawing" />
+
+
 
 
 ** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-3
-    :END:
 
 - confirmation of Biblical history, but dramatic challenge to much of it
 - understanding and awareness of the development of doctrine
-- understanding and awareness of the interplay between church and
-  culture, doctrinal formulations and society
+- understanding and awareness of the interplay between church and culture, doctrinal formulations and society
+
 
 
 * Rise of Science (& Technology)
-   :PROPERTIES:
-   :CUSTOM_ID: rise-of-science-technology
-   :END:
+
+ #+REVEAL_HTML: <img class="stretch" src="http://www.classichousewife.com/wp-content/uploads/2013/05/world-of-science.jpg" alt="drawing" style="width:300px;"/>
+
+
 
 - Empiricism vs. Idealism
-- /a priori/ vs. /a posteriori/
-- the dramatic rise in scientific and technical knowledge of the last
-  500+ years has had astrounding impact on humanity
+- *a priori* vs. *a posteriori*
+- the dramatic rise in scientific and technical knowledge of the last 500+ years has had astrounding impact on humanity
+
 
 
 ** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-4
-    :END:
 
-- importance of evidence for the development and expression of Christian
-  thought and Christian truth
+- importance of evidence for the development and expression of Christian thought and Christian truth
+
 
 
 * Historical Critical Methodology
-   :PROPERTIES:
-   :CUSTOM_ID: historical-critical-methodology
-   :END:
 
-**
+ #+REVEAL_HTML: <img class="stretch" src="https://qph.fs.quoracdn.net/main-qimg-8cf488d9b7282c26181e1f8349d81264" alt="drawing" />
+
+** Or
+
+ #+REVEAL_HTML: <img class="stretch" src="https://image.slidesharecdn.com/1-131119063001-phpapp02/95/history-of-american-literature-11-638.jpg?cb=1384842656" alt="drawing" />
+
+
+** Impact on Christian thought has been substantial
+
+
 From Renaissance forward a vast developing science of interpretation.
 
 - Dead Sea scrolls.
@@ -251,157 +207,116 @@ From Renaissance forward a vast developing science of interpretation.
 - how interpret the evidence that we had? that is newly discovered?
 
 
+
 ** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-5
-    :END:
 
 - interpretation, interpretation, interpretation
 
 
+
+
 * Psychology
-   :PROPERTIES:
-   :CUSTOM_ID: psychology
-   :END:
+
+ #+REVEAL_HTML: <img class="stretch" src="https://www.verywellmind.com/thmb/oOSpXr4bJ9TCnfhZfNBr91E1_go=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/The-Major-Branches-of-Psychology-4139786-final-15133a69be64406db16dc63cd97a3a17.png" alt="drawing" />
 
 
-** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-6
-    :END:
+- inner-life of humans clearly has a significant impact on our lives -- even when it is not fully understood
+- some have gone so far as to explain religion in terms of psychological forces
 
-- inner-life of humans clearly has a significant impact on our lives --
-  even when it is not fully understood
-- some have gone so far as to explain religion in terms of psychological
-  forces
 
 
 * Biology & Evolution
-   :PROPERTIES:
-   :CUSTOM_ID: biology-evolution
-   :END:
 
-**
+ #+REVEAL_HTML: <img class="stretch" src="https://images.shiksha.com/mediadata/images/articles/1538985491phpKctLgx.jpeg" alt="drawing" />
+
+
+** Impact on Theology
+
 - the understanding of development
 - understanding what nurtures and what destroys
 - appreciation of diversity (bio-diversity)
-
-
-** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-7
-    :END:
-
-- down to the present day some branches of Christianity have struggled
-  with the impact of Darwin et al.
+- down to the present day some branches of Christianity have struggled with the impact of Darwin et al.
 - challenges the exploitation of the earth and its plenty
 
 
-** Systems theory
-   :PROPERTIES:
-   :CUSTOM_ID: systems-theory
-   :END:
 
+* Systems theory
 
-*Systems thinking* is the ability or skill to perform problem solving in
-[[https://en.wikipedia.org/wiki/Complex_system][complex systems]]. A
-system is an entity with interrelated and interdependent parts; it is
-defined by its boundaries and is more than the sum of its parts
-(subsystem). Changing one part of the system affects other parts and the
-whole system, with predictable patterns of behavior.
+ #+REVEAL_HTML: <img class="stretch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Complex_systems_organizational_map.jpg/1024px-Complex_systems_organizational_map.jpg" alt="drawing" />
 
+** simple description
 
-*** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-8
-    :END:
-
-- proverbially statement from Chaos theory that "a butterfly in China
-  has an impact on a hurricane in North America"
-- inter-relationship of all things is now both a scientific as well as a
-  religious reality
-
-
-* Chemistry
-   :PROPERTIES:
-   :CUSTOM_ID: chemistry
-   :END:
-
-**
-The *periodic table*, also known as the *periodic table of elements*, is
-a tabular display of the
-[[https://en.wikipedia.org/wiki/Chemical_element][chemical elements]],
-which are arranged by
-[[https://en.wikipedia.org/wiki/Atomic_number][atomic number]],
-[[https://en.wikipedia.org/wiki/Electron_configuration][electron
-configuration]], and recurring
-[[https://en.wikipedia.org/wiki/Chemical_property][chemical
-properties]]. (Wikipedia)
-
-**
-Beginning in the 18th c. the relationships between elements began to be
-understood, culminating in the periodic table,
-
-**
-- our way of life is impossible to imagine without the results of vast
-  chemical knowledge
-- the changes fashioned on humanity and on the earth are vast and
-  difficult to fathom
-- "The future is plastic" from the movie /The Graduate/
-- it has played its part in the development of vaccines
+*Systems thinking* is the ability or skill to perform problem solving in [[https://en.wikipedia.org/wiki/Complex_system][complex systems]]. A system is an entity with interrelated and interdependent parts; it is defined by its boundaries and is more than the sum of its parts (subsystem). Changing one part of the system affects other parts and the whole system, with predictable patterns of behavior.
 
 
 ** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-9
-    :END:
+
+- proverbially statement from Chaos theory that "a butterfly in China has an impact on a hurricane in North America"
+- inter-relationship of all things is now both a scientific as well as a religious reality
+
+
+
+* Chemistry
+
+ #+REVEAL_HTML: <img class="stretch" src="https://sites.google.com/a/iitrpr.ac.in/iitropar-chemistry/_/rsrc/1506420597557/Home/29-chemistry.jpg" alt="drawing" style="width:400px;"/>
+
+The *periodic table*, also known as the *periodic table of elements*, is a tabular display of the [[https://en.wikipedia.org/wiki/Chemical_element][chemical elements]], which are arranged by [[https://en.wikipedia.org/wiki/Atomic_number][atomic number]], [[https://en.wikipedia.org/wiki/Electron_configuration][electron configuration]], and recurring [[https://en.wikipedia.org/wiki/Chemical_property][chemical properties]]. (Wikipedia)
+
+** Impact
+
+
+Beginning in the 18th c. the relationships between elements began to be understood, culminating in the periodic table,
+
+
+
+
+- our way of life is impossible to imagine without the results of vast chemical knowledge
+- the changes fashioned on humanity and on the earth are vast and difficult to fathom
+- "The future is plastic" from the movie *The Graduate*
+- it has played its part in the development of vaccines
+
+
+
+** Implication for theology
 
 - taking into account how unseen matters affect the visible world
 
 
-* Medicine
-   :PROPERTIES:
-   :CUSTOM_ID: medicine
-   :END:
 
-**
+* Medicine
+
+ #+REVEAL_HTML: <img class="stretch" src="https://college.mayo.edu/media/mccms/content-assets/academics/school-of-medicine/MD-program-3312647-0094-hero-desktop.jpg" alt="drawing" />
+
+
+
+
 - changed the modern world, life-expectancy, comfort, convenience
-- brought new and unexpected realities to human life: birth-control,
-  transplants, surgery, treatment for disease
+- brought new and unexpected realities to human life: birth-control, transplants, surgery, treatment for disease
+
+
 
 ** Implication for theology
-    :PROPERTIES:
-    :CUSTOM_ID: implication-for-theology-10
-    :END:
 
 - moral questions that are seen in a new light
 
 
-* In summary
-   :PROPERTIES:
-   :CUSTOM_ID: in-summary
-   :END:
 
+* In summary
 - How do we interpret the Bible
-- It is impossible now to deny that theology has developed Newman
+- It is impossible now to deny that theology has developed (Newman)
 - Christianity cannot think of itself as triumphant
 - traditional morality is inadequate from a number of perspectives.
 
-**
-- how is it possible to incorporate religious perspectives from other
-  cultures and religions
-- doctrinal statements and positions were developed through interplay of
-  cultural, social, and political forces.
-- to maintain that all truth is found in the Bible seems untenable --
-  yet it is firmly maintained by some
-- theology can no longer be done in a vacuum without interaction with
-  all these disciplines
 
-**
-- some Christian traditions are clearly more open than others to the
-  truth claims of empirical evidence
+** And
+
+- how is it possible to incorporate religious perspectives from other cultures and religions
+- doctrinal statements and positions were developed through interplay of cultural, social, and political forces.
+- to maintain that all truth is found in the Bible seems untenable -- yet it is firmly maintained by some
+- theology can no longer be done in a vacuum without interaction with all these disciplines
+
+** And
+
+- some Christian traditions are clearly more open than others to the truth claims of empirical evidence
 - exploitation understood as sin
 - complicity in violence and genocide
-
-**
-- others?
