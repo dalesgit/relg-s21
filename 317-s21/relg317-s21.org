@@ -5955,8 +5955,5 @@ file:relg317-exam1-review.org
   file:present-org/9-1-leaving-19-c.org
   file:present-org/9-2-19th-to-20th-c.org
 *** Module 10 Current Scene
-  file:present-org/10-1-theology-new-philosophies.org
-
-
-  
-
+file:present-org/10-1-theology-new-philosophies.org
+[[file:present-org/knowledge-impact.org][Knowledge explosion]]
