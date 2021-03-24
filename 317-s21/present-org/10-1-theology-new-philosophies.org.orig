@@ -158,8 +158,11 @@
 
  Raimon Panikkar Alemany (November 2, 1918 -- August 26, 2010; also known as Raimundo Panikkar and Raymond Panikkar) was a Spanish Roman Catholic priest and a proponent of inter-religious dialogue. As a scholar, he specialized in *comparative religion*.
 
+<<<<<<< HEAD
+=======
 
 #+END_NOTES
+>>>>>>> ea15c42fc25c1f942acef66a0b03f15f283ed996
 ** Theology And The Religions
    :PROPERTIES:
    :CUSTOM_ID: theology-and-the-religions
@@ -169,6 +172,18 @@
  - Other theologians of pluralism have been less insistent that multiple religions are different ways of saying the same thing.
  - A Roman Catholic priest named Raimundo Pannikar, for example, born in Spain to a Hindu father and a Spanish mother, advocates a more strictly comparative approach. (p. 272)
 
+<<<<<<< HEAD
+
+
+* Footnotes
+
+[fn:1] cite:p.nHistory2013
+
+
+bibliographystyle:apalike
+* Bibliography
+bibliography:/home/dale/Dropbox/org-roam/winthrop-library.bib
+=======
 * Footnotes
 
 [fn:1] cite:p.nHistory2013 
@@ -179,3 +194,4 @@
 bibliographystyle:apalike
 bibliography:~/Dropbox/org-roam/winthrop-library.bib
 
+>>>>>>> ea15c42fc25c1f942acef66a0b03f15f283ed996
