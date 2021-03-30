@@ -1,0 +1,99 @@
+#+Title: Five Themes in Christian Thought
+#+Date: Spring 2021
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+
+* 1. Humanity and Divinity of Christ  [1]
+
+- In early church there was debate. Monotheism would seem to prevent the "divinity" of Christ.
+- "Christ" is a modifier -- it's not a name. It means "annointed" -- "oily"
+- Secular culture, some from Egypt, some from Greece, Some from the middle-east; contributed to a growing understanding of "Jesus the Christ" as a divine being.
+
+
+** Relationship between Father and Son
+
+- That gave rise to discussion about what kind of divine being.
+- On the one side of the spectrum was Arius -- on the other e.g. Athanasius. Arius preferred the gospel of Mark. Athanasius the gospel of John. Within the New Testament itself there is preserved this tension.
+- The final answer in the early church came in the form of the statements of the creeds -- especially the so-called "Nicene Creed". The theologians who voted in these councils were heavily pressured -- some have argued "bribed" -- to find the "right" answer. Geo-politics played a role.
+** What difference does it make?
+
+
+* 2. Reason and revelation
+
+- From the early church there was a tension. It is related to a tension between the relationship between secular culture and religious teaching. We might say between "church" and "academy".
+- "Academy" was the name of the school at which Aristotle taught in the 3rd c. BCE. It also might be applied to where we are here at WU.  [2]
+
+** The Christian church grew out of Judaism,
+- but took root in the Greco-Roman world.
+- What we call "Reason" in the 21st c. is not the same as was meant in 1st c. Palestine, Roman empire. For Greeks reason was the way one came to "know" and "understand" the creation -- the cosmos. There were several levels of reason: nous, episteme, scientia, logos all are words that contained elements of "reason". There was clearly a distinction between knowing as you might know a fact or even how to fly to the moon vs. "knowing oneself" with wisdom.
+- English cognates: *paranoia, epistemology, science, logic* -- the "logy" in a host of scientific studies
+** Judaism and ...
+Judaism, both ancient and modern, has a very different understanding of
+"faith" and "revelation" than is true in Christianity, ancient and
+modern.
+
+#+BEGIN_QUOTE
+  There is no established formulation of principles of faith that are
+  recognized by all branches of Judaism. Central authority in Judaism is
+  not vested in any one person or group - although the Sanhedrin, the
+  supreme Jewish religious court, would fulfill this role if it were
+  re-established - but rather in Judaism's sacred writings, laws, and
+  traditions.  [3]
+#+END_QUOTE
+** What difference does it make?
+* 3. Works and Grace
+
+- The tension in this theme was present in the New Testament, as we see in the debate between the apostle Paul and the Jerusalem church headed by James. What was at stake for them was really about identity, because the fledgling church sought to distinguish itself from its parent -- the Judaism of Jerusalem.
+- The Judaism of Jerusalem would be utterly destroyed in 70 CE, never to be reborn. Instead Judaism re-invented itself in the form of what we call "rabbinic Judaism". The sacred texts and sacred figures of this Judaism are reflected in the Mishnah, Gemara, and Talmud of the 3rd-5th centuries.
+** Reformation and ...
+- In the Reformation this became a central theme in a way it had not been before. It was about how one was "justified" before God. In a simplistic way, we could place Luther and the reformers on the side of Grace and the Catholic church on the side of Works, with the Anglican church trying to hold the middle position.
+- "Justification" and "Atonement" are concepts trying to speak to the relationship between God and the human. There is considerable discussion throughout the period of our course, the 17th-21st centuries, about what is the best language to use about the relationship between God and humans.
+- For some there is no language that is truly adequate. Others hold tightly onto classical formulations.
+** What difference does it make?
+* 4. Spirit and Structure
+
+- It was only gradually that there developed a strong sense of the "Spirit" in theology. The earliest debates were about the relationship between Jesus/ the Christ and God the Father. As Trinitarian theology developed in the 4th century and beyond there was a growing concern about the nature of the 3rd element of the Trinitarian faith -- the "Holy Spirit."
+- Eventually those debates became so heated that the Orthodox Christian churches of the East separated from the Western church centered in Rome. They anathematized one another in 1054 CE.  [4]
+** Ongoing debate
+- Historically, the church has debated about the right ways to believe -- "orthodoxy" -- and the right way to act -- "orthopraxis". The institution has often been pitted against local communities. Placher says on p. 5
+
+#+BEGIN_QUOTE
+  These debates have raged from the time of the Montanists in the second
+  century, to medieval arguments about the papacy and the sacraments,
+  through the Reformation to the present. Christianity cannot exist in
+  history without taking a particular form---no faith can---but some
+  Christians always resist identifying that form with the action of God.
+#+END_QUOTE
+** Charisma (gifts)
+- "Charismatic" energy has often been a creative force while the institution normally prefers structure. Earlier in his text Placher spends some time discussing the "Montanists", key figures in the transition from "charisma to hierarchy". This kind of tension can be traced throughout the life of the church.
+- Look up "Holy Spirit" and "charismatic leadership" in the index for further connections with the development of theology.
+** What difference does it make?
+* 5. Church and State
+
+- The first relationship the earliest Christians had with the State was not very favorable. Jesus himself was executed by the State, i.e. Rome. Christianity was illegal for a time and suffered "intermittent persecutions." (p. 5) By the 4th c., however, Christians began to hold political power. In time they held considerable political power.
+- In most religions around the world they is a symbiotic relationship between religious authorities and secular authorities. Sometimes they have coincided, but mostly they live in tension and partnership with one another. It is no different with the Christian church throughout the centuries.
+** Reformation and ...
+- As we have seen in the pages on the Anabaptists and other radical Reformers, there is a strand within Christianity that sees itself over and against the state. This was in part the motivation of the Desert Fathers and Mothers in the 3rd-4th centuries.
+- The controversy of Arminius centered around precisely this issue. Calvin advocated for a very tight relationship between church and state.
+- The founding of the U.S. -- the "City on a hill" -- has provided an almost unique experiment in separating church from state. Sometimes in our national history the distance has been greater, sometimes nearer.
+- The Catholic Church has in its own way struggled with the tension for longer than other wings of the Christian church.
+** What difference does it make?
+* Notes
+[1] https://www.smp.org/dynamicmedia/files/e7e7384c1469d796b23216aa83a9ecbd/TX002920-1-background-The\_Divinity\_of\_Jesus.pdf
+
+[2] https://iep.utm.edu/faith-re/
+
+[3] https://en.wikipedia.org/wiki/Jewish\_principles\_of\_faith
+
+[4] https://www.learnreligions.com/the-great-schism-of-1054-4691893
