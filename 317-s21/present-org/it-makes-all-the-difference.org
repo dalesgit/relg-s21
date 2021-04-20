@@ -1,0 +1,162 @@
+#+TITLE: It Makes All The Difference
+#+Date: Spring 2021 
+#+Email: hathawayd@winthrop.edu
+ #+OPTIONS: reveal_width:1000 reveal_height:800 
+ #+REVEAL_MARGIN: 0.1
+ #+REVEAL_MIN_SCALE: 0.5
+ #+REVEAL_MAX_SCALE: 2
+ #+REVEAL_HLEVEL: 1h
+ #+OPTIONS: toc:1 num:nil
+ #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal">
+ #+REVEAL_POSTAMBLE: <p> Created by Dale Hathaway. </p>
+ #+REVEAL_PLUGINS: (markdown notes menu)
+ #+REVEAL_THEME: beige
+#+REVEAL_ROOT: ../../reveal.js/
+
+## An exercise in "It makes all the difference"
+
+### Introduction
+
+I'm calling this talk "This changes everything." In it I share with you a handful of "ah-hah" moments in my life when I have come to the conclusion that I can't think of Christian theology in the same way any more. In our final class I wanted to share my thoughts with you as examples of one person's grappling with the developments of the modern age. It is not in order to convince you that my conclusions ought to be your conclusions. I am convinced, however, that contemporary Christian thought -- the "end" of our course this semester -- can not be done as "business as usual." I hope it will prompt a fitting concluding conversation for us.
+
+### I think one could make the case that each of the chapters we have looked at contain one or more "This changes everything" developments.
+
+- Luther's conversion and experience of grace
+- Erasmus' humanist discoveries
+
+* Voltaire's questioning God's role in the Lisbon earthquake
+
+* Winthrop's vision of beacon for all the world to see
+
+* Barth's shattering awareness of the German church's defense of the war-making state in WWI
+
+* developments in science, physics, philology, history, math, and many other areas of human understanding, leading to exponential growth of knowledge
+
+### We understand only backwards -- but we must Live forwards
+
+What is true is more like telling stories and less like philosophical or scientific propositions.
+
+- “God Loves Stories”
+A Story, as told by Elie Wiesel:
+
+When the great Rabbi Israel Baal Shem Tov saw misfortune threatening
+the Jews it was his custom to go into a certain part of the forest to
+meditate. There he would light a fire, say a special prayer, and the miracle
+would be accomplished and the misfortune averted.
+Later, when his disciple, the celebrated Magid of Mezritch, had occasion,
+for the same reason, to intercede with heaven, he would go to the same
+place in the forest and say: "Master of the Universe, listen! I do not know
+how to light the fire, but I am still able to say the prayer." And again the
+miracle would be accomplished.
+
+Still later, Rabbi Moshe-Leib of Sasov, in order to save his people once
+more, would go into the forest and say: "I do not know how to light the fire,
+I do not know the prayer, but I know the place and this must be sufficient."
+It was sufficient and the miracle was accomplished.
+Then it fell to Rabbi Israel of Rizhyn to overcome misfortune. Sitting in his
+armchair, his head in his hands, he spoke to G-d: "I am unable to light the
+fire and I do not know the prayer; I cannot even find the place in the forest.
+All I can do is to tell the story, and this must be sufficient.” And it was
+sufficient.
+
+G-d made man because He loves stories.
+
+So begins Elie Wiesel’s famous book, “Gates of the Forest.”
+- [Wiesel](http://www.templesolel.net/clientuploads/Sermons%20&%20Lectures/High%20Holy%20Day%20Sermons/RDF_YK_2016_God%20Loves%20Stories.pdf)
+
+re. summary
+
+Uncle Charlie -- Narrative reality [^2]
+
+[^2]: Stanley Hauerwas PhD (2005) Chapter 6. Must a Patient Be a Person to Be a Patient?, Journal of Religion, Disability & Health, 8:3-4, 113-119, DOI: 10.1300/J095v08n03_13 [Link](https://www.tandfonline.com/doi/abs/10.1300/J095v08n03_13) [Another overview of philosophical heritage](https://www.degruyter.com/document/doi/10.1515/9780822380368-005/html)
+
+The quote is from the first theologian I encountered in college, Søren Kierkegaard. Placher treats him as a reaction to Hegel. He gave the world the concept of "Christendom" which is to be contrasted with "Christian faith."
+
+Another theologian of the mid-20th c., John Macquarrie, described the discipline of theology as "God talk" -- i.e. using words to understand God and God's interaction with humans.
+
+If we can only understand "looking backwards" -- as we have done in this course -- but can only live going forwards -- i.e. without understanding, only trust -- then doing Christian theology is either not about real life or not about understanding.
+
+As one of my teachers put it, "If that is true it's important."
+
+### Christian complicity in evil
+
+Certain events of the last century, events that occurred with complicity and often defenders from the Christian faith, call into question the fundamental authority of the faith.
+
+- * Holocaust
+- * Slavery
+- * Global catastrophe
+
+The birth of Christianity arose in the context of separating itself from the parent religion, Judaism. From the beginning, there has been an incipient sense of, "We're not THAT."
+
+Christians adopted what Jews would call the "Bible" but called it the "Old Testament". The Old testament is done away with and the New replaces it.
+
+That's a crude and over-simplistic way of putting it, but it expresses what is I believe a deep conviction of the Christian world-view.
+
+The seeds of later virulent anti-semitism can be seen in the New Testament itself.
+
+The events of the 20th c. in what is commonly referred to as "the Holocaust" call into question that basic element of Christianity.
+
+Is it permissible to interpret the "Old Testament" as "pre-figuring" the New -- in the light of Christian complicity in anti-semitism over the course of 2,000 years?
+
+Is not the Christian defense of "slavery" more than just an abomination, but a blight on the whole traditional approach to Christian thought?
+
+If the world is in a head-long rush to annihilate life as we know it on earth, doesn't Christian thought have something to contribute to that?
+
+### What if our understanding of "God" is wrong?
+
+Going back to the beginning of our semester, we looked at various "proofs of the existence of God."
+
+At various points along the way, we have considered "theodicy" questions, questions arising out of conflict between the existence of evil and the profession of belief in an all-powerful and all-loving God.
+
+If it is the case that Christian thought has lumbered under the burden of carrying a Greco-Roman conception of divinity while ignoring the possibility that such a view of the divine may itself be "un-Christian" -- well, that might make all the difference."
+
+There are many in today's environment who have concluded that it is impossible to defend "classical theism".
+
+[Classical theism](https://en.wikipedia.org/wiki/Classical_theism#:~:text=Classical%20theism%20is%20a%20form,is%20a%20form%20of%20monotheism.)
+
+- Classical theism is a form of [monotheism](https://en.wikipedia.org/wiki/Monotheism "Monotheism"). Whereas most monotheists agree that God is, at minimum, [all-knowing](https://en.wikipedia.org/wiki/Omniscience "Omniscience"), [all-powerful](https://en.wikipedia.org/wiki/Omnipotence "Omnipotence"), and [completely good](https://en.wikipedia.org/wiki/Omnibenevolent "Omnibenevolent") [^1]
+
+[^1]:  [_Philosophy of Religion: An Anthology_](https://books.google.com/books?id=Lj1sucLzZmUC). Cengage Learning.
+
+Suffering God vs. "all-knowing, all-powerful, etc."
+
+- in contrast to other conceptions such as [pantheism](https://en.wikipedia.org/wiki/Pantheism "Pantheism"), [panentheism](https://en.wikipedia.org/wiki/Panentheism "Panentheism"), [polytheism](https://en.wikipedia.org/wiki/Polytheism "Polytheism"), [deism](https://en.wikipedia.org/wiki/Deism "Deism") and [process theism](https://en.wikipedia.org/wiki/Process_theology "Process theology").
+
+Process theology in the 20th c., descending from the philosophical work of Whitehead and the theological work of Charles Hartshorne, is the prominent expression of an alternative to "classical theism".
+
+Clearly there is energy being spent on trying to find "God-talk" that goes beyond the traditions we have inherited.  For myself, there is a fictional image, a narrative expression, that seems more true than any of the philosophical expressions I have encountered. It comes from the memoir of the Holocaust, *Night*, by Elie Wiesel.
+
+> The best-known scene in Elie Wiesel's book "Night" is apparently that of the execution. Three prisoners, two of them adults and the third a little boy, were hanged at the Buna camp in Auschwitz after being implicated by the Gestapo in the discovery of a weapons cache. The adults died immediately. But the little boy, who did not weigh much, hovered between life and death for more than half an hour.
+
+> "Where is God?" someone standing behind Wiesel asked, and Wiesel relates in the book that a voice from inside him replied: "Here, He is. He is hanging here on the gallows." [Haaretz](https://www.haaretz.com/1.4857128)
+
+A **suffering** God is clearly present in both Hebrew and Greek biblical scriptures. Is it compatible with "classical theism?"
+
+If this is true it's important.
+
+### Universal Truth? What is Truth?
+
+What we know? How do we know? What if there is only contextual knowledge?
+
+Math, Physics and sciences of all kinds have traditionally been intertwined  with Theology. There is considerable energy spent in resisting those interconnections in the modern American context.
+
+What we seem to "know" from a broad perspective is a vast interconnected universe, from the impossibly small to the impossibly large. But the impossible is not just possible, but presumed to be real.
+
+[Scientific objectivity](http://www.buddhivihara.org/from-quantum-physics-to-nibbana-2/) seems to be an illusion. There is a convergence of science and mysticism.
+
+- > "A particle is not a separate entity but a set of relationships. The world is an interconnected tissue of events, a dynamic unbroken whole. Scientists are no longer observers but participants. And physics and mysticism converge in striking parallels, leading back full circle: A powerful awareness lies dormant in these discoveries of modern physics. An awareness of the hitherto- unsuspected powers of the mind to mold reality, rather than the other way around."
+
+Article Source: http://EzineArticles.com/600428 [see also](https://ezinearticles.com/?Aces-Insights---Am-I-A-Particle?&id=600428) and also from [the little Zen companion](http://pq_zen.tripod.com/zen_western.html)
+- If this is true, it's important. This makes all the difference.
+
+Scale of universe
+
+- The world we live in is not anything like the world of our grandparents or patriarchs and matriarchs. What is real in our world is often beyond imagining.
+- [String exercise](https://prezi.com/2ocnrs77kd6f/rope-yarn-history-of-the-world-update-2014/?present=1) This is the context of time on earth. It's not all about us.
+- [video of scale upwards](https://youtu.be/17jymDn0W6U) This is a graphic view of the universe that we look out upon. It is impossibly big and huge and amazing. It's not all about us.
+- [Visualized](https://htwins.net/scale2/) this is an interactive  presentation of how we live in the midst of an utterly breath-taking universe. Smaller than
+- [Iphone app](https://apps.apple.com/us/app/the-scale-of-the-universe-2/id1062423259)
+
+If it is true, it is important. This makes all the difference.
+
+Zen and physics: [dancing wu-li masters](https://www.arvindguptatoys.com/arvindgupta/dancingmasters.pdf)
