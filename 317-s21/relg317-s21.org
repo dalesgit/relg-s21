@@ -5960,4 +5960,8 @@ file:present-org/10-1-theology-new-philosophies.org
 file:present-org/10-1-theology-new-philosophies.org
 [[file:present-org/5-themes.org][Five Themes]]
 * Concluding presentation
+
 [[file:present-org/it-makes-all-the-difference.org][It makes all the difference]]
+
+
+[[file:present-org/it-makes-all-the-difference-2.org][It makes all the difference (v2)]]
