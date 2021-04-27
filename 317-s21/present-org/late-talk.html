@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-04-20 Tue 09:58 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>It Makes All The Difference</title>
+<meta name="author" content="Dale Hathaway" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">It Makes All The Difference</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org7d8938a">Introduction</a></li>
+<li><a href="#org70dbe49">Major shifts in thought associated with major insights</a></li>
+<li><a href="#orgbdb40c1">&ldquo;We understand only backwards &#x2013; but we must Live forwards&rdquo;</a></li>
+<li><a href="#org8d24268">Christian complicity in evil</a></li>
+<li><a href="#orgbd7e9f3">What if our understanding of &ldquo;God&rdquo; is wrong?</a></li>
+<li><a href="#orga85ad97">Universal Truth? What is Truth?</a></li>
+<li><a href="#org6038022">What is your story?</a></li>
+</ul>
+</div>
+</div>
+
+
+
+<div id="outline-container-org7d8938a" class="outline-2">
+<h2 id="org7d8938a">Introduction</h2>
+<div class="outline-text-2" id="text-org7d8938a">
+<div class="NOTES" id="org840e17a">
+<p>
+I&rsquo;m calling this talk &ldquo;This changes everything.&rdquo; In it I share with you
+a handful of &ldquo;ah-hah&rdquo; moments in my life when I have come to the
+conclusion that I can&rsquo;t think of Christian theology in the same way any
+more. In our final class I wanted to share my thoughts with you as
+examples of one person&rsquo;s grappling with the developments of the modern
+age. It is not in order to convince you that my conclusions ought to be
+your conclusions. I am convinced, however, that contemporary Christian
+thought &#x2013; the &ldquo;end&rdquo; of our course this semester &#x2013; can not be done as
+&ldquo;business as usual.&rdquo; I hope it will prompt a fitting concluding
+conversation for us.
+</p>
+
+</div>
+</div>
+</div>
+
+<div id="outline-container-org70dbe49" class="outline-2">
+<h2 id="org70dbe49">Major shifts in thought associated with major insights</h2>
+<div class="outline-text-2" id="text-org70dbe49">
+<ul class="org-ul">
+<li>Luther&rsquo;s conversion and experience of grace</li>
+<li>Erasmus&rsquo; humanist discoveries</li>
+<li>Voltaire&rsquo;s questioning God&rsquo;s role in the Lisbon earthquake</li>
+<li>Winthrop&rsquo;s vision of beacon for all the world to see</li>
+<li>Barth&rsquo;s shattering awareness of the German church&rsquo;s defense of the war-making state in WWI</li>
+<li>developments in science, physics, philology, history, math, and many other areas of human understanding, leading to exponential growth of knowledge</li>
+</ul>
+
+<div class="notes" id="org1881f1f">
+<p>
+I think one could make the case that each of the chapters we have
+looked at contain one or more &ldquo;This changes everything&rdquo; developments.
+</p>
+
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgbdb40c1" class="outline-2">
+<h2 id="orgbdb40c1">&ldquo;We understand only backwards &#x2013; but we must Live forwards&rdquo;</h2>
+<div class="outline-text-2" id="text-orgbdb40c1">
+<p>
+What is <b>true</b> is more like telling stories and less like philosophical or
+scientific propositions.
+</p>
+
+<p>
+There is something essentially &ldquo;narrative&rdquo; about life.
+</p>
+</div>
+
+<div id="outline-container-org72551a1" class="outline-3">
+<h3 id="org72551a1">The quote is from the first theologian I encountered in college,</h3>
+<div class="outline-text-3" id="text-org72551a1">
+<p>
+Søren Kierkegaard. Placher treats him as a reaction to Hegel. He gave the world the concept of &ldquo;Christendom&rdquo; which is to be contrasted with
+&ldquo;Christian faith.&rdquo;
+</p>
+
+<p>
+Another theologian of the mid-20th c., John Macquarrie, described the discipline of theology as &ldquo;God talk&rdquo; &#x2013; i.e. using words to understand God and God&rsquo;s interaction with humans.
+</p>
+
+<p>
+If we can only understand &ldquo;looking backwards&rdquo; &#x2013; as we have done in this course &#x2013; but can only live going forwards &#x2013; i.e. without understanding, only trust &#x2013; then doing Christian theology is either not about real life or not about understanding.
+</p>
+
+<p>
+As one of my teachers put it, &ldquo;If that is true it&rsquo;s important.&rdquo;
+</p>
+</div>
+</div>
+
+<div id="outline-container-org58dcc91" class="outline-3">
+<h3 id="org58dcc91">“God Loves Stories” A Story, as told by Elie Wiesel:</h3>
+<div class="outline-text-3" id="text-org58dcc91">
+<p>
+When the great Rabbi Israel Baal Shem Tov saw misfortune threatening the Jews it was his custom to go into a certain part of the forest to meditate. There he would light a fire, say a special prayer, and the miracle would be accomplished and the misfortune averted. Later, when his disciple, the celebrated Magid of Mezritch, had occasion, for the same reason, to intercede with heaven, he would go to the same place in the forest and say: &ldquo;Master of the Universe, listen! I do not know how to light the fire, but I am still able to say the prayer.&rdquo; And again the miracle would be accomplished.
+</p>
+
+<p>
+Still later, Rabbi Moshe-Leib of Sasov, in order to save his people once more, would go into the forest and say: &ldquo;I do not know how to light the fire, I do not know the prayer, but I know the place and this must be sufficient.&rdquo; It was sufficient and the miracle was accomplished. Then it fell to Rabbi Israel of Rizhyn to overcome misfortune. Sitting in his armchair, his head in his hands, he spoke to G-d: &ldquo;I am unable to light the fire and I do not know the prayer; I cannot even find the place in the forest. All I can do is to tell the story, and this must be sufficient.” And it was sufficient.
+</p>
+
+<p>
+G-d made man because He loves stories.
+</p>
+
+<div class="notes" id="org7189849">
+<p>
+
+</p>
+
+<p>
+So begins Elie Wiesel&rsquo;s famous book, “Gates of the Forest.” - <a href="http://www.templesolel.net/clientuploads/Sermons%20&amp;%20Lectures/High%20Holy%20Day%20Sermons/RDF_YK_2016_God%20Loves%20Stories.pdf">Wiesel</a>
+</p>
+
+<p>
+re. summary
+</p>
+
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgdb780ec" class="outline-3">
+<h3 id="orgdb780ec">Uncle Charlie &#x2013; Narrative reality</h3>
+<div class="outline-text-3" id="text-orgdb780ec">
+<p>
+In a provocative essay on medical ethics, written many years ago, one of my teachers, Stanley Hauerwas, broke with a long history of theological ethics by arguing that we make decisions not on the basis of <b>principles</b> but rather on the basis of the stories we tell of ourselves.
+</p>
+
+<p>
+Theology should be done more like stories and less like philosophy or science.
+</p>
+
+<div class="notes" id="org85b1342">
+<p>
+
+</p>
+
+
+<p>
+[1] Stanley Hauerwas PhD (2005) Chapter 6. Must a Patient Be a Person to Be a Patient?, Journal of Religion, Disability &amp; Health, 8:3-4, 113-119, DOI: 10.1300/J095v08n03\<sub>13</sub> <a href="https://www.tandfonline.com/doi/abs/10.1300/J095v08n03_13">Link</a> and another <a href="https://www.degruyter.com/document/doi/10.1515/9780822380368-005/html">overview of philosophical heritage</a>
+</p>
+
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org8d24268" class="outline-2">
+<h2 id="org8d24268">Christian complicity in evil</h2>
+<div class="outline-text-2" id="text-org8d24268">
+<p>
+Certain events of the last century, events that occurred with complicity
+and often with defenders from the Christian faith, call into question the
+traditional authority of the faith.
+</p>
+
+<ul class="org-ul">
+<li>Holocaust</li>
+<li>Genocide of indigenous peoples</li>
+<li>Slavery</li>
+<li>Global catastrophe</li>
+</ul>
+</div>
+
+<div id="outline-container-org9884520" class="outline-3">
+<h3 id="org9884520">is Anti-semitism a part of Christianity?</h3>
+<div class="outline-text-3" id="text-org9884520">
+<ul class="org-ul">
+<li>The birth of Christianity arose in the context of separating itself from the parent religion, Judaism. From the beginning, there has been an incipient sense of, &ldquo;We&rsquo;re not THAT.&rdquo;</li>
+<li>Christians adopted what Jews would call the &ldquo;Bible&rdquo; but called it the &ldquo;Old Testament&rdquo;. The Old testament is done away with and the New replaces it.</li>
+<li>The seeds of later virulent anti-semitism can be seen in the New Testament itself.</li>
+</ul>
+
+<div class="notes" id="orgd380e72">
+<p>
+That&rsquo;s a crude and over-simplistic way of putting it, but it expresses
+what is I believe a deep conviction of the Christian world-view.
+</p>
+
+<p>
+e.g. in the letter to the Hebrews, blaming the crucifixion on &ldquo;the Jews&rdquo; in Gospel of John
+</p>
+
+</div>
+</div>
+</div>
+
+
+
+<div id="outline-container-org9ba8729" class="outline-3">
+<h3 id="org9ba8729">Holocaust</h3>
+<div class="outline-text-3" id="text-org9ba8729">
+<ul class="org-ul">
+<li>The events of the 20th c. in what is commonly referred to as &ldquo;the Holocaust&rdquo; call into question that basic element of Christianity.</li>
+<li>Is it permissible to interpret the &ldquo;Old Testament&rdquo; as &ldquo;pre-figuring&rdquo; the New &#x2013; in the light of Christian complicity in anti-semitism over the course of 2,000 years?</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge53c4d0" class="outline-3">
+<h3 id="orge53c4d0">Slavery and Genocide</h3>
+<div class="outline-text-3" id="text-orge53c4d0">
+<ul class="org-ul">
+<li>Is not the Christian defense of &ldquo;slavery&rdquo; more than just an abomination, but a blight on the whole traditional approach to Christian thought?</li>
+<li>Is a neutral stand, or &ldquo;a-political&rdquo; stance, an acceptable position to hold on these issues?</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org2af22f4" class="outline-3">
+<h3 id="org2af22f4">Global catastrophe</h3>
+<div class="outline-text-3" id="text-org2af22f4">
+<ul class="org-ul">
+<li>If the world is in a head-long rush to annihilate life as we know it on earth, doesn&rsquo;t Christian thought have something to contribute to that?</li>
+<li>These reflections suggest to me that deep self-reflection on the part of Christian theologians is appropriate</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgbd7e9f3" class="outline-2">
+<h2 id="orgbd7e9f3">What if our understanding of &ldquo;God&rdquo; is wrong?</h2>
+<div class="outline-text-2" id="text-orgbd7e9f3">
+<p>
+Going back to the beginning of our semester, we looked at various &ldquo;proofs of the existence of God.&rdquo;
+</p>
+
+<p>
+At various points along the way, we have considered &ldquo;theodicy&rdquo; questions, questions arising out of conflict between the existence of evil and the profession of belief in an all-powerful and all-loving God.
+</p>
+
+<p>
+If it is the case that Christian thought has lumbered under the burden of carrying a Greco-Roman conception of divinity while ignoring the possibility that such a view of the divine may itself be &ldquo;un-Christian&rdquo; &#x2013; well, that might make all the difference.&ldquo;
+</p>
+
+<p>
+There are many in today&rsquo;s environment who have concluded that it is impossible to defend &ldquo;classical theism&rdquo;.
+</p>
+
+<div class="notes" id="orge3029d0">
+<p>
+
+</p>
+
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Classical_theism#:~:text=Classical%20theism%20is%20a%20form,is%20a%20form%20of%20monotheism.">Classical theism</a>
+</p>
+
+</div>
+</div>
+
+<div id="outline-container-org7360670" class="outline-3">
+<h3 id="org7360670">What do we mean by &ldquo;Classical theism?</h3>
+<div class="outline-text-3" id="text-org7360670">
+<ul class="org-ul">
+<li>a form of <a href="https://en.wikipedia.org/wiki/Monotheism">monotheism</a>. Whereas most monotheists agree that God is, at minimum, <a href="https://en.wikipedia.org/wiki/Omniscience">all-knowing</a>, <a href="https://en.wikipedia.org/wiki/Omnipotence">all-powerful</a>, and <a href="https://en.wikipedia.org/wiki/Omnibenevolent">completely good</a></li>
+<li>in contrast to other conceptions such as
+<ul class="org-ul">
+<li><a href="https://en.wikipedia.org/wiki/Pantheism">pantheism</a>,</li>
+<li><a href="https://en.wikipedia.org/wiki/Panentheism">panentheism</a>,</li>
+<li><a href="https://en.wikipedia.org/wiki/Polytheism">polytheism</a>,</li>
+<li><a href="https://en.wikipedia.org/wiki/Deism">deism</a> and</li>
+<li><a href="https://en.wikipedia.org/wiki/Process_theology">process theism</a>.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-org07b5023" class="outline-3">
+<h3 id="org07b5023">Elie Wiesel <b>Night</b></h3>
+<div class="outline-text-3" id="text-org07b5023">
+<blockquote>
+<p>
+The best-known scene in Elie Wiesel&rsquo;s book &ldquo;Night&rdquo; is apparently that
+of the execution. Three prisoners, two of them adults and the third a
+little boy, were hanged at the Buna camp in Auschwitz after being
+implicated by the Gestapo in the discovery of a weapons cache. The
+adults died immediately. But the little boy, who did not weigh much,
+hovered between life and death for more than half an hour.
+</p>
+</blockquote>
+
+<blockquote>
+<p>
+&ldquo;Where is God?&rdquo; someone standing behind Wiesel asked, and Wiesel
+relates in the book that a voice from inside him replied: &ldquo;Here, He
+is. He is hanging here on the gallows.&rdquo;
+<a href="https://www.haaretz.com/1.4857128">Haaretz</a>
+</p>
+</blockquote>
+</div>
+</div>
+
+<div id="outline-container-org0be9520" class="outline-3">
+<h3 id="org0be9520">Suffering God vs. &ldquo;all-knowing, all-powerful, etc.&rdquo;</h3>
+<div class="outline-text-3" id="text-org0be9520">
+<ul class="org-ul">
+<li>Process theology in the 20th c., descending from the philosophical work of Whitehead and the theological work of Charles Hartshorne, is the prominent expression of an alternative to &ldquo;classical theism&rdquo;.</li>
+<li><p>
+Clearly there is energy being spent on trying to find &ldquo;God-talk&rdquo; that goes beyond the traditions we have inherited.
+</p>
+
+<div class="notes" id="org47c7880">
+<p>
+
+</p>
+
+
+<p>
+For myself, there is a fictional image, a narrative expression, that seems more true than any of the philosophical expressions I have encountered. It comes from the memoir of the Holocaust, <i>Night</i>, by Elie Wiesel.
+</p>
+
+</div></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org8eef7a8" class="outline-3">
+<h3 id="org8eef7a8">A <b>suffering</b> God</h3>
+<div class="outline-text-3" id="text-org8eef7a8">
+<ul class="org-ul">
+<li>is clearly present in both Hebrew and Greek biblical scriptures. Is it compatible with &ldquo;classical theism?&rdquo;</li>
+<li><b>If this is true it&rsquo;s important</b>.</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orga85ad97" class="outline-2">
+<h2 id="orga85ad97">Universal Truth? What is Truth?</h2>
+<div class="outline-text-2" id="text-orga85ad97">
+<p>
+What we know? How do we know? What if there is only contextual knowledge?
+</p>
+
+<p>
+Math, Physics and sciences of all kinds have traditionally been intertwined with Theology. There is considerable energy spent in resisting those interconnections in the modern American context.
+</p>
+
+<p>
+What we seem to &ldquo;know&rdquo; from a broad perspective is a vast interconnected universe, from the impossibly small to the impossibly large. But the impossible is not just possible, but presumed to be real.
+</p>
+</div>
+
+<div id="outline-container-orge8a1cde" class="outline-3">
+<h3 id="orge8a1cde"><a href="http://www.buddhivihara.org/from-quantum-physics-to-nibbana-2/">Scientific objectivity</a></h3>
+<div class="outline-text-3" id="text-orge8a1cde">
+<p>
+seems to be an illusion. There is a convergence of <b>science</b> and <b>mysticism</b>.
+</p>
+
+
+<blockquote>
+<p>
+&ldquo;A particle is not a separate entity but a set of relationships.
+The world is an interconnected tissue of events, a dynamic unbroken
+whole. Scientists are no longer observers but participants. And
+physics and mysticism converge in striking parallels, leading back
+full circle: A powerful awareness lies dormant in these discoveries
+of modern physics. An awareness of the hitherto- unsuspected powers
+of the mind to mold reality, rather than the other way around.&rdquo;
+</p>
+</blockquote>
+
+<div class="notes" id="org9a1cccd">
+<p>
+
+</p>
+
+
+
+<p>
+Article Source: <a href="http://ezinearticles.com/600428">http://ezinearticles.com/600428</a> <a href="https://ezinearticles.com/?Aces-Insights---Am-I-A-Particle?&amp;id=600428">see also</a> and also from <a href="http://pq_zen.tripod.com/zen_western.html">the little Zen companion</a> - If this is true, it&rsquo;s important. This makes all
+the difference.
+</p>
+
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2b6b167" class="outline-3">
+<h3 id="org2b6b167">Scale of universe</h3>
+<div class="outline-text-3" id="text-org2b6b167">
+<ul class="org-ul">
+<li>The world we live in is not anything like the world of our grandparents or patriarchs and matriarchs. What is real in our world is often beyond imagining.</li>
+<li>This is the context of time on earth. It&rsquo;s not all about us. <a href="https://prezi.com/2ocnrs77kd6f/rope-yarn-history-of-the-world-update-2014/?present=1">String exercise</a></li>
+<li>A graphic view of the universe as we &ldquo;know&rdquo; it today <a href="https://youtu.be/17jymDn0W6U">video of scale upwards</a></li>
+<li><a href="https://htwins.net/scale2/">Scale of the universe visualized</a> is an interactive presentation of how we live in the midst of an utterly breath-taking universe. Smaller than we can imagine. Larger than we can image.</li>
+<li><b>If it is true, it is important. This makes all the difference.</b></li>
+</ul>
+
+
+<div class="notes" id="org472d10f">
+<p>
+This is a graphic view of the universe that we look out upon. It is impossibly big and huge and amazing. It&rsquo;s not all about us.
+</p>
+
+<ul class="org-ul">
+<li><a href="https://apps.apple.com/us/app/the-scale-of-the-universe-2/id1062423259">Iphone app</a></li>
+</ul>
+
+<p>
+Zen and physics: <a href="https://www.arvindguptatoys.com/arvindgupta/dancingmasters.pdf">dancing wu-li masters</a>
+</p>
+
+<p>
+[1] Stanley Hauerwas PhD (2005) Chapter 6. Must a Patient Be a Person to Be a Patient?, Journal of Religion, Disability &amp; Health, 8:3-4, 113-119, DOI: 10.1300/J095v08n03\<sub>13</sub> <a href="https://www.tandfonline.com/doi/abs/10.1300/J095v08n03_13">Link</a> <a href="https://www.degruyter.com/document/doi/10.1515/9780822380368-005/html">Another overview of philosophical heritage</a>
+</p>
+
+<p>
+[2] <a href="https://books.google.com/books?id=Lj1sucLzZmUC"><i>Philosophy of Religion: An Anthology</i></a>. Cengage Learning.
+</p>
+
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org6038022" class="outline-2">
+<h2 id="org6038022">What is your story?</h2>
+<div class="outline-text-2" id="text-org6038022">
+<ul class="org-ul">
+<li>I have shared this glimpses into themes that have made a difference in how I think about Christian theology.</li>
+<li>Are there any themes that have done the same for you?</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: Spring 2021</p>
+<p class="author">Author: Dale Hathaway</p>
+<p class="date">Created: 2021-04-20 Tue 09:58</p>
+</div>
+</body>
+</html>
